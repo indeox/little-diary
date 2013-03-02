@@ -464,6 +464,9 @@
 
                     var date = moment(entry.date).format("MMMM Do YYYY");
                     $('.date').text(date);
+
+                    $('.weather').addClass(entry.weather);
+                    $('.wind').addClass(entry.wind);
                 }
 
             });
@@ -486,6 +489,9 @@
                 margin-right: 8px;*/
             }
 
+            header {
+                position: relative;
+            }
             h1 {
                 line-height: 1;
                 padding: 4px 0;
@@ -498,7 +504,65 @@
                 font-family: georgia;
                 text-transform: lowercase;
                 font-variant: small-caps;
+                font-weight: normal;
                 margin-bottom: 6px;
+            }
+            .weather {
+                background: transparent url(img/weather.png) -800px -200px no-repeat;
+                position: absolute;
+                display: block;
+                top:0;
+                right:40px;
+                height:55px;
+                width:55px;
+            }
+            .weather.sunny {
+                background-position: -100px -200px;
+            }
+            .weather.hazy {
+                background-position: -300px -200px;
+            }
+            .weather.cloudy {
+                background-position: -800px -200px;
+            }
+            .weather.drizzle {
+                background-position: -1100px -200px;
+            }
+            .weather.heavy-rain {
+                background-position: -1500px -200px;
+            }
+            .wind {
+                background: transparent url(img/wind.png) 0 0 no-repeat;
+                position: absolute;
+                display: block;
+                top:0;
+                right:0;
+                height:40px;
+                width:40px;                
+            }
+            .wind.n {
+                background-position: 0 0;
+            }
+            .wind.ne {
+                background-position: -108px 0;
+            }
+            .wind.e {
+                background-position: -208px 0;
+            }
+            .wind.se {
+                background-position: -308px 0;
+            }
+            .wind.s {
+                background-position: -408px 0;
+            }
+            .wind.sw {
+                background-position: -495px 0;
+            }
+            .wind.w {
+                background-position: -595px 0;
+            }
+            .wind.nw {
+                background-position: -695px 0;
             }
             .entry {
                 margin-bottom: 40px;
@@ -523,7 +587,11 @@
             <img src="http://api.tiles.mapbox.com/v3/henpe.map-puboj6e5/pin-m-ferry(-111.5667,-36.8167)/-20,0,1/384x200.png" width="382" class="map" />
             <!--img src="http://a.tiles.mapbox.com/v3/henpe.map-puboj6e5/18.085937499999996,0,1/384x200.png"/-->
             <!--img src="http://nysx.t.proxylocal.com/little-diary/384x200.png" width="384" class="dither" /-->
-            <h2 class="date">March 2nd 1776</h2>
+            <header>
+            	<h2 class="date"></h2>
+            	<span class="weather"></span>
+                <span class="wind"></span>
+            </header>
             <img src="http://nysx.t.proxylocal.com/little-diary/img/lrg_bunting_down.png">
             <p class="diary"></p>
             <img src="http://nysx.t.proxylocal.com/little-diary/img/lrg_bunting_up.png">

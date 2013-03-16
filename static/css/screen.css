@@ -21,6 +21,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    font-family: 'Old Standard TT', serif;
 }
 
 /*
@@ -78,20 +79,12 @@ textarea {
     resize: vertical;
 }
 
-/* ==========================================================================
-   Chrome Frame prompt
-   ========================================================================== */
-
 .chromeframe {
     margin: 0.2em 0;
     background: #ccc;
     color: #000;
     padding: 0.2em 0;
 }
-
-/* ==========================================================================
-   App styles
-   ========================================================================== */
 
 #map {
     width: 100%;
@@ -109,21 +102,15 @@ textarea {
     bottom:0;
     width:25%;
     background-color: rgba(255,255,255,0.8);
+    padding:10px 25px;
+    overflow-y:auto;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.chapter {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 1.4em;
+}
 
 /* ==========================================================================
    Helper classes

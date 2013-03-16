@@ -20,12 +20,13 @@ littlediary.Views.Entry = Backbone.View.extend({
     render: function() {
         this.$el.empty();
 
-        var entry = this.model.get('currentEntry');
+        var entry = this.model.get('currentEntry'),
+            values = entry.toJSON();
 
-        console.log("entry", entry.toJSON());
+        values.date = moment(values.date).format('MMMM Do YYYY');
 
         // Re-render;
-        this.$el.html(this.template(entry.toJSON()));
+        this.$el.html(this.template(values));
         
         return this;
     }

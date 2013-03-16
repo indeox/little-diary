@@ -1,0 +1,18 @@
+{
+  "name": "little-diary",
+  "version": "0.0.1",
+  "description": "Little Diary - data parser",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "tom",
+  "license": "BSD",
+  "dependencies": {
+    "colors"   :  "*",
+    "moment"  : "*",
+    "xpath" : "*",
+    "xmldom" : "*"
+  }
+}

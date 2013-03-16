@@ -27,10 +27,27 @@ def get_jinja2_template(path):
     jinja_environment = jinja2.Environment(loader=jinja2.FileSystemLoader([template_dir]))
     return jinja_environment.get_template(path)
 
+
+def get_journal_date_for(date):
+    # Returns a journal date for a given present date
+    start_year = 2012
+    journal_start_year = 1768
+    date = date.split('-')
+    journal_date = (journal_start_year + (int(date[0]) - start_year))
+    journal_date = str(journal_date) + '-' + date[1] + '-' + date[2]
+    return journal_date
+
+
 def get_journal_entry(date):
+    # Gets a journal entry for the given date
     json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
     json_data = json.loads(file(json_path, 'rb').read())
-    return json_data[date]
+
+    for key, entry in json_data.items():
+        if entry['date'] == date:
+            return entry
+
+    return False
 
 
 # http://remote.bergcloud.com/developers/reference/metajson
@@ -62,9 +79,10 @@ class EditionHandler(webapp2.RequestHandler):
         # Find the entry of the day
         # 2013-03-16T19:20:30.45+01:00
         edition_date = delivery_time.split('T')[0]
+        journal_date = get_journal_date_for(edition_date)
 
         # Extract values
-        values = get_journal_entry(edition_date)
+        values = get_journal_entry(journal_date)
 
         template = get_jinja2_template('templates/edition.html')
 
@@ -77,7 +95,7 @@ class SampleHandler(webapp2.RequestHandler):
     def get(self):
         # Extract values
         # TODO: Let's find a special date for this one
-        values = get_journal_entry('2013-04-11')
+        values = get_journal_entry('1768-10-28')
 
         template = get_jinja2_template('templates/edition.html')
 

@@ -29,7 +29,7 @@ def get_jinja2_template(path):
 
 def get_journal_entry(date):
     json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
-    json_data = json.loads(file(json_path,'rb').read())
+    json_data = json.loads(file(json_path, 'rb').read())
     return json_data[date]
 
 
@@ -62,7 +62,6 @@ class EditionHandler(webapp2.RequestHandler):
         # Find the entry of the day
         # 2013-03-16T19:20:30.45+01:00
         edition_date = delivery_time.split('T')[0]
-
 
         # Extract values
         values = get_journal_entry(edition_date)

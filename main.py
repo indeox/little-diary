@@ -15,6 +15,7 @@
 # limitations under the License.
 #
 import json
+import operator
 import jinja2
 import logging
 import os
@@ -117,6 +118,31 @@ class ConfigureHandler(webapp2.RequestHandler):
         pass  # TODO
 
 
+# Extracts the route data from the data.json file
+class RouteJsonHandler(webapp2.RequestHandler):
+    def get(self):
+        cache_key = 'route.json'
+        route = memcache.get(cache_key)
+        if route is None:
+            json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
+            json_data = json.loads(file(json_path, 'rb').read())
+
+            route = []
+
+            for key, entry in json_data.items():
+                if 'location' in entry:
+                    route.append({
+                        'date': key,
+                        'location': entry['location']
+                    })
+
+            route.sort(key=operator.itemgetter('date'))
+            memcache.add(cache_key, route, 60)
+
+        self.response.headers.add_header('Content-Type', 'application/json')
+        self.response.out.write(json.dumps(route))
+
+
 class MainHandler(webapp2.RequestHandler):
     def get(self, date):
         format = self.request.get('format', None)
@@ -133,6 +159,7 @@ class MainHandler(webapp2.RequestHandler):
 
 urls = [
     ('^/meta.json$', MetaJsonHandler),
+    ('^/route.json$', RouteJsonHandler),
     ('^/edition/?$', EditionHandler),
     ('^/sample/?$', SampleHandler),
     ('^/validate_config/?$', ValidateConfigHandler),

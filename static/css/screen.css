@@ -102,6 +102,14 @@ textarea {
     right: 0px;
     bottom: 0px;
 }
+.entry {
+    position: absolute;
+    top:0;
+    right:0;
+    bottom:0;
+    width:25%;
+    background-color: rgba(255,255,255,0.8);
+}
 
 
 

@@ -13,6 +13,7 @@ littlediary.Views.Application = Backbone.View.extend({
     },
 
     render: function() {
+        this.views.map.render();
         return this;
     },
 
@@ -20,7 +21,10 @@ littlediary.Views.Application = Backbone.View.extend({
         var self = this;
 
         if (route === 'entry') {
-            date = date || new moment().format("YYYY-MM-DD");
+            if (!date) {
+                var currentDate = new moment().format("YYYY-MM-DD");
+                date = currentDate.replace('2013', '1769'); // Quick hack to get it working, fix later
+            }
             this.$el.addClass('loading');
             this.model.fetchEntry(date).done(function() {
                 self.views.entry.render();

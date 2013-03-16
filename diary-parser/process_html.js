@@ -44,12 +44,12 @@ for (var i = 0; i < chaptersDom.length; i++) {
       presentDate = moment(currentMonth + " " + entryDate + " " + (presentDayYear + (currentYear-startYear)));
     }
 
+    var cleanParagraph = cleanParagraphText(paragraph);
 
 
     diaryEntries[historicalDate.format("YYYY-MM-DD").valueOf()]  = {
-      diary: paragraph,
+      diary: cleanParagraph,
       date: historicalDate.format("YYYY-MM-DD").valueOf(),
-      presentDay: presentDate.format("YYYY-MM-DD").valueOf(),
       weather: decideWeather(paragraph),
       wind: decideWind(paragraph),
       location: extractLocation(paragraph),
@@ -61,8 +61,17 @@ for (var i = 0; i < chaptersDom.length; i++) {
 
 }
 
-//console.log(diaryEntries)
 console.log(JSON.stringify(diaryEntries, null, 4));
+
+
+
+
+
+function cleanParagraphText(text) {
+  var cleanTxt = text.replace(/(\* \(\*([^\)]+)\))/gi, '<em>$2</em>');
+  return cleanTxt;
+}
+
 function csvLatLong(diaryEntries) {
   var ll = [];
   for (var e in diaryEntries) {

@@ -43,11 +43,7 @@ def get_journal_entry(date):
     json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
     json_data = json.loads(file(json_path, 'rb').read())
 
-    for key, entry in json_data.items():
-        if entry['date'] == date:
-            return entry
-
-    return False
+    return json_data[date]
 
 
 # http://remote.bergcloud.com/developers/reference/metajson

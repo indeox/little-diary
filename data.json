@@ -1,0 +1,692 @@
+{
+  "2013-02-02": {
+    "diary": "Thursday, 2nd. First part, light breezes and Cloudy; remainder, sometimes a fresh breeze and at other times little wind and hazey, rainy, Cold weather. Took in the Steeringsls and a reef in each Topsail. Wind variable, North-North-West, South-West and South; course, West by North; distance, 82 miles; latitude 58 degrees 30 minutes South, longitude 80 degrees 58 minutes West.",
+    "date": "1769-02-02",
+    "weather": "",
+    "location": [
+      -58.5,
+      -80.96666666666667
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-03": {
+    "diary": "Friday, 3rd. Calm and Light Airs, and for the most part Cloudy and sometimes drizling rain. Variation 24 degrees 4 minutes East. Wind, West by North, North-West by West; course South 82 West; distance 30 miles; latitude 58 degrees 33 minutes South, longitude 81 degrees 55 minutes West.",
+    "date": "1769-02-03",
+    "weather": "",
+    "location": [
+      -58.55,
+      -81.91666666666667
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-04": {
+    "diary": "Saturday, 4th. Fore and Middle parts, little wind and dark cloudy weather; latter, fresh Gales and Cloudy with some rain. P.M. had a Boat out and Shott several sorts of Birds, one of which was an Albetross as large as a Goose, whose wings when Extended measured 10 feet 2 inches; this was grey, but there are of them all White except the very tip end of their Wings. Another sort, in size between an Albetross and a large Gull, of a grey Colour, with a white Spot above their Tail about the Breadth of one's hand, and several other sorts. Wind Westerly; course North 13 degrees West; distance 48 miles; latitude 57 degrees 45 minutes South, longitude 82 degrees 16 minutes West.",
+    "date": "1769-02-04",
+    "weather": "",
+    "location": [
+      -57.75,
+      -82.26666666666667
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-05": {
+    "diary": "Sunday, 5th. Fresh gales with heavy squalls the first part; remainder, little wind and Cloudy. Very cold weather. Wind, West-South-West, West by North and South-West by West; course North; distance 49 miles; latitude 56 degrees 46 minutes South, longitude 82 degrees 16 minutes West.",
+    "date": "1769-02-05",
+    "weather": "",
+    "location": [
+      -56.766666666666666,
+      -82.26666666666667
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-06": {
+    "diary": "Monday, 6th. A moderate breeze of Wind with some flying showers of hail and rain; close upon a Wind all this day. Wind South-West by West to West by North; course North 1/4 East; distance 86 miles; latitude 55 degrees 20 minutes South, longitude 82 degrees 23 minutes West.",
+    "date": "1769-02-06",
+    "weather": "",
+    "location": [
+      -55.333333333333336,
+      -82.38333333333334
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-07": {
+    "diary": "Tuesday, 7th. A fresh breeze and dark cloudy weather, with some showers of rain; the wind, varying from West to North by West, obliged us to Tack several times. Wind North-West by West, West by South; course North 20 degrees West; distance 46 miles; latitude 54 degrees 40 minutes South, longitude 82 degrees 54 minutes West.",
+    "date": "1769-02-07",
+    "weather": "",
+    "location": [
+      -54.666666666666664,
+      -82.9
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-08": {
+    "diary": "Wednesday, 8th. First part, cloudy with Squalls of wind and Showers of rain and hail; Latter part thick hazey weather, with frequent Showers. Wind, Westerly, South by West; course North 14 degrees 43 minutes West; distance 58 miles; latitude 53 degrees 36 minutes South, longitude 83 degrees 19 minutes West.",
+    "date": "1769-02-08",
+    "weather": "",
+    "location": [
+      -53.6,
+      -83.31666666666666
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-09": {
+    "diary": "Thursday, 9th. Fresh gales all this day, sometimes squally with rain; under Double-reef Topsails in the night, and Single-reeft Topsail in the day. Wind Southerly; course North 55 degrees West: distance 130 miles; latitude 52 degrees 22 minutes South, longitude 86 degrees 17 minutes West.",
+    "date": "1769-02-09",
+    "weather": "",
+    "location": [
+      -52.36666666666667,
+      -86.28333333333333
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-10": {
+    "diary": "Friday, 10th. The former part of this day had fresh breezes and Dark cloudy weather; in the night hard Squalls with rain, and afterwards hazy, rainy weather. Wind Westerly; course North 22 degrees West; distance 67 miles; latitude 51 degrees 16 minutes South, longitude 86 degrees 37 minutes West.",
+    "date": "1769-02-10",
+    "weather": "",
+    "location": [
+      -51.266666666666666,
+      -86.61666666666666
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-11": {
+    "diary": "Saturday, 11th. Former part Light Airs with drizling rain; remainder, a Moderate breeze and Cloudy. Wind, variable, southerly; course, North 54 degrees West; distance 36 miles; latitude 50 degrees 55 minutes South, longitude 87 degrees 24 minutes West.",
+    "date": "1769-02-11",
+    "weather": "",
+    "location": [
+      -50.916666666666664,
+      -87.4
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-12": {
+    "diary": "Sunday, 12th. First and Middle parts, fresh gales and cloudy; latter, little wind and clear. Having for some time past generally found the Ship by Observation to the Northward of the Log, which is not owing to a Current as I at first imagined, but to a wrong Division of the Log line, being 2 1/2 feet in each Knot--but this is now rectified. Wind South-West by South; course North 48 degrees West; distance 113 miles; latitude 49 degrees 41 minutes South, longitude 89 degrees 36 minutes West.",
+    "date": "1769-02-12",
+    "weather": "",
+    "location": [
+      -49.68333333333333,
+      -89.6
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-13": {
+    "diary": "Monday, 13th. The first part of these 24 Hours, moderate breezes and Cloudy; remainder, fresh Gales and cloudy. P.M saw a great many Albetrosses and other Birds about the Ship; some were all white and about the size of Teal. Took several Observations of the sun and moon, the result of which gave 90 degrees 13 minutes West Longitude from Greenwich. The Variation of the Compass by the Mean of several Azimuths 17 degrees East. The Longitude by account is less than that by Observation, 37 minutes, which is about 20 Miles in these high Latitudes, and nearly equal to the Error of the Log line before mentioned. This near Agreement of the 2 Longitudes proves to a Demonstration that we have had no Western Current since we left the Land. Wind West, Northerly; course North 75 degrees West; distance 35 miles; latitude 49 degrees 35 minutes, longitude 90 degrees 37 minutes.",
+    "date": "1769-02-13",
+    "weather": "",
+    "location": [
+      -49.68333333333333,
+      -89.6
+    ],
+    "chapter": "Off Cape Horn."
+  },
+  "2013-02-14": {
+    "diary": "Tuesday, 14th. The first part, fresh Gales and Hazey with rain; the remainder moderate and Cloudy, with frequent rain. Wind, Westerly, South; course South-West; distance 32 miles; latitude 49 degrees 6 minutes South, longitude 91 degrees 12 minutes West.",
+    "date": "1769-02-14",
+    "weather": "",
+    "location": [
+      -49.1,
+      -91.2
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-15": {
+    "diary": "Wednesday, 15th. Little wind and Cloudy the most part of this day. Variation per Azimuth in the Evening 12 degrees East, and in the morning both by an Amplitude and an Azimuth 11 degrees East. A.M. Shifted the Mainsail, Mizen, Fore, and Main topsail. Wind, South-South-West, South-West, West by North; course North 46 degrees West; distance 86 miles; latitude 48 degrees 27 minutes South, longitude 92 degrees 5 minutes West.",
+    "date": "1769-02-15",
+    "weather": "",
+    "location": [
+      -48.45,
+      -92.08333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-16": {
+    "diary": "Thursday, 16th. The first part of this day had fresh Gales and Cloudy; in the night thick hazey weather with heavy squalls of wind and rain, which obliged us to close-reef our Topsails. In the morning and all the forenoon had strong gales and cloudy weather, and very heavy Seas from the South-South-West, one of which broke upon the Quarter and carried away the Driver Boom. Wind North-West, West, and South; course North 74 degrees West; distance 97 miles; latitude 48 degrees 0 minutes South, longitude 94 degrees 25 minutes West.",
+    "date": "1769-02-16",
+    "weather": "",
+    "location": [
+      -48,
+      -94.41666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-17": {
+    "diary": "Friday, 17th. Strong Gales and Cloudy the most part of this day. Split the Maintopsail and unbent it, and bent another. Wind South-South-West; course North-West by West 1/2 West; distance 132 miles; latitude 46 degrees 48 minutes South, longitude 97 degrees 17 minutes West.",
+    "date": "1769-02-17",
+    "weather": "",
+    "location": [
+      -46.8,
+      -97.28333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-18": {
+    "diary": "Saturday, 18th. Fresh gales all this day. The weather Variable, sometimes fair and Cloudy, other times hazey, with drizzling rain. Saw some Birds nearly as big as Albetrosses; they were all black, with Yellow Beaks. Wind South-West by West; course North 32 degrees 30 minutes West; distance 140 miles; latitude 44 degrees 50 minutes South, longitude 99 degrees 7 minutes West.",
+    "date": "1769-02-18",
+    "weather": "",
+    "location": [
+      -44.833333333333336,
+      -99.11666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-19": {
+    "diary": "Sunday, 19th. First part, fresh Gales and Hazey; the Middle part, hazey, with drizling rain; the latter, gentle breezes and fine Clear weather, yet the Air is still Cold. Wind South-West by West to West by South; course North-North-West 3/4 West; distance 103 miles; latitude 43 degrees 21 minutes South, longitude 100 degrees 21 minutes West.",
+    "date": "1769-02-19",
+    "weather": "",
+    "location": [
+      -43.35,
+      -100.35
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-20": {
+    "diary": "Monday, 20th. Moderate breezes and fine weather the greater part of this day, and the Sea very smooth. Found by repeated trials that the South point of the Dipping Needle Dip'd 65 degrees 52 minutes below the Horizon. Wind Westerly; course South 65 degrees West; distance 58 miles; latitude 43 degrees 46 minutes South, longitude 101 degrees 34 minutes West.",
+    "date": "1769-02-20",
+    "weather": "",
+    "location": [
+      -43.766666666666666,
+      -101.56666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-21": {
+    "diary": "Tuesday, 21st. Fresh breezes and pretty Clear weather. Variation 6 degrees 30 minutes East. Wind North-West; course South 62 degrees West; distance 115 miles; latitude 44 degrees 39 minutes South, longitude 103 degrees 54 minutes West.",
+    "date": "1769-02-21",
+    "weather": "",
+    "location": [
+      -44.65,
+      -103.9
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-22": {
+    "diary": "Wednesday, 22nd. Hazey, rainy weather the most part of this Day. Wind North-Westerly; course South 86 degrees West; distance 91 miles; latitude 44 degrees 46 minutes South, longitude 106 degrees 1 minute West.",
+    "date": "1769-02-22",
+    "weather": "",
+    "location": [
+      -44.65,
+      -103.9
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-23": {
+    "diary": "Thursday, 23rd. Little wind and Calm, and some Lightning, a thing we have not seen for some time past, and therefore suppose not common in these Seas in high Latitudes. Variation 5 degrees 34 minutes East. Wind North-West, calm; course North 30 degrees East; distance 13 miles; latitude 44 degrees 35 minutes South, longitude 105 degrees 52 minutes West.",
+    "date": "1769-02-23",
+    "weather": "",
+    "location": [
+      -44.583333333333336,
+      -105.86666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-24": {
+    "diary": "Friday, 24th. First part, Calm; Middle, light breezes; latter, fresh breezes and hazey. P.M. had several Azimuths, all of which gave the Variation less than 4 degrees East, but they were a little doubtful on account of the Rowling of the Ship. What winds we have had this day hath been from the Eastward, and are the first we have had from that Quarter since we left the Latitude 58 degrees 46 minutes. Wind calm, East-North-East and East-South-East; course North 42 degrees 45 minutes West; distance 79 miles: latitude 43 degrees 37 minutes South, longitude 107 degrees 6 minutes West.",
+    "date": "1769-02-24",
+    "weather": "",
+    "location": [
+      -43.61666666666667,
+      -107.1
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-25": {
+    "diary": "Saturday, 25th. First and Middle parts, fresh Gales and Cloudy, with some rain; the Latter, little Wind and Cloudy. Wind South-East by East, South-South-East; course North 48 degrees 30 minutes West; distance 112 miles; latitude 42 degrees 23 minutes South, longitude 109 degrees 0 minutes West.",
+    "date": "1769-02-25",
+    "weather": "",
+    "location": [
+      -42.38333333333333,
+      -109
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-26": {
+    "diary": "Sunday, 26th. First part, Calm and light Airs; remainder, very strong gales and Squally, with Showers of rain, which at length brought us under our two Courses, and close-reefed Maintopsail. Wind calm, North-West and West-South-West; course North 26 degrees 15 minutes West; distance 88 miles; latitude 41 degrees 4 minutes South, longitude 109 degrees 52 minutes West.",
+    "date": "1769-02-26",
+    "weather": "",
+    "location": [
+      -41.06666666666667,
+      -109.86666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-27": {
+    "diary": "Monday, 27th. First part, Strong Gales and Cloudy; the remainder, Gentle Breezes and clear weather. P.M. set the topsail one Reef out. A large swell from the South-West. Wind westerly; course North 18 degrees West; distance 85 miles; latitude 39 degrees 43 minutes South, 110 degrees 26 minutes West.",
+    "date": "1769-02-27",
+    "weather": "",
+    "location": [
+      -41.06666666666667,
+      -109.86666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-02-28": {
+    "diary": "Wednesday, March 1st. First part fresh breezes, the remainder moderate breezes and clear weather. The result of the Forementioned Observations gives 110 degrees 33 minutes West Longitude from Greenwich, and exactly agrees with the Longitude given by the Log from Cape Horn. This Agreement of the two Longitudes after a Run of 660 leagues is surprizing, and much more than could be expected; but, as it is so, it serves to prove, as well as the repeated trials we have made when the weather would permit, that we have had no Current that hath Affected the Ship since we came into these Seas. This must be a great Sign that we have been near no land of any extent, because near land are generally found Currents. It is well known that on the East side of the Continent in the North Sea we meet with Currents above 100 Leagues from the Land, and even in the Middle of the Atlantic Ocean, between Africa and America, are always found Currents; and I can see no reason why Currents should not be found in this Sea, supposing a Continent or lands lay not far West from us, as some have imaggin'd, and if such land was ever seen we cannot be far from it, as we are now 560 leagues West of the Coast of Chili.* (* These are instances of Cook's observation and seamanlike perspicacity. The prevailing belief of the time was in a great southern continent.) Wind West by South; course North 76 degrees West; distance 52 miles; latitude 38 degrees 44 minutes South, longitude 111 degrees 43 minutes West; at noon, Cape Horn South 60 degrees East 660 leagues.",
+    "date": "1769-02-28",
+    "weather": "",
+    "location": [
+      -38.733333333333334,
+      -111.71666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-02": {
+    "diary": "Thursday, 2nd. Former part, fresh gales and hazey, with much rain; the remainder, a Strong fresh gale and pretty clear weather. Wind Westerly; course North by West; distance 87 miles; latitude 37 degrees 16 minutes South, longitude 112 degrees 5 minutes West.",
+    "date": "1769-03-02",
+    "weather": "",
+    "location": [
+      -37.266666666666666,
+      -112.08333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-03": {
+    "diary": "Friday, 3rd. First part, moderate breezes; remainder, calm and clear weather. A.M. employed filling salt Water in the Fore Hold and airing all the Spare Sails. Wind West, calm; course North 17 degrees East; distance 31 miles; latitude 36 degrees 49 minutes South, longitude 111 degrees 34 minutes West.",
+    "date": "1769-03-03",
+    "weather": "",
+    "location": [
+      -36.81666666666667,
+      -111.56666666666666
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-04": {
+    "diary": "Saturday, 4th. First part, Calm; remainder, a fine genteel breeze and clear weather. Variation per Azimuth and Amplitude this Evening 2 degrees 26 minutes East. The South-West swell still keeps up, notwithstanding it hath been Calm 24 hours. Wind calm, North-East, North; course North 50 degrees West; distance 58 miles; latitude 36 degrees 12 minutes South, longitude 112 degrees 50 minutes West.",
+    "date": "1769-03-04",
+    "weather": "",
+    "location": [
+      -36.2,
+      -112.83333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-05": {
+    "diary": "Sunday, 5th. First and latter parts, fine Clear weather; the Middle, fresh gales and Hazey, with rain. Wind North-West by North and North-West; course South 81 degrees 40 minutes West; distance 64 miles; latitude 36 degrees 21 minutes South, longitude 114 degrees 9 minutes West.",
+    "date": "1769-03-05",
+    "weather": "",
+    "location": [
+      -36.35,
+      -114.15
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-06": {
+    "diary": "Monday, 6th. Moderate breezes and Tolerable clear weather all this day. The wind a little Variable, which caused us to Tack several Times. Wind North-West by North to West-North-West; course South 57 degrees West; distance 20 miles; latitude 36 degrees 32 minutes South, longitude 114 degrees 30 minutes West.",
+    "date": "1769-03-06",
+    "weather": "",
+    "location": [
+      -36.53333333333333,
+      -114.5
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-07": {
+    "diary": "Tuesday, 7th. A Moderate steady breeze and clear weather. Wind North-West; course South 64 degrees 15 minutes West; distance, 83 miles; latitude 37 degrees 8 minutes South, longitude 116 degrees 8 minutes West.",
+    "date": "1769-03-07",
+    "weather": "",
+    "location": [
+      -37.13333333333333,
+      -116.13333333333334
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-08": {
+    "diary": "Wednesday, 8th. The first and Middle parts moderate breezes and Cloudy; the Latter Part Variable winds and much Rain. Wind North-West, variable; course South 78 degrees West; distance, 76 miles; latitude 37 degrees 24 minutes South, longitude 117 degrees 41 minutes West.",
+    "date": "1769-03-08",
+    "weather": "",
+    "location": [
+      -37.4,
+      -117.68333333333334
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-09": {
+    "diary": "Thursday, 9th. First part, moderate and Hazey, with Drizling rain; the remainder fresh breezes and clear weather. Variation 4 degrees 41 minutes east. Wind South-West by West to South by East; course North 38 degrees West; distance 123 miles; latitude 35 degrees 47 minutes South, longitude 119 degrees 18 minutes West.",
+    "date": "1769-03-09",
+    "weather": "",
+    "location": [
+      -35.78333333333333,
+      -119.3
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-10": {
+    "diary": "Friday, 10th. Moderate breezes and fine Pleasant weather. Wind South-East; course North 40 degrees West; distance 121 miles; latitude 34 degrees 14 minutes South, longitude 120 degrees 54 minutes West.",
+    "date": "1769-03-10",
+    "weather": "",
+    "location": [
+      -34.233333333333334,
+      -120.9
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-11": {
+    "diary": "Saturday, 11th. A Steady gale and fine weather. Variation 4 degrees 12 minutes East. Wind South-East; course North 46 degrees 15 minutes West; distance 116 miles; latitude 32 degrees 54 minutes South, longitude 122 degrees 35 minutes West.",
+    "date": "1769-03-11",
+    "weather": "",
+    "location": [
+      -32.9,
+      -122.58333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-12": {
+    "diary": "Sunday, 12th. Ditto weather. Variation 4 degrees 12 minutes East. Put the Ship's Company to three Watches, they having been at Watch and Watch since our first arrival on the coast of Terra del Fuego. Wind South-East; course North 49 degrees West; distance 122 miles; latitude 31 degrees 34 minutes South, longitude 124 degrees 25 minutes West.",
+    "date": "1769-03-12",
+    "weather": "",
+    "location": [
+      -31.566666666666666,
+      -124.41666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-13": {
+    "diary": "Monday, 13th. First part a Steady, fresh Gale; the remainder, little wind and fine Clear weather. Wind South-East; course North 48 degrees 15 minutes West; distance 72 miles; latitude 30 degrees 46 minutes South, longitude 125 degrees 28 minutes West.",
+    "date": "1769-03-13",
+    "weather": "",
+    "location": [
+      -30.766666666666666,
+      -125.46666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-14": {
+    "diary": "Tuesday, 14th. Little wind and fine Pleasant weather. At 3 p.m. took several Observations of the sun and moon; the mean result of which gave 126 degrees 20 minutes 45 seconds, the Longitude of the Ship West of Greenwich, and is 47 degrees Longitude West of account carried on from Cape Horn. Wind South, East-South-East, East-North-East; course North 50 degrees West; distance 47 miles; latitude 30 degrees 17 minutes South, longitude 126 degrees 10 minutes West.",
+    "date": "1769-03-14",
+    "weather": "",
+    "location": [
+      -30.283333333333335,
+      -126.16666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-15": {
+    "diary": "Wednesday, 15th. Light breezes and clear weather. Variation, p.m. 3 degrees 45 minutes East, a.m. 3 degrees 22 minutes East. Saw a Tropic Bird. Wind, East-North-East and East-South-East; course, North 47 degrees 15 minutes West; distance, 50 miles; latitude 29 degrees 43 minutes South, longitude 126 degrees 53 minutes West.",
+    "date": "1769-03-15",
+    "weather": "",
+    "location": [
+      -29.716666666666665,
+      -126.88333333333334
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-16": {
+    "diary": "Thursday, 16th. Light Airs next to a Calm and clear Weather. Variation by the mean result of 21 Azimuths, 1 degree 30 minutes East. This evening observed an Occultation of h by the [crescent],* (* h is Saturn, [crescent] the Moon.) Immersion at ---- hours ---- minutes and Emersion at ---- hours ---- minutes ---- seconds a.m.* (* Blanks in manuscript.) Variation per several Azimuths 2 degrees East. Wind East-South-East, South-South-East, South-West; course North-North-West; distance 34 miles; latitude 29 degrees 22 minutes South, longitude 127 degrees 8 minutes West.",
+    "date": "1769-03-16",
+    "weather": "",
+    "location": [
+      -29.366666666666667,
+      -127.13333333333334
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-17": {
+    "diary": "Friday, 17th. Little wind and fine Pleasant weather. Variation, p.m. 3 degrees 27 minutes East. Wind, South-East by South; course, North 20 degrees West; distance, 55 miles; latitude 28 degrees 30 minutes South, longitude 127 degrees 29 minutes West.",
+    "date": "1769-03-17",
+    "weather": "",
+    "location": [
+      -28.5,
+      -127.48333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-18": {
+    "diary": "Saturday, 18th. First part, little wind and Cloudy; latter, fresh gales and hard Squalls, with much rain. Took 2 Reefs in the Topsails. Wind North-East North; course North 60 degrees 45 minutes West; distance 78 miles; latitude 27 degrees 52 minutes South, longitude 128 degrees 44 minutes West.",
+    "date": "1769-03-18",
+    "weather": "",
+    "location": [
+      -27.866666666666667,
+      -128.73333333333332
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-19": {
+    "diary": "Sunday, 19th. First part fresh Gales and Squally, with rain; remainder more moderate and cloudy. Variation, a.m. per Means of several Azimuths, 3 degrees 14 minutes East. Loosed the 2d reefs out of the Topsails. Wind between the North and West; course North 52 degrees West; distance 50 miles; latitude 27 degrees 21 minutes South, longitude 129 degrees 28 minutes West.",
+    "date": "1769-03-19",
+    "weather": "",
+    "location": [
+      -27.35,
+      -129.46666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-20": {
+    "diary": "Monday, 20th. A Fine breeze and pleasant weather. Saw several Tropic Birds. Wind West; course North; distance 95 miles; latitude 25 degrees 44 minutes South, longitude 129 degrees 28 minutes West.",
+    "date": "1769-03-20",
+    "weather": "",
+    "location": [
+      -25.733333333333334,
+      -129.46666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-21": {
+    "diary": "Tuesday, 21st. First part little wind, the remainder Calm. Variation, 3 degrees 43 minutes East. Saw some rock weed and a great many Tropic Birds. Wind West by North, calm; course North; distance 23 miles; latitude 25 degrees 21 minutes South, longitude 129 degrees 28 minutes West.",
+    "date": "1769-03-21",
+    "weather": "",
+    "location": [
+      -25.35,
+      -129.46666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-22": {
+    "diary": "Wednesday, 22nd. First part Calm, in the night Squally, with rain. A.M. a fresh breeze and Cloudy. Variation per Amplitude 3 degrees 10 minutes East. Saw some Egg Birds. Wind North by East to North-North-West; course West; distance 57 miles; latitude 25 degrees 21 minutes South, longitude 129 degrees 52 minutes West.",
+    "date": "1769-03-22",
+    "weather": "",
+    "location": [
+      -25.35,
+      -129.86666666666667
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-23": {
+    "diary": "Thursday, 23rd. Fresh gales and Squally, with rain, the first part; remainder fresh Gales and Cloudy. P.M. saw some Men-of-War Birds, and Egg Birds, and in the Morning saw more Egg Birds and Tropic Birds. The Man-of-War and Tropic Birds are pretty well known, but the Egg Bird (as it is called in the Dolphin's Journal) requires some discription to know it by that Name. It is a small slender Bird of the Gull kind, and all white, and not much unlike the small white Gulls we have in England, only not so big.* (* Terns.) There are also Birds in Newfoundland called Stearings that are of the same shape and Bigness, only they are of a Greyish Colour. These Birds were called by the Dolphin Egg Birds on account of their being like those known by that name by Sailors in the Gulph of Florida; neither they nor the Man-of-War Birds are ever reckoned to go very far from Land. Wind North by West to West by North: course North 13 degrees West; distance 49 miles; latitude 24 degrees 43 minutes South, longitude 130 degrees 8 minutes West.",
+    "date": "1769-03-23",
+    "weather": "",
+    "location": [
+      -24.716666666666665,
+      -130.13333333333333
+    ],
+    "chapter": "Cape Horn to Tahiti."
+  },
+  "2013-03-24": {
+    "diary": "Friday, 24th. Fresh Gales and Cloudy, with some rain in the forepart of this day. All the forepart of these 24 hours the Sea was smooth, but at 12 at night it was more so, and about 3 in the Morning one of the people saw, or thought he saw, a Log of Wood pass the Ship. This made us think that we were near some land,* (* The Endeavour was now passing to the northward of the easternmost islands of the Paumotu or Low Archipelago, though out of sight of them.) but at daylight we saw not the least appearance of any, and I did not think myself at liberty to spend time in searching for what I was not sure to find, although I thought myself not far from those Islands discovered by Quiros in 1606; and very probably we were not, from the birds, etc., we have seen for these 2 or 3 days past. Wind West-North-West to North-West; course North-East by North 1/4 East; distance 99 miles; latitude 22 degrees 23 minutes South, longitude 129 degrees 2 minutes West.",
+    "date": "1769-03-24",
+    "weather": "",
+    "location": [
+      -22.383333333333333,
+      -129.03333333333333
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-25": {
+    "diary": "Saturday, 25th. First part dark cloudy weather, with rain and a fresh breeze of wind; remainder fair and Cloudy. Wind North-West by North, to West by North; course North-East 1/2 North; distance 95 miles; latitude 22 degrees 11 minutes South, longitude 127 degrees 55 minutes West.",
+    "date": "1769-03-25",
+    "weather": "",
+    "location": [
+      -22.183333333333334,
+      -127.91666666666667
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-26": {
+    "diary": "Sunday, 26th. Squally weather, with rain. At 5 p.m. saw some sea Weed pass the Ship, and at 7 William Greenslade, Marine, either by Accident or design, went overboard and was Drowned. The following circumstances makes it appear as tho' it was done design'dly. He had been Centinel at the Steerage door between 12 and 4 o'clock, where he had taken part of a Seal Skin put under his charge, and which was found upon him. The other Marines thought themselves hurt by one of their party commiting a crime of this nature, and he being a raw young fellow, and, as very probable, made him resolve upon commiting this rash Action, for the Serjeant not being willing that it should pass over unknown to me, was about 7 o'clock going to bring him aft and have it inquired into, when he gave him the Slip between Decks, and was seen to go upon the Forecastle, and from that time was seen no more. I was neither made acquainted with the Theft or the Circumstances attending it, until the Man was gone. Wind, North-West to West; longitude 127 degrees 43 minutes West.",
+    "date": "1769-03-26",
+    "weather": "",
+    "location": [
+      -22.183333333333334,
+      -127.91666666666667
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-27": {
+    "diary": "Monday, 27th. Variable winds and weather, with frequent showers of rain. At Noon saw a Bird like a Gannet. Wind variable; course North 1/4 East; distance 30 miles; latitude 21 degrees 2 minutes South, longitude 127 degrees 38 minutes West.",
+    "date": "1769-03-27",
+    "weather": "",
+    "location": [
+      -21.033333333333335,
+      -127.63333333333334
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-28": {
+    "diary": "Tuesday, 28th. Little wind and Cloudy. Variation per Amplitude 3 degrees 56 minutes East. Wind Easterly; course North-North-West; distance 37 miles; latitude 20 degrees 38 minutes South, longitude 127 degrees 50 minutes West.",
+    "date": "1769-03-28",
+    "weather": "",
+    "location": [
+      -20.633333333333333,
+      -127.83333333333333
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-29": {
+    "diary": "Wednesday, 29th. Little winds and Cloudy weather. Variation per Azimuth 2 degrees 27 minutes East. Saw a Bird like a Dove and several fish about the Ship. Employed worming the Best Br. Cable, repairing and Painting the Boats. Wind Easterly; course North 75 degrees West; distance 50 miles; latitude 20 degrees 14 minutes South, longitude 129 degrees 27 minutes West.",
+    "date": "1769-03-29",
+    "weather": "",
+    "location": [
+      -20.233333333333334,
+      -129.45
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-30": {
+    "diary": "Thursday, 30th. First part, Calm and close Cloudy weather; in the night had Variable winds and weather, with rain. A.M. Genteel Breezes and Cloudy weather. Between 10 and 11 a.m. took several Observations of the sun and moon; the mean result of them gave the Longitude of the Ship at Noon to be 127 degrees 38 minutes, and is 1 degree 49 minutes East of the Longitude given by the Log; but on the 4th Instant the ship by Observation was 47 minutes West of the Log, therefore she must have lost 2 degrees 36 minutes of the Log since the last Observation--an Error too great to be accounted for. Wind calm, variable, South-South-East; course North 40 degrees West; distance 53 miles; latitude 19 degrees 34 minutes South, longitude 129 degrees 27 minutes West.",
+    "date": "1769-03-30",
+    "weather": "",
+    "location": [
+      -19.566666666666666,
+      -129.45
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-03-31": {
+    "diary": "Saturday, April 1st. A steady fresh Trade and fine Weather. Variation per several Azimuths 2 degrees 32 minutes East. Wind South-East to East 1/2 North; course West; distance 122 miles; latitude 19 degrees 7 minutes South, longitude 133 degrees 28 minutes West.",
+    "date": "1769-03-31",
+    "weather": "",
+    "location": [
+      -19.116666666666667,
+      -133.46666666666667
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-02": {
+    "diary": "Sunday, 2nd. A fresh Trade wind and fine pleasant weather. At Noon saw a Large flock of Birds; they had brown backs and white Bellies. They fly and make a noise like Stearings, and are shaped like them, only something larger. Saw likewise some black Sheerwaters and Several Man-of-War birds. Wind East; course North 86 degrees 30 minutes West; distance 118 miles; latitude 19 degrees 0 minutes South, longitude 135 degrees 33 minutes West.",
+    "date": "1769-04-02",
+    "weather": "",
+    "location": [
+      -19,
+      -135.55
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-03": {
+    "diary": "Monday, 3rd. First and Latter parts a steady fresh Breeze and cloudy; the Middle, sometimes squally with rain, at other times little wind. P.M. saw 2 Birds like Albetrosses; they were all white except the Tip of their wings and Tails. Wind East; course North 82 degrees 45 minutes West; distance 110 miles; latitude 18 degrees 46 minutes South, longitude 137 degrees 29 minutes West.",
+    "date": "1769-04-03",
+    "weather": "",
+    "location": [
+      -18.766666666666666,
+      -137.48333333333332
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-04": {
+    "diary": "Tuesday, 4th. A Steady fresh Trade and clear weather. At 1/2 past 10 a.m. saw land bearing south, distance 3 or 4 Leagues. Haul'd up for it, and soon found it to be an Island of about 2 Leagues in Circuit and of an Oval form, with a Lagoon in the Middle, for which I named it Lagoon Island. The Border of land Circumscribing this Lagoon is in many places very low and narrow, particularly on the south side, where it is mostly a Beach or Reef of rocks; it is the same on the North side in 3 places, and these disjoins the firm land and make it appear like so many Islands covered with wood. On the West end of the Island is a large Tree which looks like a large Tower, and about the Middle of the Island are two Cocoa Nutt Trees that appears above all the other wood, which as we approached the Island looked very much like a flag. We approached the north side of this Island within a Mile, and found no Bottom with 130 fathoms of line, nor did there appear to be Anchorage about it. We saw several of the Inhabitants, the most of them men, and these Marched along the shore abreast of the Ships with long Clubs in their hands as tho' they meant to oppose our landing. They were all naked except their Privy parts, and were of a Dark Copper Colour with long black Hair, but upon our leaving the Island some of them were seen to put on a Covering, and one or two we saw in the Skirts of the Wood was Cloathed in White; these we supposed to be Women. This Island lies in the Latitude of 18 degrees 47 minutes and Longitude 139 degrees 28 minutes West from the Meridian of Greenwich;* (* This island is Vahitahi, one of the Paumotu or Low Archipelago.) variation 2 degrees 54 minutes East. Wind East, East by South; course North 88 degrees West; distance 114 miles; latitude 18 degrees 42 minutes South, longitude 139 degrees 29 minutes West.",
+    "date": "1769-04-04",
+    "weather": "",
+    "location": [
+      -18.7,
+      -139.48333333333332
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-05": {
+    "diary": "Wednesday, 5th. A fresh steady gale and fine weather. At 1 p.m. made Sail to the Westward, and at 1/2 past 3 saw land to the North-West, which we got up with at Sun sett and proved to be a low woody Island of a Circular form, and not much above a Mile in Compass. This Island I called Thrum Cap* (* Akiaki. It is inhabited.); it lies in the Latitude of 18 degrees 35 minutes South and in the Longitude of 139 degrees 48 minutes West from Greenwich, and North 62 degrees West, 7 Leagues from Lagoon Island. We saw no inhabitants, nor the appearance of any, and yet we were within 1/2 a Mile of the Shore. I observed by the Shore that it was near low Water, and at Lagoon Island I observed that it was either high Water or else there was no Ebbing and flowing of the Sea. From these Circumstances I infer that a South by East or South Moon makes high Water. Here we caught a King Fish, being the first fish we have got in these Seas. Wind East; course North 77 degrees 30 minutes West; distance 79 miles; latitude 18 degrees 25 minutes South, longitude 140 degrees 51 minutes West.",
+    "date": "1769-04-05",
+    "weather": "",
+    "location": [
+      -18.416666666666668,
+      -140.85
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-06": {
+    "diary": "Thursday, 6th. A fresh Trade and fine Pleasant weather. At 3 p.m. Saw land to the Westward, which proved to be an Island of about 12 or 15 Leagues in Compass; is very low and entirely drown'd in the Middle, forming there a large lake, into which there appeared to be no inlet. The border of land and Reef surrounding this lake like a wall appeared to be of a Bow-like figure, for which reason I named it Bow Island. The South side, along which we sail'd, was one continued low narrow Beach or Reef like a Causeway for 4 Leagues and upwards, and lies East by North and West by South. The East and West Ends and North side of this Island are wooded-in Groves, and the firm Land appeared disjoined and like a Number of Islands, and very probably is so. The North-West parts of the Island we only saw aCross the Lake, and not very distinct on account of its great extent, and night coming on before we had run the whole length of the Island. This description must be imperfect, and the whole Island may form a Different figure to what I have here described.* (* Hao. It is a large atoll, thirty miles in length. Cook only saw a portion of it.) The east end lies in the Latitude of 18 degrees 23 minutes South, and Longitude 141 degrees 12 minutes West from Greenwich. Variation 5 degrees 38 minutes East. This Island is Inhabited; we not only saw smook in Different Parts, but people also. At Noon saw Land to the Westward. Wind east; course North 85 degrees West; distance 94 miles; latitude 18 degrees 19 minutes South, longitude 142 degrees 29 minutes West.",
+    "date": "1769-04-06",
+    "weather": "",
+    "location": [
+      -18.316666666666666,
+      -142.48333333333332
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-07": {
+    "diary": "Friday, 7th. Fresh Gales and Cloudy. At 1/2 past 2 p.m. got up with the East end of the Land seen yesterday at Noon, and which proved to be an assemblage of Islands join'd together by Reef, and extending themselves North-West by North and South-East by South in 8 or 9 Leagues and of various breadths; but there appeared to be a total Seperation in the middle by a Channell of half a Mile broad, and on this account they are called the two Groups.* (* Marokau and Ravahare. Two atolls close together.) The South Eastermost of them lies in the Latitude of 18 degrees 12 minutes and Longitude of 142 degrees 42 minutes West from Greenwich, and West 1/2 North distant 25 Leagues from the West end of Bow Island. We ranged along the South-West side of this Island, and hauled into a Bay which lies to the North-West of the Southermost point of them, and where there appeared to be Anchorage and the Sea was smooth and not much Surf on the Shore; but we found no ground with 100 fathoms 3/4 of a Mile from the Shore, and nearer we did not go. Here several of the Inhabitants assembled together with their Canoes, with a design, as we thought, to come off to us, as they hauld one of them over the reef seemingly for that purpose; but after waiting near 1/2 an hour, and they not attempting to come, we bore away and made Sail, and presentley the Canoe put off after us; but, as we did not stop, they soon went back again. They were in all respects like those we had seen on Lagoon Island, and Armed with Clubs and long Pikes like them. At 1/2 past 6 a.m. Saw a small Island to the Northward, hauled our wind for it, and soon got close in with it. It is about 3 or 4 Miles in Circuit, and very low, with a Pond in the Middle. There is some wood upon it, but no inhabitants but Birds, and for this reason is called Bird Island.* (* Reitoru.) It lies in the latitude 17 degrees 48 minutes and longitude 143 degrees 35 minutes West, and West 1/2 North 10 Leagues from the West end of the two Groups. The birds we saw were Men-of-War Birds and several other sorts. Wind East; course North 66 degrees West; distance 66 miles; latitude 17 degrees 48 minutes South, longitude 143 degrees 31 minutes West.",
+    "date": "1769-04-07",
+    "weather": "",
+    "location": [
+      -17.8,
+      -143.51666666666668
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-08": {
+    "diary": "Saturday, 8th. Fresh Trade and pleasant weather, but about noon had a few flying showers of rain. Variation 6 degrees 32 minutes East. Wind East by South and East; course North 87 degrees West; distance 100 miles; latitude 17 degrees 43 minutes South, longitude 145 degrees 16 minutes West.",
+    "date": "1769-04-08",
+    "weather": "",
+    "location": [
+      -17.716666666666665,
+      -145.26666666666668
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-09": {
+    "diary": "Sunday, 9th. A steady fresh gale and pleasant weather. At 2 p.m. saw Land to the Northward, hauld up for it, and found it to be a double range of low woody islands joined together by reefs, by which means they make one Island in form of an Ellipsis or Oval, in the Middle of which is a Salt water lake. The small Islands and reefs circumscribes or bounds this lake like a Chain; it is therefore called Chain Island.* (* Anaa.) It is in length, North-West and South-East, about 5 Leagues, and in breadth about 5 Miles. The middle of it lies in the Latitude of 17 degrees 23 minutes South, and Longitude 145 degrees 54 minutes West, and West by North 45 Leagues from Bird Island. Variation per Several Azimuths 4 degrees 54 minutes East. Wind East by North to North by East; course West, Northerly; distance 81 miles; latitude 17 degrees 42 minutes South, longitude 146 degrees 40 minutes West.",
+    "date": "1769-04-09",
+    "weather": "",
+    "location": [
+      -17.7,
+      -146.66666666666666
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-10": {
+    "diary": "Monday, 10th. P.M. moderate breezes and cloudy; in the Night, dark, cloudy, unsettled weather, with very much Thunder, Lightning, and rain. A.M. little wind and fair. P.M. variation per Several Azimuths 5 degrees 41 minutes East. At 8 a.m. saw Osnaburg Island* (* Maitea, the easternmost of the Society Islands, which are all high, and a great contrast to the low coral atolls of the Paumotus.) (so called by Captain Wallis, the first discoverer) bearing North-West by West, distance 4 or 5 Leagues. It is a high round Island, and appears to be not above a League in Circuit, and when it bears as above it looks like a high Crown'd Hatt, but when it bears North the Top is more like the roof of a House. It lies in the Latitude of 17 degrees 48 minutes South and Longitude 148 degrees 10 minutes West, and West by South, 44 Leagues, from Chain Island. Wind North-North-West, variable, North-West by North; course South 13 degrees West; distance 67 miles; latitude 18 degrees 00 minutes South, longitude 147 degrees 47 minutes West; at noon, Osnaburg Island North by West 1/2 West, 5 leagues.",
+    "date": "1769-04-10",
+    "weather": "",
+    "location": [
+      -18,
+      -147.78333333333333
+    ],
+    "chapter": "Passing Low Archipelago."
+  },
+  "2013-04-11": {
+    "diary": "Tuesday, 11th. First part, little wind and cloudy; the remainder, little wind and very Variable; unsettled weather, with some rain. P.M. took several Observations of the sun and moon, which gave the Longitude of the ship to be 148 degrees 18 minutes West, and differs but little from that given by the Log. At 6 a.m. saw King George's Island* (* So named by Captain Wallis. The native name was ascertained by Cook, who spelt it Otaheite. Now known as Tahiti. It is the chief island of the Society Group, and was annexed by the French in 1844.) Extending from West by South 1/2 South to West by North 1/2 North. It appeared very high and Mountainous. Wind variable; course North 66 degrees West; distance 54 miles; latitude 17 degrees 38 minutes South, longitude 148 degrees 39 minutes West; Osnaburg Island East 1/2 South, 13 leagues.",
+    "date": "1769-04-11",
+    "weather": "",
+    "location": [
+      -17.633333333333333,
+      -148.65
+    ],
+    "chapter": "Arrive at Tahiti."
+  },
+  "2013-04-12": {
+    "diary": "Wednesday, 12th. Variable, light Airs all these 24 Hours, and Hot sultry weather. At 5 p.m. King George's Island extending from North-West by West to South-West, distance 6 or 7 Leagues; and at 6 a.m. it bore from South-South-West to West by North, being little wind with Calms. Several of the Natives came off to us in their Canoes, but more to look at us than anything else. We could not prevail with any of them to come on board, and some would not come near the ship. Wind variable; course West; distance 18 miles; latitude 17 degrees 38 minutes South, longitude 148 degrees 58 minutes West; at noon, King George's Island, from South to West by North, 5 leagues.",
+    "date": "1769-04-12",
+    "weather": "",
+    "location": [
+      -17.633333333333333,
+      -148.96666666666667
+    ],
+    "chapter": "Arrive at Tahiti."
+  },
+  "2013-04-13": {
+    "diary": "Thursday, 13th. The first part Cloudy and Squally, with Showers of rain; remainder, genteel breezes and clear weather. At 4 p.m. the North-East point of Royal Bay West 1/2 North; run under an easy sail all night, and had soundings from 22 to 12 fathoms 2 or 3 Miles from the Shore. At 5 a.m. made sail for the bay, and at 7 anchored in 13 fathoms.* (* Matavai Bay.) At this time we had but very few men upon the sick list, and these had but slite complaints. The Ship's company had in general been very healthy, owing in a great measure to the Sour kroutt, Portable Soup and Malt; the two first were served to the People, the one on Beef Days and the other on Banyan Days. Wort was made of the Malt, and at the discretion of the Surgeon given to every man that had the least simptoms of Scurvy upon him. By this means, and the Care and Vigilance of Mr. Monkhouse, the Surgeon, this disease was prevented from getting a footing in the Ship. The Sour Kroutt, the Men at first would not eat it, until I put it in practice--a method I never once Knew to fail with seamen--and this was to have some of it dressed every day for the Cabin Table, and permitted all the Officers, without exception, to make use of it, and left it to the Option of the men either to take as much as they pleased or none at all; but this practice was not continued above a Week before I found it necessary to put every one on board to an allowance; for such are the Tempers and disposition of Seamen in general that whatever you give them out of the common way--altho' it be ever so much for their good--it will not go down, and you will hear nothing but murmurings against the Man that first invented it; but the moment they see their superiors set a value upon it, it becomes the finest stuff in the world and the inventor an honest fellow. Wind easterly.",
+    "date": "1769-04-13",
+    "weather": "",
+    "location": [
+      -17.633333333333333,
+      -148.96666666666667
+    ],
+    "chapter": "Arrive at Tahiti."
+  }
+}

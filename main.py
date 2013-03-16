@@ -19,6 +19,7 @@ import jinja2
 import logging
 import os
 import webapp2
+import datetime
 
 
 def get_jinja2_template(path):
@@ -54,16 +55,15 @@ class EditionHandler(webapp2.RequestHandler):
         # If delivery count is 0, show a welcome message
 
         # Find the entry of the day
+        # 2013-03-16T19:20:30.45+01:00
+        edition_date = delivery_time.split('T')[0]
+
+        json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
+        json_data = json.loads(file(json_path,'rb').read())
 
         # Extract values
-        values = {
-            'chapter': '',
-            'entry': '',
-            'date': '',
-            'location': '',
-            'weather': '',
-            'wind': '',
-        }
+        values = json_data[edition_date]
+
         template = get_jinja2_template('templates/edition.html')
 
         self.response.headers.add_header('ETag', 'lazy-etag-%d')
@@ -82,7 +82,7 @@ class SampleHandler(webapp2.RequestHandler):
             'wind': '',
         }
         template = get_jinja2_template('templates/edition.html')
-        
+
         self.response.out.write(template.render(values))
 
 

@@ -112,18 +112,17 @@ class ConfigureHandler(webapp2.RequestHandler):
 
 class MainHandler(webapp2.RequestHandler):
     def get(self, date):
-        # Extract values
-        values = {
-            'chapter': '',
-            'entry': '',
-            'date': '',
-            'location': '',
-            'weather': '',
-            'wind': '',
-        }
-        template = get_jinja2_template('templates/index.html')
+        format = self.request.get('format', None)
+        values = {}
+        if date:
+            values = get_journal_entry(date)
 
-        self.response.out.write(template.render(values))
+        if format == 'json':
+            self.response.headers.add_header('Content-Type', 'application/json')
+            self.response.out.write(json.dumps(values))
+        else:
+            template = get_jinja2_template('templates/index.html')
+            self.response.out.write(template.render(values))
 
 urls = [
     ('^/meta.json$', MetaJsonHandler),

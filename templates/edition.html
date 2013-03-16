@@ -1,0 +1,161 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Captain Cook's Voyage</title>
+
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                font-family: 'Crimson';
+                width: 384px;
+            }
+            .cook {
+                /*float: left;
+                width: 40px;
+                height: 40px;
+                margin-right: 8px;*/
+            }
+
+            header {
+                position: relative;
+            }
+            h1 {
+                line-height: 1;
+                padding: 4px 0;
+                border-bottom: 1px solid #fff;
+                text-align: center;
+                font-weight: bold;
+                float: left;
+            }
+            .date {
+                font-family: georgia;
+                text-transform: lowercase;
+                font-variant: small-caps;
+                font-weight: normal;
+                margin-bottom: 6px;
+            }
+            .weather {
+                background: transparent url(http://www.thudgroup.com/little-diary/img/weather.png) -800px -200px no-repeat;
+                position: absolute;
+                display: block;
+                top:0;
+                right:40px;
+                height:55px;
+                width:55px;
+            }
+            .weather.sunny {
+                background-position: -100px -200px;
+            }
+            .weather.hazy {
+                background-position: -300px -200px;
+            }
+            .weather.cloudy {
+                background-position: -800px -200px;
+            }
+            .weather.drizzle {
+                background-position: -1100px -200px;
+            }
+            .weather.heavy-rain {
+                background-position: -1500px -200px;
+            }
+            .wind {
+                background: transparent url(http://www.thudgroup.com/little-diary/img/wind.png) 0 0 no-repeat;
+                position: absolute;
+                display: block;
+                top:0;
+                right:0;
+                height:40px;
+                width:40px;
+            }
+            .wind.n {
+                background-position: 0 0;
+            }
+            .wind.ne {
+                background-position: -108px 0;
+            }
+            .wind.e {
+                background-position: -208px 0;
+            }
+            .wind.se {
+                background-position: -308px 0;
+            }
+            .wind.s {
+                background-position: -408px 0;
+            }
+            .wind.sw {
+                background-position: -495px 0;
+            }
+            .wind.w {
+                background-position: -595px 0;
+            }
+            .wind.nw {
+                background-position: -695px 0;
+            }
+            .entry {
+                margin-bottom: 40px;
+
+            }
+            .map-container {
+                /*background: transparent url('http://nysx.t.proxylocal.com/little-diary/img/frame-sides.png') repeat-y 0 0;*/
+                position: relative;
+                margin-top: 10px;
+                border-bottom: 1px solid #000;
+                padding-bottom: 8px;
+                margin-bottom: 8px;
+            }
+            .map {
+                /*margin-left: 20px;
+                top: 18px;
+                left: 20px;*/
+                width: 384px;
+                border: 0;
+                text-align: center;
+            }
+            p {
+                font-family: 'Times';
+                font-size: 20px;
+            }
+            .chapter {
+                font-style: italic;
+                width: 260px;
+            }
+            .body {
+                margin: 0 25px;
+            }
+            .diary {
+                margin-top: 28px;
+            }
+            .divider {
+                margin: 8px 0;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <img src="http://www.thudgroup.com/little-diary/img/divider.png" class="divider">
+
+        <img src="http://www.thudgroup.com/little-diary/img/header-2.png" class="cook">
+        <div class="entry">
+
+            <div class="map-container">
+                <img src="http://api.tiles.mapbox.com/v3/henpe.map-puboj6e5/pin-m-ferry(-111.5667,-36.8167)/-20,0,1/384x200.png" width="382" class="map" />
+            </div>
+            <!--img src="http://a.tiles.mapbox.com/v3/henpe.map-puboj6e5/18.085937499999996,0,1/384x200.png"/-->
+            <!--img src="http://nysx.t.proxylocal.com/little-diary/384x200.png" width="384" class="dither" /-->
+            <header>
+            	<h2 class="date"></h2>
+                <p class="chapter"></p>
+            	<span class="weather"></span>
+                <span class="wind"></span>
+            </header>
+            <p class="diary"></p>
+        </div>
+
+        <img src="http://www.thudgroup.com/little-diary/img/divider.png" class="divider">
+
+    </body>
+</html>

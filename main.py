@@ -27,6 +27,11 @@ def get_jinja2_template(path):
     jinja_environment = jinja2.Environment(loader=jinja2.FileSystemLoader([template_dir]))
     return jinja_environment.get_template(path)
 
+def get_journal_entry(date):
+    json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
+    json_data = json.loads(file(json_path,'rb').read())
+    return json_data[date]
+
 
 # http://remote.bergcloud.com/developers/reference/metajson
 class MetaJsonHandler(webapp2.RequestHandler):
@@ -58,11 +63,9 @@ class EditionHandler(webapp2.RequestHandler):
         # 2013-03-16T19:20:30.45+01:00
         edition_date = delivery_time.split('T')[0]
 
-        json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
-        json_data = json.loads(file(json_path,'rb').read())
 
         # Extract values
-        values = json_data[edition_date]
+        values = get_journal_entry(edition_date)
 
         template = get_jinja2_template('templates/edition.html')
 
@@ -73,14 +76,9 @@ class EditionHandler(webapp2.RequestHandler):
 class SampleHandler(webapp2.RequestHandler):
     def get(self):
         # Extract values
-        values = {
-            'chapter': '',
-            'entry': '',
-            'date': '',
-            'location': '',
-            'weather': '',
-            'wind': '',
-        }
+        # TODO: Let's find a special date for this one
+        values = get_journal_entry('2013-04-11')
+
         template = get_jinja2_template('templates/edition.html')
 
         self.response.out.write(template.render(values))

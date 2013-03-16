@@ -5,6 +5,7 @@ var fs = require("fs"),
   moment = require("moment");
 
 
+var err = 0;
 
 var bookData = [];
 
@@ -42,6 +43,8 @@ for (var i = 0; i < chaptersDom.length; i++) {
     if (entryDate) {
       historicalDate = moment(currentMonth + " " + entryDate + " " + currentYear);
       presentDate = moment(currentMonth + " " + entryDate + " " + (presentDayYear + (currentYear-startYear)));
+    } else {
+      continue;
     }
 
     var cleanParagraph = cleanParagraphText(paragraph);
@@ -61,9 +64,10 @@ for (var i = 0; i < chaptersDom.length; i++) {
 
 }
 
-console.log(JSON.stringify(diaryEntries, null, 4));
-
-
+fs.writeFileSync("output.js", JSON.stringify(diaryEntries, null, 4));
+fs.writeFileSync("latlong.js", csvLatLong(diaryEntries));
+//console.log(JSON.stringify(diaryEntries, null, 4));
+//csvLatLong(diaryEntries)
 
 
 
@@ -74,6 +78,7 @@ function cleanParagraphText(text) {
 
 function csvLatLong(diaryEntries) {
   var ll = [];
+  var output = "";
   for (var e in diaryEntries) {
     if (!diaryEntries[e].location) {
       continue;
@@ -82,9 +87,10 @@ function csvLatLong(diaryEntries) {
       continue;
     }
 
-    console.log(diaryEntries[e].location[0] + ", " + diaryEntries[e].location[1])
+    output = output + (diaryEntries[e].location[0] + ", " + diaryEntries[e].location[1]) + "\n";
     ll[diaryEntries[e].location[0] + ", " + diaryEntries[e].location[1]] = 1;
   }
+  return output;
 }
 
 function extractDiaryEntryDate(text) {
@@ -130,14 +136,16 @@ function extractLocation(diaryEntry) {
   // sea location
   var sentences = diaryEntry.split(/[,;\.]/);
   var lat, lon;
+
   for (var i = 0; i < sentences.length; i++) {
     var text = sentences[i];
 
-    if (text.match(/per Observation/)) {
+    if (text.match(/(per|by) observation/i)) {
       continue;
     }
 
-    var m = text.match(/ongitude(?:[^\d]+)?(\d+) degrees? (\d+)(?: minutes?)? (West|South)?/);
+    //var m = text.match(/longitude(?:[^\d]+)?(\d+) degrees? (?:(\d+)(?: minutes?)?)? (West|South)?/i);
+    var m = text.match(/longitude(?:[^\d]{0,20})?(\d+)(?: degrees?)?(?: (\d+)(?: minutes?)?)? (West|South)?/i);
     if (m && m.length) {
       if (m[3]) {
         cachedWestEast = m[3];
@@ -146,7 +154,7 @@ function extractLocation(diaryEntry) {
       lon = convertDeg(m[1], m[2], cachedWestEast);
     }
 
-    var m = text.match(/atitude(?:[^\d]+)?(\d+) degrees? (\d+)(?: minutes?)? (North|South)?/);
+    var m = text.match(/latitude(?:[^\d]{0,20})?(\d+) degrees? (\d+)(?: minutes?)? (North|South)?/i);
     if (m && m.length) {
       if (m[3]) {
        cachedNorthSouth = m[3];
@@ -155,13 +163,20 @@ function extractLocation(diaryEntry) {
     } 
   }
 
+  if (lat && !lon) {
+    err += 1;
+    //console.warn(diaryEntry, 'NO LONG', lat, lon, 'ERRORS: ', err)
+  }
+
+ if (!lat && lon) {
+    err += 1;
+    //console.warn(diaryEntry, 'NO LAT', lat, lon, 'ERRORS: ', err)
+  }
 
   if (lat && lon) {
     cachedLatLon = [lat,lon];
     return cachedLatLon;
-  } else {
-    return cachedLatLon;
-  }
+  } 
 
 }
 
@@ -216,6 +231,8 @@ function convertDeg(deg, min, dir) {
   degrees, mins to decimal degrees
 */
 function dmsToDecimalDeg(d,m,dir) {
+  if (!m || m < 0)
+    m = 0.00001
   d = d - 0;
   m = m - 0;
   var sign = (dir == "West" || dir == "South" ) ? -1 : 1;

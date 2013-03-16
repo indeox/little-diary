@@ -6,7 +6,7 @@
 sans-serif; font-size:11px; border:1px solid black">
   <table id="cm_mapTABLE"> <tbody> <tr id="cm_mapTR">
 
-    <td> <div id="cm_map" style="width:1450px; height:1450px"></div> </td>
+    <td> <div id="cm_map" style="width:1650px; height:1450px"></div> </td>
   </tr> </tbody></table>
 </div>
 
@@ -74,7 +74,7 @@ function cm_loadMapJSON(json) {
 
   var bounds = new GLatLngBounds();	  
 
-
+  var latlng = [];
   for (var i = 0; i < json.feed.entry.length; i++) {
     var entry = json.feed.entry[i];
     if(entry["gsx$" + param_latColumn]) {
@@ -83,13 +83,12 @@ function cm_loadMapJSON(json) {
       var point = new GLatLng(lat,lng);
       var html = "<div style='font-size:12px'>";
       html += i + " " + lat + ", " + lng;
-      var label = "label";
-      var rank = 0;
-
       html += "</div>";
+      latlng.push(new google.maps.LatLng(lat, lng));
+
 
       // create the marker
-      var marker = cm_createMarker(point,label,html,rank);
+      var marker = cm_createMarker(point,html);
       cm_map.addOverlay(marker);
       cm_mapMarkers.push(marker);
       cm_mapHTMLS.push(html);
@@ -99,7 +98,13 @@ function cm_loadMapJSON(json) {
 
   cm_map.setZoom(cm_map.getBoundsZoomLevel(bounds));
   cm_map.setCenter(bounds.getCenter());
+  var polyOptions = {geodesic:true};
+  var mapPoly = new google.maps.Polygon(latlng, "#f33f00", 5, 1, "#ff0000", 0.0, polyOptions);
+  cm_map.addOverlay(mapPoly);
+
 }
+
+
 
 /**
  * Creates marker with ranked Icon or blank icon,
@@ -110,14 +115,13 @@ function cm_loadMapJSON(json) {
  * @param {Number} rank Number rank of marker, used in creating icon
  * @return {GMarker} Marker created
  */
-function cm_createMarker(point, title, html, rank) {
+function cm_createMarker(point, html) {
   var markerOpts = {};
   var nIcon = new GIcon(cm_baseIcon);
 
   nIcon.image = "http://gmaps-samples.googlecode.com/svn/trunk/markers/circular/greencirclemarker.png"; 
 
-  markerOpts.icon = nIcon;
-  markerOpts.title = title;		 
+  markerOpts.icon = nIcon; 
   var marker = new GMarker(point, markerOpts);
 	
   GEvent.addListener(marker, "click", function() {

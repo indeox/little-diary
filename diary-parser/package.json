@@ -13,6 +13,7 @@
     "colors"   :  "*",
     "moment"  : "*",
     "xpath" : "*",
-    "xmldom" : "*"
+    "xmldom" : "*",
+    "unit": "*"
   }
 }

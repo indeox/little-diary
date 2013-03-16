@@ -1,11 +1,4 @@
 {
-    "2013-03-16": {
-        "diary": "July 30th to August 7th. Saturday, July 30th, Weighed from Gallions, and made sail down the River, the same day Anchored at Gravesend, and the next Morning weighed from thence, and at Noon Anchored at the Buoy of the Fairway. On Wednesday, 3rd of August, Anchored in the Downs in 9 fathoms of water, Deal Castle North-West by West. On Sunday, 7th, I joined the Ship, discharged the Pilot, and the next day saild for Plymouth.",
-        "date": "2013-03-16",
-        "weather": "",
-        "wind": "",
-        "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
-    },
     "1768-08-08": {
         "diary": "Monday, 8th. Fresh Breezes and Cloudy weather the most part of these 24 hours. At 10 a.m. weighed and came to sail; at Noon the South Foreland bore North-East 1/2 North, distant 6 or 7 Miles. Wind West by North, North-West.",
         "date": "1768-08-08",
@@ -126,11 +119,10 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-08-25": {
-        "diary": "[Sailed from Plymouth.]",
+        "diary": "Thursday, 25th. Moderate and Cloudy weather; a.m. received on Board a supply of Beer and Water, and returned all our Empty Casks. Loosed the Topsails as a Signal for Sailing. Wind West, North by West, North-West by West.",
         "date": "1768-08-25",
         "weather": "",
-        "wind": "",
-        "chapter": "Sailed from Plymouth.",
+        "wind": "w",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-08-26": {
@@ -194,13 +186,13 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-08-31": {
-        "diary": "Thursday, September 1st. Very hard gales, with some heavy showers of Rain, the most part of these 24 Hours, which brought us under our two Courses, Broke one of our Main Topmast phuttock Plates, washed overboard a small Boat belonging to the Boatswain, and drowned between 3 and 4 Dozen of our Poultry, which was worst of all. Towards Noon it moderated, so that we could bear our Maintopsail close Reefd. At Midnight wore and stood to the Southward. Wind Westerly; course South 70 degrees West; distance 20 miles; latitude 44 degrees 56 minutes North, longitude 9 degrees 9 minutes West; at noon, Lizard North 28 degrees 15 minutes West, 109 leagues.",
+        "diary": "Wednesday, 31st. First and Middle parts, Moderate breezes and Clear; Latter, fresh Gales and Cloudy. At 6 p.m. loosed the 2nd Reef out of the Topsails, and at 8 a.m. took them in again; at Noon Tacked and stood to the North-West, having stood before to the Southward. Wind West to South-West; course South 36 degrees East; distance 82 miles; latitude 45 degrees 3 minutes North, longitude 8 degrees 43 minutes West; at noon, Lizard North-North-East, 105 leagues.",
         "date": "1768-08-31",
         "weather": "",
         "wind": "w",
         "location": [
-            44.93333333333333,
-            -9.15
+            45.05,
+            -8.716666666666667
         ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
@@ -234,10 +226,6 @@
         "date": "1768-09-04",
         "weather": "",
         "wind": "w",
-        "location": [
-            44.15,
-            -10.333333333333334
-        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -283,8 +271,8 @@
         "weather": "",
         "wind": "w",
         "location": [
-            40.483333333333334,
-            -10.183333333333334
+            38.55,
+            -10.000000166666666
         ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
@@ -338,14 +326,10 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-09-13": {
-        "diary": "MOORED IN FUNCHAL ROAD, MADEIRA, Wednesday, 14th. First part fine, Clear weather, remainder Cloudy, with Squals from the land, attended with Showers of rain. In the Night the Bend of the Hawsers of the Stream Anchor Slip'd owing to the Carelessness of the Person who made it fast. In the Morning hove up the Anchor in the Boat and carried it out to the Southward. In heaving the Anchor out of the Boat Mr. Weir, Master's Mate, was carried overboard by the Buoy rope and to the Bottom with the Anchor. Hove up the Anchor by the Ship as soon as possible, and found his Body intangled in the Buoy rope. Moor'd the Ship with the two Bowers in 22 fathoms Water; the Loo Rock West and the Brazen Head East. Saild His Majesty's Ship Rose. The Boats employed carrying the Casks a Shore for Wine, and the Caulkers caulking the Ship Sides. Wind Easterly.",
+        "diary": "Tuesday, 13th. Fresh breezes and clear weather. At 8 p.m. anchored in Funchal Road in 22 fathoms. Found here His Majesty's Ship Rose and several Merchants' Vessels. In the Morning new berthed the Ship, and Moor'd with the Stream Anchor, half a Cable on the Best Bower and a Hawser and a half on the Stream Wind North-West.",
         "date": "1768-09-13",
-        "weather": "heavy-rain",
-        "wind": "e",
-        "location": [
-            32.71666666666667,
-            -15.883333333333333
-        ],
+        "weather": "hazy",
+        "wind": "nw",
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -354,10 +338,6 @@
         "date": "1768-09-15",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            32.71666666666667,
-            -15.883333333333333
-        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -366,10 +346,6 @@
         "date": "1768-09-16",
         "weather": "",
         "wind": "e",
-        "location": [
-            32.71666666666667,
-            -15.883333333333333
-        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -378,23 +354,15 @@
         "date": "1768-09-17",
         "weather": "",
         "wind": "w",
-        "location": [
-            32.71666666666667,
-            -15.883333333333333
-        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-09-18": {
-        "diary": "[Sailed from Madeira.]",
+        "diary": "Sunday, 18th. Ditto Weather. P.M. received on board 270 pounds of fresh Beef, and a Live Bullock charged 613 pounds. Compleated our Wine and Water, having received of the former 3032 Gallons, of the Latter 10 Tuns. A.M. unmoor'd and prepar'd for Sailing. Funchall, in the Island of Madeira, by Observations made here by Dr. Eberton, F.R.S., lies in the latitude of 32 degrees 33 minutes 33 seconds North and longitude West from Greenwich 16 degrees 49 minutes,<em> Modern determination is 32 degrees 38 minutes North, 16 degrees 54 minutes West.</em> the Variation of the Compass 15 degrees 30 minutes West, decreasing as he says, which I much doubt;<em> Cook was right: the variation was increasing.</em> neither does this Variation agree with our own Observations. The Tides flow full, and Change North and South, and rise Perpendicular 7 feet at Spring Tides and 4 feet at Niep tides. We found the North point of the Diping Needle, belonging to the Royal Society, to Dip 77 degrees 18 minutes. The Refreshments for Shipping to be got at this place are Wine, Water, Fruit of Several Sorts, and Onions in Plenty, and some Sweatmeats; but Fresh Meat and Poultry are very Dear, and not to be had at any rate without Leave from the Governour. Wind southerly, East-South-East, South-West.",
         "date": "1768-09-18",
         "weather": "",
         "wind": "",
-        "location": [
-            32.55,
-            -16.816666666666666
-        ],
-        "chapter": "Sailed from Madeira.",
+        "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-09-19": {
@@ -402,10 +370,6 @@
         "date": "1768-09-19",
         "weather": "",
         "wind": "e",
-        "location": [
-            32.55,
-            -16.816666666666666
-        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -474,10 +438,6 @@
         "date": "1768-09-25",
         "weather": "",
         "wind": "",
-        "location": [
-            27.166666666666668,
-            -16.533333333333335
-        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -486,10 +446,6 @@
         "date": "1768-09-26",
         "weather": "",
         "wind": "ne",
-        "location": [
-            27.166666666666668,
-            -16.533333333333335
-        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -498,10 +454,6 @@
         "date": "1768-09-27",
         "weather": "",
         "wind": "ne",
-        "location": [
-            27.166666666666668,
-            -16.533333333333335
-        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -510,34 +462,22 @@
         "date": "1768-09-28",
         "weather": "",
         "wind": "ne",
-        "location": [
-            27.166666666666668,
-            -16.533333333333335
-        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-09-29": {
-        "diary": "[Off Cape de Verd Islands.]",
+        "diary": "Thursday, 29th. Fresh breezes and Hazey weather. The Variation 12 degrees 33 minutes West; the Observed Latitude ahead of that given by the Log 10 miles. Wind North-East by North; course South 14 degrees West; distance 90 miles; latitude 17 degrees 32 minutes North; at noon Peak of Teneriff, North 33 degrees East, 236 leagues.",
         "date": "1768-09-29",
         "weather": "",
-        "wind": "",
-        "location": [
-            27.166666666666668,
-            -16.533333333333335
-        ],
-        "chapter": "Off Cape de Verd Islands.",
+        "wind": "ne",
+        "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-09-30": {
-        "diary": "Saturday, October 1st. A steady gale and somewhat Hazey. Variation by very good Azimuths this Evening 10 degrees 37 minutes, and by the same in the Morning 10 degrees 0 minutes West; at Noon found the ship a Head of the Log 5 Miles. Wind North, North-North-East; course South 12 degrees 12 minutes West; distance 114 miles; latitude 14 degrees 6 minutes North, longitude 22 degrees 10 minutes West; at noon Island of Bonavista, South-East point, North 9 degrees West, 116 miles.",
+        "diary": "Friday, 30th. A Steady breeze and Pleasant weather. At 6 a.m. saw the Island of Bonavista (one of the Cape de Verd islands), Extending from South by East to South-West by South, distance 3 or 4 Leagues. Ranged the East side of this Island at the Distance of 3 or 4 miles from the Shore, until we were obliged to Haul Off to avoid a Ledge of Rocks which stretched out South-West by West from the Body or South-East Point of the Island 1 1/2 leagues. Had no ground with 40 fathoms a Mile without this Ledge. The Island of Bonavista is in Extent from North to South about 5 leagues, is of a very uneven and hilly Surface, with low sandy beaches on the East side. The South-East part of the Island, from which I take my Departure, by an Observation this day at Noon lies in the latitude of 16 degrees North, and according to our run from Madeira in the longitude of 21 degrees 51 minutes West from Greenwich, and South 21 degrees West; 260 leagues from Tenerriff. Drawings Numbers 1 and 2 represent the appearance of the East side of this Island, where (2) is the South-East point, with the hill over it, which is high, of a round Figure, and the southermost on the Island. Wind North-East; course South 12 degrees 30 minutes West; distance 97 miles; latitude 15 degrees 37 minutes North per observation; Teneriffe, North 20 degrees 43 minutes East, 262 1/3 leagues; at noon the hill on the South-East Point of the Island Bonavista North 69 degrees West, distant from the shore 3 leagues.",
         "date": "1768-09-30",
         "weather": "",
-        "wind": "n",
-        "location": [
-            14.1,
-            -22.166666666666668
-        ],
+        "wind": "ne",
         "chapter": "Off Cape de Verd Islands.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -602,15 +542,15 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-10-07": {
-        "diary": "[Between Cape de Verd Islands and Equator.]",
+        "diary": "Friday, 7th. Variable light Airs and Calm all these 24 Hours. At Noon found the Current to set South-East 1/4 South one Mile per hour, and yet by Observation at Noon I find the Ship 12 Miles to the Northward of Account, a Circumstance that hath not hapned for many days, and which I believe to be owing to the heavy Squalls we had Yesterday from the South-East, which obliged us to put frequently before the Wind. Wind Southerly, calm, Northerly; course South 5 degrees West; distance 10 miles; latitude 9 degrees 42 minutes North, longitude 22 degrees 19 minutes West; at noon, Bonavista, South-East point, North 4 degrees East, 127 leagues.",
         "date": "1768-10-07",
         "weather": "",
-        "wind": "",
+        "wind": "s",
         "location": [
             9.7,
             -22.316666666666666
         ],
-        "chapter": "Between Cape de Verd Islands and Equator.",
+        "chapter": "Off Cape de Verd Islands.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-10-08": {
@@ -758,15 +698,15 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-10-20": {
-        "diary": "[Crossing Equator.]",
+        "diary": "Thursday, 20th. A Genteel gale and Clear weather. At a little before 5 p.m. had an Observation of the sun and moon, which gave the Longitude 25 degrees 46 minutes West from Greenwich, which is more Westerly than that by account carried on from the last Observation; and the Observed latitude being again to the Northward shows that there must be a current setting between the North and West. Wind South by East to South-East by South; course South 52 degrees West; distance 48 miles; latitude 3 degrees 16 minutes North, longitude 26 degrees 20 minutes West; at noon, Bonavista, North 18 degrees 30 minutes East, 270 leagues.",
         "date": "1768-10-20",
         "weather": "",
-        "wind": "",
+        "wind": "s",
         "location": [
             3.2666666666666666,
             -26.333333333333332
         ],
-        "chapter": "Crossing Equator.",
+        "chapter": "Between Cape de Verd Islands and Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-10-21": {
@@ -871,8 +811,8 @@
         "weather": "",
         "wind": "e",
         "location": [
-            -3.6833333333333336,
-            -32.483333333333334
+            -5.416666666666667,
+            -32.000000166666666
         ],
         "chapter": "Crossing Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
@@ -890,7 +830,7 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-10-31": {
-        "diary": "Tuesday, November 1st. Moderate breezes, for the most part Cloudy. Variation by the mean of Several Azimuths 0 degrees 58 minutes West in the Evening, and in the Morning found it to be 0 degrees 18 minutes West. Wind East-South-East; course South 3/4 West; distance 98 miles; latitude 10 degrees 38 minutes South.",
+        "diary": "Monday, 31st. A Fresh breeze and Clear weather. Variation 0 degrees 15 minutes West. Observed Latitude again to the Southward of the Log. Wind East to East-South-East; course, South 1/2 West; distance 114 miles; latitude 9 degrees 1 minute South, longitude 33 degrees 16 minutes West.",
         "date": "1768-10-31",
         "weather": "",
         "wind": "e",
@@ -906,10 +846,6 @@
         "date": "1768-11-02",
         "weather": "",
         "wind": "e",
-        "location": [
-            -12.8,
-            -32
-        ],
         "chapter": "Crossing Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -986,15 +922,11 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-11-09": {
-        "diary": "[Nearing Rio Janeiro.]",
+        "diary": "Wednesday, 9th. First and Latter part Hazey, with a Moderate Breeze; Middle, fresh Gales, with Thunder, Lightning, and rain. At 3 p.m. tack't in 16 fathoms, distance from the Shore 5 Leagues, the land Extending from the North-West by West to North-East. At 5 took the 2nd Reef in the Topsails and got down Topgallant Yards, stood to the South-East until Midnight, then tack'd, Sounding from 16 to 55 fathoms. At 8 a.m. Loosed the Reefs out of the Topsails and got Topgallant Yards a Cross; unstowed the Anchors and bent the Cables. At Noon Latitude Observed 21 degrees 29 minutes South, the Land Extending from South-West by South to North-North-West, distance 4 leagues, Soundings from 55 to 10 fathoms. Wind South-South-East, South-South-West, South; course South 62 degrees 15 minutes West; distance 28 miles; latitude 21 degrees 29 minutes South.",
         "date": "1768-11-09",
-        "weather": "",
-        "wind": "",
-        "location": [
-            -21.266666666666666,
-            -37.583333333333336
-        ],
-        "chapter": "Nearing Rio Janeiro.",
+        "weather": "heavy-rain",
+        "wind": "s",
+        "chapter": "Crossing Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-11-10": {
@@ -1034,15 +966,11 @@
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-11-13": {
-        "diary": "ARRIVAL AT RIO DE JANEIRO, Monday, 14th. Moderate Sea and Low breezes and fine pleasant weather. At 5 p.m. Anchored in 5 fathoms just above the Isle of Cobras, which lies before the City of Rio De Janeiro. A little before we Anchor'd the Pinnace return'd and informed me that the Vice Roy had thought proper to detain the Officer until I went ashore. Soon after we Anchored a Boat came on board bringing several of the Vice Roy's Officers, who asked many Questions in respect to the Ship: Cargo, from whence she came, Number of Guns, Men, etc., all of which was Answered to their satisfaction. They told me it was the Custom of the Port to Detain the first Officer that came from any Ship on her first Arrival until a Boat from the Vice Roy had Visited her; that my Officer would be sent on board as soon as they got on shore, which was accordingly done. About this time a Boat filled with Soldiers kept rowing about the Ship, which had orders, as I afterwards understood, not to Suffer any one of the Officers or Gentlemen, except myself, to go out of the Ship. In the Morning I waited upon the Vice Roy and obtained leave to purchase Provisions, Refreshments, etc., for the Ship, but obliged me to employ a person to buy them for me under a pretence that it was the Custom of the Place, and he likewise insisted (notwithstanding all I could say to the contrary), on putting a Soldier into the Boats that brought anything to or from the Ship, alledging that it was the Orders of his Court, and they were such as he could not Dispence with, and this indignity I was obliged to submit to, otherwise I could not have got the supplys I wanted; being willing, as much as in me lay, to avoid all manner of Disputes that might cause the least delay, and at the same time to Convince him that we did not come here to Trade, as I believe he imagined--for he Certainly did not believe a word about our being bound to the Southward to observe the Transit of Venus, but looked upon it only as an invented story to cover some other design we must be upon, for he could form no other Idea of that Phenomenon (after I had explained it to him), than the North Star Passing through the South Pole; these were his own words. He would not permit the Gentlemen to reside ashore during our Stay here, nor permit Mr. Banks to go into the country to gather plants, etc.; but not the least hint was given me at this time that no one of the Gentlemen was to come out of the Ship but myself, or that I was to be put under a Guard when I did come; but this I was soon Convinced of after I took my leave of His Excellency and found that an Officer was to attend upon me whereever I went, which at first the Vice Roy pretended was only meant as a Complement, and to order me all the Assistance I wanted. This day the People were Employed in unbending the Sails, in fitting and rigging the Spare Topmasts in the room of the others, and getting on shore Empty Water Casks.",
+        "diary": "Sunday, 13th. First and Latter parts a Genteel Sea breeze and Clear weather, the Middle Calm. P.M. standing along Shore for Rio De Janeiro observed that the land on the Sea Coast is high and Mountainous, and the shore forms some small Bays or Coves wherein are Sandy Beaches. At 8 Shortned Sail; the Sugar Loaf Hill at the West Entrance to Rio De Janeiro West-North-West, distant 4 or 5 leagues, at the same time was abreast of 2 Small rocky Islands, that lie about 4 Miles from the Shore. At 9 a.m. Sprung up a light breeze at South-East, at which time we made Sail for the Harbour, and sent the Pinnace with a Lieutenant before us up to the city of Rio De Janeiro, to acquaint the Vice Roy with the reason that induced us to put in here, which was to procure Water and other refreshments, and to desire the Assistance of a Pilot to bring us into proper Anchoring ground; at Noon Standing in for the Harbour.",
         "date": "1768-11-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
-        "chapter": "At Rio Janeiro.",
+        "chapter": "Nearing Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-11-15": {
@@ -1050,10 +978,6 @@
         "date": "1768-11-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1062,10 +986,6 @@
         "date": "1768-11-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1074,10 +994,6 @@
         "date": "1768-11-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1086,10 +1002,6 @@
         "date": "1768-11-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1098,10 +1010,6 @@
         "date": "1768-11-19",
         "weather": "cloudy",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1110,10 +1018,6 @@
         "date": "1768-11-20",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1122,10 +1026,6 @@
         "date": "1768-11-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1134,10 +1034,6 @@
         "date": "1768-11-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1146,10 +1042,6 @@
         "date": "1768-11-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1158,10 +1050,6 @@
         "date": "1768-11-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1170,10 +1058,6 @@
         "date": "1768-11-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1182,10 +1066,6 @@
         "date": "1768-11-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1194,10 +1074,6 @@
         "date": "1768-11-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1206,10 +1082,6 @@
         "date": "1768-11-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1218,10 +1090,6 @@
         "date": "1768-11-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1230,10 +1098,6 @@
         "date": "1768-12-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1242,10 +1106,6 @@
         "date": "1768-12-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1254,10 +1114,6 @@
         "date": "1768-12-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1266,10 +1122,6 @@
         "date": "1768-12-04",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1278,10 +1130,6 @@
         "date": "1768-12-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1290,24 +1138,16 @@
         "date": "1768-12-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.1,
-            -41.166666666666664
-        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-12-07": {
-        "diary": "THURSDAY, December 8th. Fore and Middle parts Moderate breezes and Cloudy; remainder, little wind and Clear weather. At 3 p.m. the Boat returned from the Island; hoisted her in and made Sail at 6. The Sugar Loaf at the west Entrance of Rio de Janeiro bore North 1/2 East, distance 7 leagues; it lies from the City of Rio de Janeiro, from which I take my Departure, South-West 4 miles. Wind East-North-East, North-East, North by East; course South 7 degrees 30 minutes West; distance 85 miles; latitude 24 degrees 17 minutes South, longitude 42 degrees 29 minutes West.",
+        "diary": "Wednesday, 7th. First and latter part a Genteel breeze at South-East and East; the Middle, Calm. At 5 a.m. weighed and tow'd out of the Bay; at 8 Discharged the Pilot and his Boat. A breeze of Wind Springing up Easterly made Sail out to Sea, and sent a boat to one of the Islands laying before the Bay to cut Brooms, a thing we was not permitted to do while we lay in the Harbour; the Guard Boat which had constantly attended all the time we lay in the Bay and Harbour did not leave us until the Pilot was discharged. At noon the Sugar Loaf at the west Entrance of the Bay bore North by West 1/2 West, distance, 8 or 9 miles.",
         "date": "1768-12-07",
         "weather": "",
-        "wind": "e",
-        "location": [
-            -24.283333333333335,
-            -42.483333333333334
-        ],
-        "chapter": "Description of Rio Janeiro.",
-        "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
+        "wind": "",
+        "chapter": "At Rio Janeiro.",
+        "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
     "1768-12-09": {
         "diary": "Friday, 9th. Genteel light breezes and Clear weather. At 3 a.m. the Fore top-gallant Mast broke short by the Cap; the Carpenter employed making another. Wind North, North-East, South-South-West; course South 22 degrees East; distance 32 miles; latitude 24 degrees 46 minutes South, longitude 42 degrees 16 minutes West.",
@@ -1574,13 +1414,13 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1768-12-31": {
-        "diary": "Monday, January 2nd. The first part of this day a Genteel gale and Clear weather; middle, Squally, with Lightning and rain, and some showers of Large Hail Stones; towards Noon a Steady fresh breeze and Clear weather. At noon longitude in by 3 sets of Observations between the sun and moon 61 degrees 7 minutes 45 seconds, which is 43 seconds to the Eastward of yesterday's Observations. The Ship by the Log has made 4 minutes East. Wind Westerly; course South 2 degrees East; distance 92 miles; latitude 45 degrees 17 minutes South, longitude 61 degrees 7 minutes 45 seconds West.",
+        "diary": "Saturday, 31st. Cloudy weather, with some Lightning and a few showers of rain. Variation 18 degrees 36 minutes East. Soundings from 46 to 50 fathoms; fine dark sand. Wind South-Easterly; course South 18 degrees West; distance 43 miles; latitude 43 degrees 14 minutes South, longitude 60 degrees 26 minutes West.",
         "date": "1768-12-31",
         "weather": "heavy-rain",
-        "wind": "w",
+        "wind": "s",
         "location": [
-            -45.28333333333333,
-            -61.11666666666667
+            -43.233333333333334,
+            -60.43333333333333
         ],
         "chapter": "Description of Rio Janeiro.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
@@ -1598,15 +1438,15 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-04": {
-        "diary": "[Nearing Terra del Fuego.]",
+        "diary": "Wednesday, 4th. First part, genteel breeze and Clear; latter, fresh gales, with heavy squalls of wind and rain, which brought us under our courses and main topsails close reefed. Soon after noon saw the appearance of Land to the Eastward, and being in the Latitude of Peypes Island, as it is lay'd down in some Charts, imagined it might be it.<em> Pepys' Island, placed on charts, from a report by Captain Cowley in 1683, about 230 miles north of Falkland Islands, and long imagined to exist. It was eventually recognised, after the discovery of Cowley's manuscript Journal, that Cowley had sighted the Falklands.</em> Bore down to be Certain, and at 1/2 past 2 p.m. discovered our Mistake, and hauld the Wind again. At 6 sounded, and had 72 fathoms black sand and mud. Variation 19 degrees 45 minutes East. Wind West-North-West to South-West by South; course South 30 degrees East; distance 76 miles; latitude 48 degrees 28 minutes South, longitude 60 degrees 51 minutes West.",
         "date": "1769-01-04",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -48.46666666666667,
             -60.85
         ],
-        "chapter": "Nearing Terra del Fuego.",
+        "chapter": "Description of Rio Janeiro.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-05": {
@@ -1662,10 +1502,6 @@
         "date": "1769-01-09",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -51.266666666666666,
-            -62.833333333333336
-        ],
         "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1698,58 +1534,38 @@
         "date": "1769-01-12",
         "weather": "heavy-rain",
         "wind": "n",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-13": {
-        "diary": "[In Strait of Le Maire.]",
+        "diary": "Friday, 13th. The greatest part of this day little wind and Cloudy. At 8 p.m., Cape St. Diego, at the west entrance of Straits La Maire, East, distance about 5 leagues. Keept under an easey Sail until daylight, at which time we were abreast of Cape St. Diego, and then put into the Straits, but the Tide soon turned against us and obliged us to haul under the Cape again and wait until 9 a.m. when it shifted in our favour. Put into the Straits again with a Moderate breeze at South-West, which soon grew Boisterous with very heavy Squalls, with rain and hail, and obliged us to Close reef our Topsails. Wind North-East by East, West-South-West, South-West; latitude 54 degrees 39 minutes South; at noon, Cape St. Diego North 2 leagues.",
         "date": "1769-01-13",
-        "weather": "",
-        "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
-        "chapter": "In Strait of Le Maire.",
+        "weather": "heavy-rain",
+        "wind": "ne",
+        "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-14": {
-        "diary": "Cape St. Diego bore at this time South by East about 4 Leagues Distant. At 1/2 past 7 Tackt and Stood to the South-East, Cape St. Diego bearing South by East, distance 5 Leagues. At 1 a.m., Squally, wore Ship, Staten Land extending from North to East. At 4, Moderate Weather, loosed a Reef out of each Topsail, the Cape of Good Success West by South, and Cape St. Diego North-North-West, being now in the Strait, but the Tide turning against us soon carried us out. The Violence of the Tide of Ebb rose such a Sea off Cape St. Diego, that it looked as if it was breaking Violently on the ledge of Rocks, and would be taken for such by any who know'd not the true cause. When the Ship was in this Torrent she frequently Pitched her Bowsprit in the Water. By Noon we got under the Land between Cape St. Diego and Cape St. Vincent, where I thought to have Anchored, but found the Bottom every where hard and Rocky; the Depth of Water from 30 to 12 fathoms. Sent the Master to Examine a small Cove which appeared to our View a little to the Eastward of Cape St. Vincent. Wind South-South-West and South-West by South.",
+        "diary": "Saturday, 14th. First part Strong Gales, and very heavy squalls with Hail and Rain; remainder more moderate but unsettled, sometimes a fresh breeze and Squally, and sometimes little wind. Kept plying in the Straits until 1/2 past 4 p.m., at which time the Tide had made strong against us, and the wind not abating, bore away, intending to have hauled under Cape St. Diego, but was prevented by the force of the Tide, which carried us past that Cape with surprising rapidity, at the same time caused a very great sea. At 6, the weather being Clear, took 9, or 3 sets of, Observations of the sun and moon in order to find the Longitude of the place, and as they perhaps are the first Observations of this kind that were ever made so near to the Extremity of South America, I have inserted them below just as they were taken, that everybody may judge for themselves.",
         "date": "1769-01-14",
         "weather": "",
-        "wind": "s",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
+        "wind": "",
         "chapter": "In Strait of Le Maire.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-15": {
-        "diary": "[In Success Bay.]",
+        "diary": "Sunday, 15th. Moderate breezes at South and South-East, and cloudy weather, the greater part of this day. At 2 p.m. the Master return'd with an account that there was Anchorage in 4 fathoms Water and a good bottom close to the Eastward of the first black bluff point which is on the East side of Cape St. Vincent, at the very Entrance of the Cove we saw from the Ship (which I named Vincent Bay). Before this Anchoring ground lay several Rocky Ledges covered with Sea Weed: on these Ledges I was informed was not less than 8 or 9 fathoms, but in standing in with the Ship the first we came upon had only 4 fathoms upon it. I therefore thought that Anchoring here would be attended with some Risk, and that it would be better to Endeavour to find some Port in the Strait, and there Compleat our Wood and Water. However, I sent an Officer with a Boat on shore to attend to Mr. Banks and people who was very desirous of being on shore at any rate, while I keept plying as near the shore as possible with the Ship. At 9 they return'd on board bringing with them several Plants, Flowers, etc., most of them unknown in Europe, and in that Alone consisted their whole Value; they saw none of the Natives, but meet with several of their old Hutts. Hoisted the Boat in and made Sail into the Straits and at 3 a.m. Anchord in 12 1/2 fathoms Water (the bottom Coral rocks) before a small Cove which we took for Port Maurice, and near 1/2 a Mile from the shore Cape St. Diego South-South-West, and Cape St. Bartholomew (which is the south point of Staten Land) East-South-East.",
         "date": "1769-01-15",
-        "weather": "",
+        "weather": "cloudy",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
-        "chapter": "In Success Bay.",
+        "chapter": "In Strait of Le Maire.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-16": {
-        "diary": "The Women Wear a Piece of Skin over their Privy Parts, but the Men observe no such decency. Their Hutts are made like a behive, and open on one side where they have their fires; they are made of small Sticks and covered with branches of trees, long Grass, etc., in such a manner that they are neither Proof against Wind, Hail, rain or Snow, a sufficient proof that these People must be a very hardy race. They live chiefly on shell fish, such as Muscels, which they gather from off the Rocks along the Sea Shore, and this seems to be the Work of the Women. Their Arms are Bows and Arrows neatly made; their Arrows are bearded, some with glass and others with fine flint; several Pieces of the former we saw amongst them with other European things, such as rings, Buttons, Cloth, Canvas, etc., which I think proves that they must sometimes travel to the Northward, as we know of no Ship that hath been in these parts for many Years; besides, they were not at all surprised at our Fire Arms; on the Contrary, they seemed to know the use of them, by making signs to us to fire at Seals or Birds that might come in the way. They have no Boats that we saw or anything to go upon the Water with; their number doth not Exceed 50 or 60 young and old, and there are fewer Women than Men. They are Extreamly fond of any Red thing, and seemed to set more Value on Beads than anything we could give them; in this Consists their whole Pride, few, either Men or Women, are without a Necklace or String of Beads made of Small Shells or bones about their Necks. They would not taste any strong Liquor, neither did they seem fond of our Provisions. We could not discover that they had any Head or Chief or Form of Government, neither have they any useful or necessary Utensil except it be a Bag or Basket to gather their Muscels into. In a word they are perhaps as Miserable a sett of People as are this day upon Earth.<em> Cook's description of the natives of Tierra del Fuego is good to the present day, except that those who live farther westward are still more wretched. Those of the main island, in which the Bay of Good Success lies, are able to kill guanaco, and enjoy a better climate. They, as Cook observed, never go on the water, whereas those westward practically live in canoes.</em> Having found a convenient place on the south side of the Bay to Wood and Water at, we set about that Work in the Morning, and Mr. Banks with a Party went into the Country to gather Plants, etc.",
+        "diary": "Monday, 16th. A Fresh breeze of Wind at South and South-West, with frequent showers of Rain and Snow. At 2 p.m. Anchored in the Bay of Success in 9 fathoms, the bottom Owse and sand.<em> The Endeavour was three days and a half in getting through the Strait of Le Maire, as far as Success Bay. It is a difficult passage for a sailing vessel even in the present day, as the tides are strong and winds generally contrary, but experience has enabled good directions to be given as to the best way to pass the Strait. Cook himself gives capital advice farther on.</em> The south point of the Bay bore South-East and the north point East-North-East. This Bay I shall describe when I come to speake of the rest of the Coast. Hoisted out the Boats and moor'd with the Stream Anchor. While this was doing I went ashore accompanyed by Mr. Banks and Dr. Solander to look for a Watering place and to speak with the Natives, who were assembled on the Beach at the Head of the Bay to the Number of 30 or 40. They were so far from being afraid or surprised at our coming amongst them that three of them came on board without the least hesitation. They are something above the Middle size, of a Dark Copper Colour with long black hair; they paint their Bodies in Streakes, mostly Red and Black. Their Cloathing consists wholy in a Guanacoe Skin or that of a Seal, in the same form as it came from the Animal's back.",
         "date": "1769-01-16",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1758,10 +1574,6 @@
         "date": "1769-01-17",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1770,10 +1582,6 @@
         "date": "1769-01-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1782,23 +1590,15 @@
         "date": "1769-01-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-20": {
-        "diary": "[Sailed from Success Bay.]",
+        "diary": "Friday, 20th. Moderate gales and Cloudy with frequent Showers of rain all this day. This Evening the Surf abated, and at 2 a.m. sent the People on shore to Wood and Water and cut Brooms, all of which we Completed this day. In this Service we lost our small Kedge Anchor, it having been laid off the Watering Place to ride the Long-boat by, and the Gale had broke away the Hawser and Buoy rope, and perhaps buried the Anchor in the Sand, for notwithstanding our utmost Endeavours we were not able to Hook it. Took up the Stream Anchor and made ready for Sailing.",
         "date": "1769-01-20",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
-        "chapter": "Sailed from Success Bay.",
+        "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-21": {
@@ -1806,10 +1606,6 @@
         "date": "1769-01-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1818,10 +1614,6 @@
         "date": "1769-01-22",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1830,27 +1622,19 @@
         "date": "1769-01-23",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-24": {
-        "diary": "[Off Cape Horn.]",
+        "diary": "Tuesday, 24th. The fore and Middle parts of these 24 Hours Moderate Gales and Cloudy with some Showers of Rain; the Latter, fresh gales with flying Showers. At 7 p.m. New Island bore North-West by North, and a small Island laying to the Westward of it bore West by North. Variation per Several Azimuths 21 degrees 0 minutes East, which is much less than we have yet found it upon this Coast; yet I am satisfied with the Goodness of the Observations. At 1/2 past 1 a.m. the Wind Shifted from South-South-West to East-South-East. Tackt and stood South-West; at 6 Saw the Land to the Westward making like several Islands. At 8 two Small Islands laying off a low Point of Land bore West by South, distant 3 Leagues, and the small Island we saw last night bore North-North-West. This I take to be the Island of Evouts, it is about one League in Circuit, and of a Moderate height and lies 4 Leagues from the Main. Near the South Point of it are some Peaked rocks pretty high above Water; the wind coming to the Southward we did but just weather this Island; in passing it, sounded and had 40 fathoms Water, sand, and broken Shells. At Noon it bore North-East distance one League, and the low point of land before mentioned South 17 degrees West distant 4 or 5 Leagues. Tackt and Stood to the South-East, wind at South-South-West. From this low Point the land trends to the North-West, about 4 Leagues, where it ends in a low point round which to the Westward appears to be a Deep Bay, unless this land should prove to be an Island or Islands, which is most likely. It rises into high Craggy hills, and the Shore seems to form several Bays; if so, they must afford good Shelter for Shipping against Southerly and Westerly winds.",
         "date": "1769-01-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -54.333333333333336,
-            -64.58333333333333
-        ],
-        "chapter": "Off Cape Horn.",
+        "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-25": {
-        "diary": "[Off Cape Horn.]",
+        "diary": "Wednesday, 25th. Winds from the South to the West-North-West, the first part fresh Gales and Squally with some Rain; Middle, little wind with Hail and Rain; latter, fresh Gales and Hazey, with Showers of Rain. At 8 p.m. the Island of Evouts North-West, distant 3 or 4 miles. Variation, per morning Amplitude 21 degrees 16 minutes East. At 8 a.m. the Southermost low point of land seen Yesterday Bore South 74 degrees West, and a remarkable Peaked Hill to the Southward of it South-West; and soon after we discovered that the land which we took Yesterday to be a part of the Main or an Island, was three Islands, which I take to be Hermites. At Noon the South Point of the Southermost Island bore North-West by West distant 3 leagues, having then 58 fathoms Peble Stones. This Point is pretty high and consists of Peaked Craggy rocks, and not far from it lay several others high above Water. It lies in the Latitude of 55 degrees 53 minutes South and South-West 26 Leagues from Straits La Mair, and by some on board thought to be Cape Horn; but I was of another Opinion, and with good reason, because we saw land to the Southward of it about 3 or 4 leagues. It appeared not unlike an Island with a very high round Hummock upon it; this I believe to be Cape Horn, for after we had stood about 3 Leagues the weather cleared up for about a quarter of an hour, which gave us a sight of the land bearing West-South-West, but we could see no land to the southward or Westward of it, and therefore conclude that it must be the Cape, but whether it be an Island of itself, a part of the Southermost of Hermits Islands, or a part of Terra del Fuego, I am not able to determine. However, this is of very little Consequence to Navigation: I only wished to be Certain whether or no it was the Southermost Land on or near to Terra del Fuego; but the thick foggy weather and the westerly winds which Carried us from the land prevented me from satisfying my Curiosity in this point, but from its Latitude and the reasons before given I think it must, and if so it must be Cape Horn, and lies in the latitude of 55 degrees 53 minutes South and Longitude 68 degrees 13 minutes West from the Meridian of Greenwich,<em> No doubt this was Cape Horn, but it lies in 55 degrees 58 minutes South, 67 degrees 16 minutes West.</em> being the Mean result of Several Observations of the sun and moon made the day after we left the land, and which agreed with those made at Straits Le Mair, allowing for the distance between one place and the other, which I found means very accurately to determine. As we are now about taking our departure from the Land, which we are not likely to fall in with again, I shall give a more full Description of such parts of the Coasts of Terra del Fuego as hath fallen under my inspection.",
         "date": "1769-01-25",
         "weather": "",
         "wind": "",
@@ -1922,13 +1706,13 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-01-31": {
-        "diary": "Wednesday, February 1st. First part, fresh Gales; latter, light Airs and Cloudy; P.M. found the Variation by several Azimuth to be 24 degrees 53 minutes East. At Noon sounded, but had no ground with 240 fathoms of line; hoisted a Boat out to try if there was any Current, but found none. The weather was such as to admit Mr. Banks to row round the Ship in a Lighterman's Skiff shooting birds. Wind, South-East by East, South-South-East, East; course, North-West by West; distance, 106 miles; latitude 58 degrees 46 minutes South, longitude 78 degrees 42 minutes West.",
+        "diary": "Tuesday, 31st. First part moderate and Cloudy, with some rain; in the night, little wind and Calm; towards Noon, fresh Gales and Cloudy. Between 7 and 8 p.m., being then in the Latitude of 60 degrees 10 minutes, which was the farthest south we were, and in the Longitude of 74 degrees 30 minutes found the Variation of the Compass by the mean of Azimuth to be 27 degrees 9 minutes East. At 3 a.m. wind at East-South-East, and Moderate breeze. Set the Steeringsails, and soon after 2 Birds like Penguins were seen by the Mate of the Watch. Wind West-North-West, calm, East-South-East, South-South-East; course North 71 degrees West; distance, 55 miles; latitude 59 degrees 46 minutes South, longitude 75 degrees 54 minutes West.",
         "date": "1769-01-31",
-        "weather": "",
-        "wind": "",
+        "weather": "heavy-rain",
+        "wind": "w",
         "location": [
-            -58.766666666666666,
-            -78.7
+            -59.766666666666666,
+            -75.9
         ],
         "chapter": "Off Cape Horn.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
@@ -2066,15 +1850,15 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-02-13": {
-        "diary": "[Cape Horn to Tahiti.]",
+        "diary": "Monday, 13th. The first part of these 24 Hours, moderate breezes and Cloudy; remainder, fresh Gales and cloudy. P.M saw a great many Albetrosses and other Birds about the Ship; some were all white and about the size of Teal. Took several Observations of the sun and moon, the result of which gave 90 degrees 13 minutes West Longitude from Greenwich. The Variation of the Compass by the Mean of several Azimuths 17 degrees East. The Longitude by account is less than that by Observation, 37 minutes, which is about 20 Miles in these high Latitudes, and nearly equal to the Error of the Log line before mentioned. This near Agreement of the 2 Longitudes proves to a Demonstration that we have had no Western Current since we left the Land. Wind West, Northerly; course North 75 degrees West; distance 35 miles; latitude 49 degrees 35 minutes, longitude 90 degrees 37 minutes.",
         "date": "1769-02-13",
-        "weather": "",
-        "wind": "",
+        "weather": "cloudy",
+        "wind": "w",
         "location": [
             -49.583333333333336,
             -90.61666666666666
         ],
-        "chapter": "Cape Horn to Tahiti.",
+        "chapter": "Off Cape Horn.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-02-14": {
@@ -2238,21 +2022,17 @@
         "date": "1769-02-27",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -41.06666666666667,
-            -109.86666666666666
-        ],
         "chapter": "Cape Horn to Tahiti.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-02-28": {
-        "diary": "Wednesday, March 1st. First part fresh breezes, the remainder moderate breezes and clear weather. The result of the Forementioned Observations gives 110 degrees 33 minutes West Longitude from Greenwich, and exactly agrees with the Longitude given by the Log from Cape Horn. This Agreement of the two Longitudes after a Run of 660 leagues is surprizing, and much more than could be expected; but, as it is so, it serves to prove, as well as the repeated trials we have made when the weather would permit, that we have had no Current that hath Affected the Ship since we came into these Seas. This must be a great Sign that we have been near no land of any extent, because near land are generally found Currents. It is well known that on the East side of the Continent in the North Sea we meet with Currents above 100 Leagues from the Land, and even in the Middle of the Atlantic Ocean, between Africa and America, are always found Currents; and I can see no reason why Currents should not be found in this Sea, supposing a Continent or lands lay not far West from us, as some have imaggin'd, and if such land was ever seen we cannot be far from it, as we are now 560 leagues West of the Coast of Chili.<em> These are instances of Cook's observation and seamanlike perspicacity. The prevailing belief of the time was in a great southern continent.</em> Wind West by South; course North 76 degrees West; distance 52 miles; latitude 38 degrees 44 minutes South, longitude 111 degrees 43 minutes West; at noon, Cape Horn South 60 degrees East 660 leagues.",
+        "diary": "Tuesday, 28th. The former part little wind and fine clear weather; the Air full as warm as in the same Degree of North Latitude at the Correspondent Season of the Year. The South-West swells still keep up, notwithstanding the Gale hath been over about 30 Hours, a proof that there is no land near in that Quarter.<em> These are instances of Cook's observation and seamanlike perspicacity. The prevailing belief of the time was in a great southern continent.</em> The remainder part of this day fresh breezes and clear. At 9 a.m. took 3 Sets of Observations of the sun and moon in order to find the Longitude of the Ship. Wind West to North-West; course North 13 degrees West; distance 42 miles; latitude 39 degrees 33 minutes 30 seconds South, longitude 110 degrees 38 minutes West.",
         "date": "1769-02-28",
         "weather": "hazy",
         "wind": "w",
         "location": [
-            -38.733333333333334,
-            -111.71666666666667
+            -39.55,
+            -110.63333333333334
         ],
         "chapter": "Cape Horn to Tahiti.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
@@ -2510,15 +2290,15 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-03-23": {
-        "diary": "[Passing Low Archipelago.]",
+        "diary": "Thursday, 23rd. Fresh gales and Squally, with rain, the first part; remainder fresh Gales and Cloudy. P.M. saw some Men-of-War Birds, and Egg Birds, and in the Morning saw more Egg Birds and Tropic Birds. The Man-of-War and Tropic Birds are pretty well known, but the Egg Bird (as it is called in the Dolphin's Journal) requires some discription to know it by that Name. It is a small slender Bird of the Gull kind, and all white, and not much unlike the small white Gulls we have in England, only not so big.<em> Terns.</em> There are also Birds in Newfoundland called Stearings that are of the same shape and Bigness, only they are of a Greyish Colour. These Birds were called by the Dolphin Egg Birds on account of their being like those known by that name by Sailors in the Gulph of Florida; neither they nor the Man-of-War Birds are ever reckoned to go very far from Land. Wind North by West to West by North: course North 13 degrees West; distance 49 miles; latitude 24 degrees 43 minutes South, longitude 130 degrees 8 minutes West.",
         "date": "1769-03-23",
-        "weather": "",
-        "wind": "",
+        "weather": "heavy-rain",
+        "wind": "n",
         "location": [
             -24.716666666666665,
             -130.13333333333333
         ],
-        "chapter": "Passing Low Archipelago.",
+        "chapter": "Cape Horn to Tahiti.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-03-24": {
@@ -2550,10 +2330,6 @@
         "date": "1769-03-26",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -22.183333333333334,
-            -127.91666666666667
-        ],
         "chapter": "Passing Low Archipelago.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -2606,13 +2382,13 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-03-31": {
-        "diary": "Saturday, April 1st. A steady fresh Trade and fine Weather. Variation per several Azimuths 2 degrees 32 minutes East. Wind South-East to East 1/2 North; course West; distance 122 miles; latitude 19 degrees 7 minutes South, longitude 133 degrees 28 minutes West.",
+        "diary": "Friday, 31st. A Steady breeze and fine pleasant weather. A.M. took several Observations of the sun and moon, the mean result of them came within 8 Miles of Yesterday's Observations computed both by Mr. Green and myself, and yet cannot think so great an error can have been committed in the ship's run in so short a time as these observations seem to point out, and therefore I shall abide by the Longitude given by the Log unless from subsequent Observations this error should be found to be just. Wind South; course North 75 degrees 45 minutes West; distance 111 miles; latitude 19 degrees 7 minutes South, longitude 131 degrees 21 minutes West.",
         "date": "1769-03-31",
         "weather": "",
         "wind": "s",
         "location": [
             -19.116666666666667,
-            -133.46666666666667
+            -131.35
         ],
         "chapter": "Passing Low Archipelago.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
@@ -2714,15 +2490,15 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-04-10": {
-        "diary": "[Arrive at Tahiti.]",
+        "diary": "Monday, 10th. P.M. moderate breezes and cloudy; in the Night, dark, cloudy, unsettled weather, with very much Thunder, Lightning, and rain. A.M. little wind and fair. P.M. variation per Several Azimuths 5 degrees 41 minutes East. At 8 a.m. saw Osnaburg Island<em> Maitea, the easternmost of the Society Islands, which are all high, and a great contrast to the low coral atolls of the Paumotus.</em> (so called by Captain Wallis, the first discoverer) bearing North-West by West, distance 4 or 5 Leagues. It is a high round Island, and appears to be not above a League in Circuit, and when it bears as above it looks like a high Crown'd Hatt, but when it bears North the Top is more like the roof of a House. It lies in the Latitude of 17 degrees 48 minutes South and Longitude 148 degrees 10 minutes West, and West by South, 44 Leagues, from Chain Island. Wind North-North-West, variable, North-West by North; course South 13 degrees West; distance 67 miles; latitude 18 degrees 00 minutes South, longitude 147 degrees 47 minutes West; at noon, Osnaburg Island North by West 1/2 West, 5 leagues.",
         "date": "1769-04-10",
-        "weather": "",
-        "wind": "",
+        "weather": "heavy-rain",
+        "wind": "n",
         "location": [
             -18,
             -147.78333333333333
         ],
-        "chapter": "Arrive at Tahiti.",
+        "chapter": "Passing Low Archipelago.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-04-11": {
@@ -2750,26 +2526,18 @@
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-04-13": {
-        "diary": "As soon as the Ship was properly secured I went on shore, accompanied by Mr. Banks and the other Gentlemen,<em> Cook generally uses this term for the civilians on board.</em> with a Party of Men under Arms; we took along with us Owhaa--who took us to the place where the Dolphin watered, and made signs to us as well as we could understand that we might Occupy that ground, but it hapned not to be fit for our purpose. No one of the Natives made the least opposition at our landing, but came to us with all imaginable Marks of Friendship and Submission. We Afterwards made a Circuit through the Woods, and then came on board. We did not find the inhabitants to be numerous, and we imagin'd that several of them had fled from their habitations upon our Arrival in the Bay.",
+        "diary": "Thursday, 13th. The first part Cloudy and Squally, with Showers of rain; remainder, genteel breezes and clear weather. At 4 p.m. the North-East point of Royal Bay West 1/2 North; run under an easy sail all night, and had soundings from 22 to 12 fathoms 2 or 3 Miles from the Shore. At 5 a.m. made sail for the bay, and at 7 anchored in 13 fathoms.<em> Matavai Bay.</em> At this time we had but very few men upon the sick list, and these had but slite complaints. The Ship's company had in general been very healthy, owing in a great measure to the Sour kroutt, Portable Soup and Malt; the two first were served to the People, the one on Beef Days and the other on Banyan Days. Wort was made of the Malt, and at the discretion of the Surgeon given to every man that had the least simptoms of Scurvy upon him. By this means, and the Care and Vigilance of Mr. Monkhouse, the Surgeon, this disease was prevented from getting a footing in the Ship. The Sour Kroutt, the Men at first would not eat it, until I put it in practice--a method I never once Knew to fail with seamen--and this was to have some of it dressed every day for the Cabin Table, and permitted all the Officers, without exception, to make use of it, and left it to the Option of the men either to take as much as they pleased or none at all; but this practice was not continued above a Week before I found it necessary to put every one on board to an allowance; for such are the Tempers and disposition of Seamen in general that whatever you give them out of the common way--altho' it be ever so much for their good--it will not go down, and you will hear nothing but murmurings against the Man that first invented it; but the moment they see their superiors set a value upon it, it becomes the finest stuff in the world and the inventor an honest fellow. Wind easterly.",
         "date": "1769-04-13",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
-        "chapter": "At Tahiti.",
-        "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
+        "chapter": "Arrive at Tahiti.",
+        "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
     "1769-04-14": {
         "diary": "Friday, 14th. This morning we had a great many Canoes about the Ship; the most of them came from the Westward, and brought nothing with them but a few Cocoa Nuts, etc. Two that appeared to be Chiefs we had on board, together with several others, for it was a hard matter to keep them out of the Ship, as they Climb like Munkeys; but it was still harder to keep them from Stealing but everything that came within their reach; in this they are Prodigious Expert. I made each of these two Chiefs a present of a Hatchet, things that they seemed mostly to value. As soon as we had partly got clear of these People I took 2 Boats and went to the Westward, all the Gentlemen being along with me. My design was to see if there was not a more commodious Harbour, and to try the disposition of the Natives, having along with us the 2 Chiefs above mentioned; the first place we landed at was in great Canoe Harbour (so called by Captain Wallis); here the Natives Flocked about us in great numbers, and in as friendly a manner as we could wish, only that they show'd a great inclination to Pick our Pockets. We were conducted to a Chief, who for distinction sake we called Hurcules. After staying a short time with him, and distributing a few Presents about us, we proceeded farther, and came to a Chief who I shall call Lycurgus; this man entertained us with broil'd fish, Cocoa Nutts, etc., with great Hospitality, and all the time took great care to tell us to take care of our Pockets, as a great number of People had crowded about us. Notwithstanding the care we took, Dr. Solander and Dr. Monkhouse had each of them their Pockets picked: the one of his spy glass and the other of his snuff Box. As soon as Lycurgus was made acquainted with the Theft he dispers'd the people in a moment, and the method he made use of was to lay hold on the first thing that came in his way and throw it at them, and happy was he or she that could get first out of his way. He seem'd very much concern'd for what had hapned, and by way of recompence offered us but everything that was in his House; but we refused to accept of anything, and made signs to him that we only wanted the things again. He had already sent people out after them, and it was not long before they were return'd. We found the Natives very numerous wherever we came, and from what we could judge seemed very peacably inclin'd. About six o'Clock in the evening we return'd on board, very well satisfied with our little Excursion.",
         "date": "1769-04-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2778,10 +2546,6 @@
         "date": "1769-04-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2790,10 +2554,6 @@
         "date": "1769-04-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2802,10 +2562,6 @@
         "date": "1769-04-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2814,10 +2570,6 @@
         "date": "1769-04-18",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2826,10 +2578,6 @@
         "date": "1769-04-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2838,10 +2586,6 @@
         "date": "1769-04-20",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2850,10 +2594,6 @@
         "date": "1769-04-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2862,10 +2602,6 @@
         "date": "1769-04-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2874,10 +2610,6 @@
         "date": "1769-04-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2886,10 +2618,6 @@
         "date": "1769-04-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2898,22 +2626,14 @@
         "date": "1769-04-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-05-01": {
-        "diary": "This afternoon we set up the Observatory and took the Astronomical Quadrant ashore for the first time, together with some other Instruments, the fort being now finished and made as Tenantable as the time, Nature, and situation of the Ground and Materials we had to work upon would admit of. The North and South parts consisted of a Bank of Earth 4 1/2 feet high on the inside, and a Ditch without, 10 feet broad and 6 feet deep; on the West side facing the Bay a Bank of Earth 4 feet high, and Palisades upon that, but no Ditch, the works being at high-water mark. On the East side upon the Bank of the river was placed a double row of Casks, and, as this was the weakest side, the 2 four Pounders were planted there, and the whole was defended, beside these 2 Guns, with 6 Swivels, and generally about 45 Men with small Arms, including the Officers and Gentlemen who resided ashore. I now thought myself perfectly secure from anything these people would attempt.",
+        "diary": "Monday, 1st May. This morning Tootaha came on board the Ship, and was very Desireous of seeing into every Chest and Drawer that was in the Cabin. I satisfied his curiosity so far as to open most of those that belong'd to me. He saw several things that he took a fancy to, and collected them together; but at last he Cast his eyes upon the Adze I had from Mr. Stephens<em> The Secretary of the Admiralty.</em> that was made in imitation of one of their Stone Adzes or Axes.<em> The stone adzes of Tahiti were of excellent workmanship.</em> The Moment he lays his hands upon it he of his own accord put away everything he had got before, and ask'd me if I would give him that, which I very readily did, and he went away without asking for any one thing more, which I by experience knew was a sure sign that he was well pleased with what he had got.",
         "date": "1769-05-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2922,10 +2642,6 @@
         "date": "1769-05-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2934,10 +2650,6 @@
         "date": "1769-05-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2946,22 +2658,14 @@
         "date": "1769-05-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-05-05": {
-        "diary": "After this was over we were given to understand that we were to go to Dinner, and were desired to follow Tootaha, who led us into our own Boat, and soon after came a small Pig ready roasted, with some Bread Fruit and Cocoa Nuts. Here we thought we were to have dined, but Tootaha, after waiting about 10 Minutes, made signs to us to put off the Boat and go a Board, which we did, and bring him and Toobouratomida along with us. As soon as we got on board we all dined on the Cheer the Chief had provided. We soon found the good effects of having made friends with this man, for it was no sooner known to the Natives that he was on board the Ship than they brought Bread Fruit, Cocoa Nuts, etc., to the Fort.",
+        "diary": "Friday, 5th. Early this morning Tootaha sent some of his people to put us in mind of our promise, and these seem'd very uneasy until we set out, which Mr. Banks, Dr. Solander, and myself did about 10 o'clock in the Pinnace, having one of these men with us. As soon as we came to Appara, the place where Tootaha resided, we saw a great number of People at the landing place near his House; one among them, who had a large Turban about his Head, and a long white stick in his Hand, drove the others from the landing place by beating them with his Stick, and throwing stones at them, and at the same time directed us whereabouts to land. After we had landed he conducted us to the Chief, but in this there was no order, everyone crowded upon us crying out \"Tyo Tootaha,\" this Tootaha was our Friend. We found the chief setting in the shade under a large Tree, with a Circle of old men round him; he made us set down by him, and immediately asked for the Axe. I then gave him one, together with an upper Garment made of Broad Cloth after their Fashion, and a Shirt. The Garment he put on, but the Shirt he gave to the man who first received us at landing, who was now seated by us, and the Chief seemed desirous that we should take particular notice of him. By that Time Obaria, and several other women whom we knew, came and sat down by us. Tootaha did not stay long before he went away, as we thought to show himself to the people in his new Dress. He was not gone long before he return'd and took his seat again for a few minutes, then went away again, as we was told, to order something to be got for us to Eat, and at this time we gladly would have gone too, being almost Suffocated with the Crowd that was about us. However, here we remained for about 10 Minutes longer, when word was brought us that the Chief wanted us. We were then conducted to our own Boat, where we found him setting alone under the Awning. He made signs to us to come to him, which we did, and as many with us as the Boat would hold. Here he ordered some Bread fruit and Cocoa Nut to be brought, of both of which we tasted.",
         "date": "1769-05-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2970,10 +2674,6 @@
         "date": "1769-05-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2982,10 +2682,6 @@
         "date": "1769-05-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2994,10 +2690,6 @@
         "date": "1769-05-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3006,10 +2698,6 @@
         "date": "1769-05-12",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3018,10 +2706,6 @@
         "date": "1769-05-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3030,10 +2714,6 @@
         "date": "1769-05-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3042,10 +2722,6 @@
         "date": "1769-05-15",
         "weather": "cloudy",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3054,10 +2730,6 @@
         "date": "1769-05-16",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3066,10 +2738,6 @@
         "date": "1769-05-22",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3078,10 +2746,6 @@
         "date": "1769-05-23",
         "weather": "",
         "wind": "s",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3090,10 +2754,6 @@
         "date": "1769-05-24",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3102,10 +2762,6 @@
         "date": "1769-05-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3114,10 +2770,6 @@
         "date": "1769-05-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3126,10 +2778,6 @@
         "date": "1769-05-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3138,10 +2786,6 @@
         "date": "1769-05-28",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3150,22 +2794,14 @@
         "date": "1769-05-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-05-31": {
-        "diary": "Thursday, June 1st. This day I sent Lieutenant Gore in the Long boat to York Island<em> Eimeo, westward of, and near to Tahiti.</em> with Dr. Monkhouse and Mr. Sporing (a Gentleman belonging to Mr. Banks) to Observe the Transit of Venus, Mr. Green having furnished them with Instruments for that purpose. Mr. Banks and some of the Natives of this Island went along with them.",
+        "diary": "Wednesday, 31st. Late this Evening the Carpenters finished the Long boat.",
         "date": "1769-05-31",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3174,10 +2810,6 @@
         "date": "1769-06-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3186,10 +2818,6 @@
         "date": "1769-06-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3198,10 +2826,6 @@
         "date": "1769-06-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3210,22 +2834,14 @@
         "date": "1769-06-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-06-06": {
-        "diary": "We have several times seen Iron tools and other Articles with these people that we suspected came not from the Dolphin, and these they now say they had from these two Ships.",
+        "diary": "Tuesday, 6th. This day and for some days past we have been informd by several of the Natives that about 10 or 15 months ago Two Ships touched at this Island and stayed 10 days in a Harbour to the Eastward, called Ohidea, the Commander's name was Tootteraso,<em> M. de Bougainville, who laid at Hitiaa from April 6th to April 16th, 1768.</em>--so at least the Natives call him--and that one of the Natives, Brother to the Chief of Ohidea, went away with him. They likewise say these ships brought the venerial distemper to this Island, where it is now as Common as in any part of the world, and which the people bear with as little concern as if they have been accustom'd to it for Ages past. We had not been here many days before some of our People got this disease, and as no such thing hapned to any of the Dolphin's people while she was here, that I ever heard of, I had reason (notwithstanding the improbability of the thing) to think that we had brought it along with us, which gave me no small uneasiness, and did all in my power to prevent its progress, but all I could do was to little purpose, as I was obliged to have the most part of the Ship's Company ashore every day to work upon the Fort, and a Strong Guard every Night; and the Women were so very liberal with their favours--or else Nails, Shirts, etc., were temptations that they could not withstand, that this distemper very soon spread itself over the greatest part of the Ship's company, but now I have the satisfaction to find that the Natives all agree that we did not bring it here.",
         "date": "1769-06-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3234,10 +2850,6 @@
         "date": "1769-06-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3246,10 +2858,6 @@
         "date": "1769-06-10",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3258,10 +2866,6 @@
         "date": "1769-06-11",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3270,10 +2874,6 @@
         "date": "1769-06-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3282,10 +2882,6 @@
         "date": "1769-06-13",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3294,10 +2890,6 @@
         "date": "1769-06-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3306,10 +2898,6 @@
         "date": "1769-06-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3318,10 +2906,6 @@
         "date": "1769-06-16",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3330,10 +2914,6 @@
         "date": "1769-06-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3342,22 +2922,14 @@
         "date": "1769-06-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-06-20": {
-        "diary": "We refused to Except of the Dog, as being an Animal we had no use for; at which she seemed a little surprised, and told us it was very good eating, and we very soon had an opportunity to find that it was so, for Mr. Banks, having bought a Basket of Fruit in which was the Thigh of a Dog ready dressed, of this several of us tasted, and found that it was Meat not to be despised, and therefore took Obariea's Dog and had him immediately dressed by some of the Natives in the following manner: They first made a hole in the Ground about a foot Deep, in which they made a fire and heated some small Stones. While this was doing the Dog was strangled and the hair got off by laying him frequently on the fire, and as clean as if it had been scalded off with hot water. His Intrails was taken out, and the whole washed Clean, and as soon as the Stones and Hole was sufficiently heated the fire was put out and part of the Stones were left in the bottom of the hole. Upon these stones were laid green leafs, and upon them the Dog, together with the Intrails, these were likewise covered with leaves, and over them hot stones; and then the hole was close cover'd with mould. After he had laid here about 4 Hours, the Oven (for so I must call it) was op'ned, and the dog taken out, whole and well done, and it was the Opinion of every one who tasted it that they never eat sweater Meat, therefore we resolved for the future never to dispise Dog's flesh. It is in this manner that the Natives dress and Bake all their Victuals that require it--Flesh, fish, and Fruit. I now gave over all thoughts of recovering any of the things the Natives had stol'n from us, and therefore intend to give them up their Canoes whenever they apply for them.",
+        "diary": "Tuesday, 20th. Got all the Powder aShore to Air, all of which we found in a bad Condition, and the Gunner informs me that it was very little better when it came first on board. Last Night Obariea made us a visit, whom we have not seen for some time. We were told of her coming, and that she would bring with her some of the Stol'n things, which we gave Credit to because we know'd several of them were in her possession; but we were surprised to find this Woman put herself wholy in our power, and not bring with her one Article of what we had lost. The Excuse she made was that her Gallant, a man that used to be along with her, did Steal them, and she had beat him and turned him away, but she was so Sencible of her own Guilt that she was ready to drop down through fear, and yet she had resolution Enough to insist upon Sleeping in Mr. Banks's Tent all Night, and was with difficulty prevailed upon to go to her canoe, altho no one took the least notice of her. In the morning she brought her Canoe, with everything she had, to the Gate of the Fort, after which we could not help admiring her for her Courage and the Confidence she seem'd to place in us, and thought that we could do no less than to receive her into favour, and except the Present she had brought us, which consisted of a Hog, a Dog, some Bread Fruit and Plantains.",
         "date": "1769-06-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3366,10 +2938,6 @@
         "date": "1769-06-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3378,10 +2946,6 @@
         "date": "1769-06-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3390,23 +2954,15 @@
         "date": "1769-06-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-06-24": {
-        "diary": "[Tahiti: Expedition round Island.]",
+        "diary": "Saturday, 24th, Sunday, 25th. Nothing remarkable.",
         "date": "1769-06-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
-        "chapter": "Tahiti: Expedition round Island.",
+        "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-06-26": {
@@ -3414,10 +2970,6 @@
         "date": "1769-06-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3426,22 +2978,14 @@
         "date": "1769-06-27",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-06-29": {
-        "diary": "Sunday, July 9th. When, sometime in the Middle Watch, Clement Webb and Saml. Gibson, both Marines and young Men, found means to get away from the Fort (which was now no hard matter to do) and in the morning were not to be found. As it was known to everybody that all hands were to go on board on the Monday morning, and that the ship would sail in a day or two, there was reason to think that these 2 Men intended to stay behind. However I was willing to stay one day to see if they would return before I took any step to find them.",
+        "diary": "Thursday, 29th. Squally weather with Showers of rain. This morning we left Tiaraboo and entered upon that of Opooreonoo, the North-West district of the Island. The first thing we met with worthy of note was at one of their Mories, where lay the scull bones of 26 Hogs and 6 Dogs. These all lay near to and under one of their Altars. These Animals must have been offer'd as a Sacrifice to their Gods either all at once or at different times, but on what account we could not learn. The next day we met with an Effigy or Figure of a Man made of Basket work and covered with white and Black feathers placed in such order as to represent the Colour of their Hair and Skins when Tattow'd or painted. It was 7 1/2 feet high and the whole made in due proportion; on its head were 4 Nobs not unlike the stumps of Large Horns--3 stood in front and one behind. We were not able to learn what use they made of this Monster; it did not at all appear to us that they paid it the least Homage as a God: they were not the least Scrupulous of letting us examine every part of it. I am inclinable to think that it is only used by way of diversion at their Hevas or public entertainments, as Punch is in a Puppet show.<em> Note by Cook in Admiralty copy: \"Tupia informs us that this is a representation of one of the Second rank of Eatuas or Gods, called Mauwi, who inhabited the Earth upon the Creation of man. He is represented as an immense Giant who had seven heads, and was indued with immense strength and abilities. Many absurd stories are told of his Feats by Tupia.\"</em> We next passed through a Harbour, which is the only one on the south side of Opooreonoo fit for Shipping. It is situated about 5 Miles to the Westward of the Isthmus between 2 Small Islands that lay near the shore and a Mile from each other. In this Harbour is 11 and 12 fathoms of water and good Anchorage. About a League and a half to the Westward of this Harbour is the Morie of Oamo or Oberia, for some told us it belong'd to the one and some to the other; it far Exceeds every thing of this Kind upon the whole Island. It is a long square of Stonework built Pyramidically; its base is 267 feet by 87 feet; at the Top it is 250 feet by 8 feet. It is built in the same manner as we do steps leading up to a Sun Dial or fountain erected in the Middle of a Square where there is a flite of steps on each side. In this building there are 11 of such steps; each step is about 4 feet in height and the breadth 4 feet 7 inches, but they decreased both in height and breadth from the bottom to the Top. On the middle of the Top stood the Image of a Bird carved in Wood, near it lay the broken one of a Fish carved in stone. There was no hollow or Cavity in the inside, the whole being fill'd up with stones. The outside was faced partly with hewn stones and partly with others, and these were placed in such a manner as to look very agreeable to the Eye. Some of the hewn stones were 4 feet 7 inches by 2 feet 4 inches and 15 inches thick, and had been squared and Polished with some sort of an Edge Tool. On the East side was enclosed with a stone wall a piece of ground in form of a square, 360 feet by 354, in this was growing several Cypress trees and Plantains. Round about this Morie was several smaller ones all going to decay, and on the Beach between them and the Sea lay scatter'd up and down a great quantity of human bones. Not far from the Great Morie was 2 or 3 pretty large Altars, where lay the Scull bones of some Hogs and dogs. This Monument stands on the south side of Opooreonoo, upon a low point of land about 100 Yards from the Sea.<em> On map Morai-no te Oamo.</em> It appeared to have been built many Years, and was in a State of decay, as most of their Mories are. From this it would seem that this Island hath been in a more Flourishing state than it is at present, or that Religious Customs are (like most other Nations) by these people less observed. We took up our Quarters near this Morie for the night, and early in the Morning proceeded on our rout, and without meeting with anything remarkable, got on board the Ship on Saturday, the 1st of July, having made the Circuit of the whole Island, which I Estimated at something more than 30 Leagues.<em> A remarkably close estimate.</em> The Plan or Sketch which I have drawn, altho' it cannot be very accurate, yet it will be found sufficient to point out the Situation of the different Bays and Harbours and the true figure of the Island, and I believe is without any Material error. For the first 2 or 3 days we was out upon this excursion we labour'd under some difficulty for want of Provisions--particularly bread--an Article we took but little of with us--not doubting that we should get bread fruit, more than sufficient for a Boat's Crew at every place we went to, but, on the Contrary, we found the season for that fruit wholy over, and not one to be seen on the Trees, and all other fruit and roots were scarce. The Natives live now on Sour paist--which is made from bread fruit--and some bread fruit and plantains that they get from the Mountains where the season is Later, and on a Nut not unlike a chessnut which are now in Perfection; but all these Articles are at present very scarce, and therefore it is no wonder that the Natives have not supply'd us with these things of Late. [At Tahiti.] Upon my return to the Ship I found that the Provisions had been all examined and the Water got on board, amounting to 65 Tons. I now determind to get everything off from the Shore and leave the Place as soon as possible. The getting the several Articles on board, and Scraping and paying the Ship's side, took us up the following Week without anything remarkable happening until",
         "date": "1769-06-29",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3450,10 +2994,6 @@
         "date": "1769-07-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3462,47 +3002,31 @@
         "date": "1769-07-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-07-12": {
-        "diary": "[Sail from Tahiti.]",
+        "diary": "Wednesday, 12th. The Carpenter employ'd in stocking the Anchors and the Seamen in getting the Ship ready for Sea. This morning we found the Staves of the Cask the Natives stole from us some time ago laying at the Watering place; but they had been Sencible enough to keep the Iron Hoops, and only return what to them was of no use.",
         "date": "1769-07-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.633333333333333,
-            -148.96666666666667
-        ],
-        "chapter": "Sail from Tahiti.",
+        "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-07-13": {
-        "diary": "FRIDAY, July 14th. Gentle breezes at North-East and Clear weather. I have before made mention of our departure from Royal Bay on the preceeding forenoon, and likewise that I had determined to run down to Huaheine and Ulietea<em> Raiatea.</em> before we stood to the Southward; but having discovered, from the Hills of George's Island, an Island laying to the Northward, we first stood that way to take a nearer View of it. This Island is called Tethuroa.<em> Tetiaroa.</em> It lies North 1/2 West, distant 8 Leagues from Point Venus, and is a small, low, uninhabited Island, frequented by the people of George's Island for fish, with which it is said to abound. At 6 A.M. the Westermost part of York Island bore South-East 1/2 South and the body of George's Island East 1/2 South. Punished the 2 Marines who attempted to desert from us at George's Island with 2 Dozen lashes each, and then released them from Confinement. At Noon the body of York Island<em> Eimeo, or Murea.</em> bore East by South 1/2 South, Royal Bay South 70 degrees 45 minutes East, distant 61 Miles; and an Island which we took to be Saunder's Island, discovered by Captain Wallace (called by the Natives Topoamanan),<em> Tubuai Manu.</em> bore South-South-West Latitude observed, 17 degrees 9 minutes South. Saw land bearing North-West 1/2 West, which Tupia calls the Island of Huaheine.",
+        "diary": "Thursday, 13th. Winds Easterly, a light breeze. This morning we was visited by Obariea and several others of our acquaintance, a thing we did not expect after what had hapned but 2 days ago; but this was in some measures owing to Mr. Banks, Dr. Solander, and myself going to Apparra last night, where we so far convinc'd them of our Friendly disposition that several of them were in tears at our coming away. Between 11 and 12 o'Clock we got under Sail, and took our final leave of these People, after a stay of just three Months, the most part of which time we have been upon good terms with them. Some few differences have now and then hapned owing partly to the want of rightly understanding each other, and partly to their natural thievish disposition, which we could not at all times bear with or guard against; but these have been attended with no ill consequence to either side except the first, in which one of them was kill'd, and this I was very sorry for, because from what had hapned to them by the Dolphin I thought it would have been no hard matter to have got and keep a footing with them without bloodshed. For some time before we left this Island several of the Natives were daily offering themselves to go away with us; and as it was thought they must be of use to us in our future discoveries we resolved to bring away one whose name is Tupia, a Chief and a Priest. This man had been with us most part of the time we had been upon the Island, which gave us an opportunity to know something of him. We found him to be a very intelligent person, and to know more of the Geography of the Islands situated in these Seas, their produce, and the religion, laws, and Customs of the inhabitants, than any one we had met with, and was the likeliest person to answer our Purpose. For these reasons, and at the request of Mr. Banks, I received him on board, together with a young Boy, his Servant. For the first two Months we were at this Island the Natives supplied us with as much Bread fruit, Cocoa Nuts, etc., as we could well dispence with, and now and then a few Hogs, but of these hardly sufficient to give the Ship's company one and sometimes two fresh Meals a week. As to Fowls, I did not see above 3 dozen upon the whole Island, and fish they seldom would part with; but during the last Month we got little refreshment of any sort. The detaining of their Canoes broke off Trade at that time, and it never after was begun again with any Spirit. However, it was not wholy owing to this, but to a Scarcity. The Season for Bread fruit was wholy over, and what other Fruits they had were hardly sufficient for themselves; at least, they did not care to part with them. All sorts of Fruits we purchased with Beads and Nails, not less than 40-penny, for a nail under that size was of no value; but we could not get a Hog above 10 or 12 pounds weight for anything less than a Hatchet, not but that they set great value upon Spike Nails; but, as this was an Article many in the Ship are provided with, the Women soon found a much easier way at coming at them than by bringing Provisions. Our Traffick with this people was carried on with as much Order as in the best regulated Market in Europe. It was managed ashore chiefly by Mr. Banks, who took uncommon Pains to procure from the Natives every kind of refreshment that was to be got. Axes, Hatchets, Spikes, large Nails, looking Glasses, Knives, and Beads are all highly valued by this People, and nothing more is wanting to Traffick with them for everything they have to dispose of. They are likewise very fond of fine Linnen Cloth, both White and Printed, but an Axe worth half a Crown will fetch more than a Piece of Cloth worth Twenty Shillings.",
         "date": "1769-07-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.483333333333334,
-            -149.5
-        ],
-        "chapter": "Historical Notes, Tahiti.",
-        "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
+        "chapter": "Sail from Tahiti.",
+        "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
     "1769-07-15": {
-        "diary": "[At Huaheine.]",
+        "diary": "Saturday, 15th. Light airs and Variable between the North and West-South-West. Clear weather. At 6 p.m. York Island bore South-East, and Huaheine West-North-West, and at 7 a.m. it bore West. Latitude observed at Noon 16 degrees 50 minutes South. Royal Bay South 37 degrees 30 minutes East, distant 22 Leagues.",
         "date": "1769-07-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.483333333333334,
-            -149.5
-        ],
-        "chapter": "At Huaheine.",
+        "chapter": "Historical Notes, Tahiti.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-16": {
@@ -3510,10 +3034,6 @@
         "date": "1769-07-16",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -17.483333333333334,
-            -149.5
-        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3522,10 +3042,6 @@
         "date": "1769-07-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.483333333333334,
-            -149.5
-        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3534,23 +3050,19 @@
         "date": "1769-07-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.483333333333334,
-            -149.5
-        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-19": {
-        "diary": "[At Raiatea.]",
+        "diary": "Wednesday, 19th. P.M. Variable light Airs and clear weather. The Trading party had better success to-day than Yesterday. A.M. a Gentle breeze at South-East. As it was known to the Natives that we intended to sail to-day, Oree, the Chief, and several more, came on board to take their leave of us. To the Chief was given a small plate on which was Stamp'd the following inscription--viz., \"His Britannick Majesty's Ship, Endeavour, Lieutenant Cook, Commander, 16th July, 1769, Huaheine.\" This was accompanied with some Medals, or Counters, of the English Coins, struck 1761, together with some other Presents. All these, but more particularly the Plate, the Chief promised never to part with. This we thought would prove as lasting a Testimony of our having first discover'd this Island as any we could leave behind. After this was done they were dismissed, and we began to prepare to leave the place. But as that falls out on the following day, I shall conclude this with a Discription of the Island, which is situated in the Latitude of 16 degrees 43 minutes South, and Longitude 150 degrees 52 minutes West from Greenwich and North 58 degrees West, distance, 31 leagues, from King George's Island, or Otaheite. It is about 7 Leagues in compass, and of a Hilly and uneven surface. It hath a safe and commodious Harbour, which lies on the West side, under the Northermost high land and within the North end of the Reef which lays along that side of the Island. Into this Harbour are 2 inlets, or openings in the Reef, about 1 1/2 Miles from each other. The Southermost is the Broadest, on the South side of which is a very small sandy Island. This Harbour is called by the Natives Ohwarhe. The produce of this Island is in all respects the same as King George's Island, and the Manner and Customs of the inhabitants much the same, only that they are not addicted to Stealing; and with respect to colour they are rather fairer than the natives of George's Island, and the whole more Uniformly of one Colour.",
         "date": "1769-07-19",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
         "location": [
             -16.716666666666665,
             -150.86666666666667
         ],
-        "chapter": "At Raiatea.",
+        "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-20": {
@@ -3558,10 +3070,6 @@
         "date": "1769-07-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3570,10 +3078,6 @@
         "date": "1769-07-21",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3582,10 +3086,6 @@
         "date": "1769-07-22",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3594,10 +3094,6 @@
         "date": "1769-07-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3606,23 +3102,15 @@
         "date": "1769-07-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-25": {
-        "diary": "[Off Bolabola.]",
+        "diary": "Tuesday, 25th. First part, little wind at North-East; in the night calm, A.M. a fresh breeze at West-North-West, fair weather. At 3 p.m. Anchor'd in 22 fathoms Muddy bottom, the North Channell open bearing North-East 1/2 East, at 5 a.m. a breeze sprung up at North-West, weighed and put to Sea, and hauled to the Northward in order to take a View of the Island and Ataha and Bolabola; but before I proceed farther, I shall describe the Harbour we have been in.<em> It has no particular name, but extends the whole of the eastern side of Raiatea.</em> This Harbour, taken in its greatest Extent, is capable of holding any number of Shipping in perfect security, as it extends almost the whole length of this side of the Island, and is defended from the Sea by a reef of Coral rocks; the Southermost opening<em> Teava Moa Pass.</em> in this reef or Channell into the Harbour, which is not more than a Cable's length wide, is off the Eastermost point of the Island, and may be known by a small woody Island, which lies a little to the South-East of it. Between 3 and 4 miles North-West from this Island lies 2 other small Islands, and in the same direction as the reef, of which they are a part. Between these 2 Islands is another Channell<em> Iriru Pass.</em> into the Harbour that is a full Quarter of a Mile broad; still further to the North-West are some other small Islands, where, I am informed, is another small inlet, but this I did not see; but, as to the other 2, we enter'd the Harbour by the one and came out by the other.",
         "date": "1769-07-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
-        "chapter": "Off Bolabola.",
+        "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-26": {
@@ -3630,10 +3118,6 @@
         "date": "1769-07-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3642,10 +3126,6 @@
         "date": "1769-07-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3654,10 +3134,6 @@
         "date": "1769-07-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3666,10 +3142,6 @@
         "date": "1769-07-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3678,22 +3150,14 @@
         "date": "1769-07-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-07-31": {
-        "diary": "Tuesday, August 1st. A fresh Gale at South-East the most part of this day. Keept plying to windward all the afternoon and night, and in the morning found ourselves nearly the length of the South end of Ulietea, and to windward of some Harbours that lay on the West side of this Island. Into one of them I intended to go with the Ship, in order to stop a Leak in the Powder room, which could not be easily done at Sea, and to take in more Ballast, as I found her too light to carry sail upon a wind. At Noon plying off one of the Harbour's mouth, the wind being right out.",
+        "diary": "Monday, 31st. Fresh Gales in the South-East Quarter, and close, cloudy weather. Plying to windward all this day, on the South-West side of Otaha, without gaining little or anything. In the middle watch was obliged to double reef our Topsails, but in the morning it fell moderate, and we crowded all the sail we could. At Noon the South end of Otaha bore East, distance 2 Leagues. Latitude observed 16 degrees 40 minutes South. Tupia told us there was a very good Harbour within the Reef which lies on this side of Otaha; but this Harbour I shall discribe in another place.",
         "date": "1769-07-31",
-        "weather": "",
+        "weather": "cloudy",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3702,10 +3166,6 @@
         "date": "1769-08-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3714,10 +3174,6 @@
         "date": "1769-08-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3726,10 +3182,6 @@
         "date": "1769-08-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3738,10 +3190,6 @@
         "date": "1769-08-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3750,10 +3198,6 @@
         "date": "1769-08-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3762,10 +3206,6 @@
         "date": "1769-08-07",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3774,23 +3214,15 @@
         "date": "1769-08-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.716666666666665,
-            -150.86666666666667
-        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-09": {
-        "diary": "Thursday, August 10th. P.M., Light Airs and Calm, remainder fresh breezes and Cloudy. At 6 p.m. the South end of Ulietea South-East 1/2 East, distant 4 Leagues; but I take my departure from the Harbour, saild from in Latitude 16 degrees 46 minutes South, and Longitude 151 degrees 27 minutes West. At 7 a.m. found the Variation to be 5 degrees 50 minutes East. Wind Easterly; course South 16 degrees West; distance 50 miles; Latitude observed 17 degrees 34 minutes South, longitude 151 degrees 41 minutes West.",
+        "diary": "Wednesday, 9th. P.M. had a light breeze of wind at North; in the night had much rain. A.M. little wind and Variable, with some Showers of rain. At 11 a.m. a breeze of wind sprung up at East, which carried us out of the Harbour, and as soon as the Boats were hoisted in made Sail to the Southward. Since we have been about these Islands we have expended but little of our Sea Provisions, and have at this last place been very plentifully supply'd with Hogs, Fowls, Plantains, and Yams, which will be of very great use to us in case we should not discover any lands in our rout to the Southward, the way I now intend to Steer.",
         "date": "1769-08-09",
-        "weather": "",
-        "wind": "e",
-        "location": [
-            -17.566666666666666,
-            -151.68333333333334
-        ],
-        "chapter": "Sail from Society Islands.",
+        "weather": "heavy-rain",
+        "wind": "",
+        "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-11": {
@@ -3842,15 +3274,11 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-15": {
-        "diary": "NOTE. As we advanced to the Southward into Cold weather, and a troubled Sea, the Hogs we got at Ulietea began to die apace. They cannot endure the least cold, nor will they hardly eat anything but vegetables, so that they are not at all to be depended upon at Sea. The fowls also have a complaint general among them which affects their heads, so that they continue holding it down betwixt their Legs until they die; this at least was the fate of most of ours. This is necessary to be known to those who come such Voyages as these, least they place too much dependance on the live stock they get at the Islands.",
+        "diary": "Tuesday, 15th. Fresh breezes and fair weather. At 2 p.m. the Pinnace return'd on board without landing, not but what it was practicable, but they did not think it Altogether safe with only one Boat, as it would have been attended with some danger on account of the Surf and Rocks upon the Shore. The Natives were Arm'd, and Shewd no Signs either of fear or Friendship. Some of them came off to the Boat in a Canoe, and had some Nails and Beads given them; but with these they were not Satisfied, thinking they had a right to everything in the Boat, and at last grew so Troublesome that in order to get clear of them our People were obliged to fire some Musquets, but with no intent to hurt any of them; however, it so hapned that one Man was Slightly wounded in the head. The firing had the desired effect, and they thought fit to retire. After this, as the Boat lay near the Shore, some of them waded off to her, and brought with them some Trifles which they parted with for small Nails, etc. They seem'd desirous that our people should land, but this was looked upon as a Piece of Policy in them to get the whole Boat's Crew in their power; however, this was not attempted, as I had given orders to run no Risk. The Bay they went into, which lies on the West side of the Island, had in it 25 fathoms Water, but the bottom was very foul and Rocky. We had now made the Circuit of the Island (which did not appear to the best advantage), and found that there was neither a Harbour or safe Anchorage about it, and therefore I thought the Landing upon it would be attended with no advantage either to ourselves or any future navigators; and from the Hostile and thievish disposition of the Natives it appear'd that we could have no friendly intercourse with them until they had felt the Smart of our fire Arms, a thing that would have been very unjustifiable in me at this Time; we therefore hoisted in the Boat, and made Sail to the Southward.",
         "date": "1769-08-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -24.016666666666666,
-            -150.61666666666667
-        ],
-        "chapter": "Of the Austral Group.",
+        "chapter": "Sail from Society Islands.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-16": {
@@ -3914,15 +3342,15 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-21": {
-        "diary": "[Society Islands to New Zealand.]",
+        "diary": "Monday, 21st. Fresh Gales and Hazey weather. Saw 2 Pintado Birds, the first I have seen this Voyage; they are larger than a Pidgeon and checquer'd black and white over their backs and wings, with white Bellies, Black heads, and the end of their Tails black.<em> Cape pigeons, Daption Capensis.</em> Wind North-North-West; course South by East; distance 80 miles; latitude 29 degrees 44 minutes South, longitude 148 degrees 22 minutes West.",
         "date": "1769-08-21",
         "weather": "",
-        "wind": "",
+        "wind": "n",
         "location": [
             -29.733333333333334,
             -148.36666666666667
         ],
-        "chapter": "Society Islands to New Zealand.",
+        "chapter": "Of the Austral Group.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-22": {
@@ -4034,13 +3462,13 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-08-31": {
-        "diary": "Friday, September 1st. Very strong Gales and heavy Squalls with rain; at 6 p.m. brought too under the Main Sail. At 6 a.m. set the Foresail, a Great Sea from the Westward. The same sort of Birds about the Ship as Yesterday, but not in such great Numbers. Wind, Westerly; Course, South 29 degrees East; distance 50 miles; latitude 40 degrees 12 minutes South, longitude 146 degrees 29 minutes West.",
+        "diary": "Thursday, 31st. The first part a fresh breeze and cloudy. At 6 p.m. hauld the wind to the South-West and close reefd the Topsails. At 1 a.m. being very squally with rain, took in the Topsails and brought too under the Mainsail. At 6 made Sail under the Courses. Saw some seaweed, sounded, but had no ground at 65 fathoms of Line. Some Albetrosses, Sheer Waters, and a great many Pintado Birds about the Ship with some hundreds of Birds that were smaller than Pidgeons, their backs were grey, their Bellies white, and the ends of their Tails black, and have a blackish line along the upper parts of the wings from the Tip of one to the other. We saw birds very like those near Faulklands Islands on the Coast of Patagonia, only they had not the black streak along the wings; they fly low like sheer waters or mother Carys birds, and are perhaps of the same Tribe, for Distinction sake I shall call them Doves.<em> Probably petrels of the genus Prion.</em> Wind Westerly; course South 4 degrees 15 minutes East; distance 68 miles; latitude 39 degrees 28 minutes South, longitude 147 degrees 0 minutes West.",
         "date": "1769-08-31",
         "weather": "heavy-rain",
-        "wind": "",
+        "wind": "w",
         "location": [
-            -40.2,
-            -146.48333333333332
+            -39.46666666666667,
+            -147
         ],
         "chapter": "Society Islands to New Zealand.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
@@ -4382,13 +3810,13 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-09-30": {
-        "diary": "Sunday, October 1st. Little Wind in the day time and Calm in the Night. At 8 a.m. sounded: no ground with 120 fathoms of line. Saw an immence number of Birds, the most of them were Doves; saw likewise a Seal aSleep upon the Water, which we at first took for a Crooked billet. These creatures, as they lay upon the Water, hold their fins up in a very odd manner, and very different to any I have seen before; we generally reckon that seals never go out of Soundings or far from Land, but the few we have seen in this Sea is certainly an exception to that rule. However, one would think that we were not far from some land, from the Pieces of Rock weed we see daily floating upon the Water. To-day we took up a small Piece of Stick, but to all appearance it had been a long time at Sea. The observ'd Latitude is considerable to the Northward of that given by the Log, in so much that I think there must be some Current seting from the Southward. Wind South to West by North; course North 16 degrees West; distance 43 miles; latitude 37 degrees 45 minutes South, longitude 172 degrees 36 minutes West.",
+        "diary": "Saturday, 30th. Moderate breezes and Settled weather. Saw a dark brown bird as big as a Raven; it is a Sea Fowl, and are seen in great Numbers about the Faulkland Islands, as I am told. We likewise saw several pieces of Sea Weed. Wind South Easterly; course North 87 1/2 West; distance 90 miles; latitude 38 degrees 26 minutes South, longitude 172 degrees 20 minutes West.",
         "date": "1769-09-30",
         "weather": "",
-        "wind": "",
+        "wind": "s",
         "location": [
-            -37.75,
-            -172.6
+            -38.43333333333333,
+            -172.33333333333334
         ],
         "chapter": "Society Islands to New Zealand.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
@@ -4442,15 +3870,15 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-10-06": {
-        "diary": "[Make New Zealand.]",
+        "diary": "Friday, 6th. Little wind, and fine pleasant weather. Saw some Seals, sea weed, and Port Egmont Hens. P.M. Variation per Azimuth 12 degrees 50 minutes East. Per Amplitude 12 degrees 40 minutes. A.M. per Azimuth 14 degrees 2 minutes East; the difference is 1 degree 3 minutes, and the Ship has only gone 9 Leagues in the Time. The Colour of the water appears to be paler than common, and hath been so for some days past; this makes us sound frequently, but can find no ground with 180 fathoms of Line. Wind East-North-East; course South-West; distance 62 miles; latitude 39 degrees 11 minutes South, longitude 177 degrees 2 minutes West.",
         "date": "1769-10-06",
         "weather": "",
-        "wind": "",
+        "wind": "e",
         "location": [
             -39.18333333333333,
             -177.03333333333333
         ],
-        "chapter": "Make New Zealand.",
+        "chapter": "Society Islands to New Zealand.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-10-07": {
@@ -4466,39 +3894,31 @@
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-10-08": {
-        "diary": "MONDAY, 9th October. Gentle breezes and Clear Weather. P.M. stood into the Bay and Anchored on the North-East side before the Entrance of a small River,<em> Tauranga nui. The township of Gisborne is now situated on its eastern bank.</em> in 10 fathoms, a fine sandy bottom. The North-East point of the Bay bore East by South 1/2 South, and the South-West point South, distance from the Shore half a League. After this I went ashore with a Party of men in the Pinnace and yawl accompanied by Mr. Banks and Dr. Solander. We landed abreast of the Ship and on the East side of the River just mentioned; but seeing some of the Natives on the other side of the River of whom I was desirous of speaking with, and finding that we could not ford the River, I order'd the yawl in to carry us over, and the pinnace to lay at the Entrance. In the mean time the Indians made off. However we went as far as their Hutts which lay about 2 or 300 Yards from the water side, leaving 4 boys to take care of the Yawl, which we had no sooner left than 4 Men came out of the woods on the other side the River, and would certainly have cut her off had not the People in the Pinnace discover'd them and called to her to drop down the Stream, which they did, being closely persued by the Indians. The coxswain of the Pinnace, who had the charge of the Boats, seeing this, fir'd 2 Musquets over their Heads; the first made them stop and Look round them, but the 2nd they took no notice of; upon which a third was fir'd and kill'd one of them upon the Spot just as he was going to dart his spear at the Boat. At this the other 3 stood motionless for a Minute or two, seemingly quite surprised; wondering, no doubt, what it was that had thus kill'd their Comrade; but as soon as they recovered themselves they made off, dragging the Dead body a little way and then left it. Upon our hearing the report of the Musquets we immediately repair'd to the Boats, and after viewing the Dead body we return'd on board. In the morning, seeing a number of the Natives at the same place where we saw them last night, I went on shore with the Boats, mann'd and arm'd, and landed on the opposite side of the river. Mr. Banks, Dr. Solander, and myself only landed at first, and went to the side of the river, the natives being got together on the opposite side. We called to them in the George's Island Language, but they answer'd us by flourishing their weapons over their heads and dancing, as we suppos'd, the War Dance; upon this we retir'd until the Marines were landed, which I order'd to be drawn up about 200 yards behind us. We went again to the river side, having Tupia, Mr. Green, and Dr. Monkhouse along with us. Tupia spoke to them in his own Language, and it was an agreeable surprize to us to find that they perfectly understood him. After some little conversation had passed one of them swam over to us, and after him 20 or 30 more; these last brought their Arms, which the first man did not. We made them every one presents, but this did not satisfy them; they wanted everything we had about us, particularly our Arms, and made several attempts to snatch them out of our hands. Tupia told us several times, as soon as they came over, to take care of ourselves for they were not our friends; and this we very soon found, for one of them snatched Mr. Green's hanger from him and would not give it up; this encouraged the rest to be more insolent, and seeing others coming over to join them, I order'd the man who had taken the Hanger to be fir'd at, which was accordingly done, and wounded in such a manner that he died soon after. Upon the first fire, which was only 2 Musquets, the others retir'd to a Rock which lay nearly in the middle of the River; but on seeing the man fall they return'd, probably to carry him off or his Arms, the last of which they accomplished, and this we could not prevent unless we had run our Bayonets into them, for upon their returning from off the Rock, we had discharged off our Peices, which were loaded with small shott, and wounded 3 more; but these got over the River and were carried off by the others, who now thought proper to retire. Finding nothing was to be done with the People on this side, and the water in the river being salt, I embarked with an intent to row round the head of the Bay in search of fresh water, and if possible to surprise some of the Natives and to take them on board, and by good Treatment and Presents endeavour to gain their friendship with this view.",
+        "diary": "Sunday, 8th. Gentle breezes and clear weather. At 5 p.m., seeing the opening of a Bay that appear'd to run pretty far inland, hauld our wind and stood in for it; but as soon as night came on we keept plying on and off until day light, when we found ourselves to leeward of the Bay, the wind being at North. By Noon we fetch'd in with the South-West point, but not being able to weather it we tacked and stood off. We saw in the Bay several Canoes, People upon the Shore, and some houses in the Country. The land on the Sea Coast is high, with Steep Cliffs; and back inland are very high Mountains. The face of the Country is of a hilly surface, and appears to be cloathed with wood and Verdure. Wind between the East-North-East and North.",
         "date": "1769-10-08",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -38.95,
-            -177.9
-        ],
         "chapter": "Make New Zealand.",
-        "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
+        "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
     "1769-10-10": {
-        "diary": "[Leave Poverty Bay.]",
+        "diary": "Tuesday, 10th. P.M., I rowed round the head of the bay, but could find no place to land on account of the Great Surf which beat everywhere upon the Shore. Seeing 2 Boats or Canoes coming in from Sea I rowed to one of them, in order to Seize upon the People; and came so near before they took notice of us that Tupia called to them to come alongside and we would not hurt them; but instead of doing this they endeavour'd to get away, upon which I order'd a Musquet to be fir'd over their Heads, thinking this would either make them surrender, or jump overboard; but here I was mistaken, for they immediately took to their Arms or whatever they had in the Boat, and began to attack us. This obliged us to fire upon them, and unfortunately either 2 or 3 were kill'd and one wounded, and 3 jumped overboard. These last we took up and brought on board, where they was Cloathed and Treated with all imaginable kindness; and to the Surprise of everybody became at once as cheerful and as merry as if they had been with their own Friends. They were all 3 Young, the eldest not above 20 years of Age, and the youngest about 10 or 12. I am aware that most Humane men who have not experienced things of this nature will Censure my Conduct in firing upon the People in their Boat, nor do I myself think that the reason I had for seizing upon her will at all justify me; and had I thought that they would have made the Least Resistance I would not have come near them; but as they did, I was not to stand still and suffer either myself or those that were with me to be knocked on the head.",
         "date": "1769-10-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -38.95,
-            -177.9
-        ],
-        "chapter": "Leave Poverty Bay.",
+        "chapter": "Make New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-11": {
-        "diary": "[Off Portland Island, North Island, New Zealand.]",
+        "diary": "Wednesday, 11th. In the P.M., as I intended to sail in the Morning, we put the 3 Youths ashore, seemingly very much against their inclination; but whether this was owing to a desire they had to remain with us, or the fear of falling into the hands of their Enemies, as they pretended, I know not. The latter, however, seemed to be ill-founded, for we saw them carried aCross the River in a Catamaran, and walk Leasurely off with the other Natives. At 6 a.m. we weighed and stood out of the Bay, which I have named Poverty Bay, because it afforded us no one thing we wanted (Latitude 38 degrees 42 minutes South, Longitude 181 degrees 36 minutes West).<em> Latitude correct. Longitude is 181 degrees 57 minutes West.</em> It is in the form of a Horse Shoe, and is known by an Island lying close under the North-East point. The 2 points which forms the Entrance are high, with Steap white Cliffs, and lay a League and a half or 2 Leagues from Each other, North-East by East and South-West by West. The Depth of Water in this Bay is from 12 to 6 and 5 fathoms, a sandy bottom and good Anchorage, but you lay open to the winds between the South and East. Boats can go in and out of the river above mentioned at any time of Tide in fine weather; but as there is a Bar at the Entrance, on which the Sea Sometimes runs so high that no Boat can either get in or out, which hapned while we laid here; however, I believe that Boats can generally land on the North-East side of the river. The shore of this Bay, from a little within each Entrance, is a low, flat sand; but this is only a Narrow Slip, for the face of the Country appears with a variety of hills and Vallies, all cloathed with woods and Verdure, and to all appearance well inhabited, especially in the Vallies leading up from the Bay, where we daily saw Smoke at a great distance inland, and far back in the Country are very high Mountains. At Noon the South-West point of Poverty Bay, which I have named Young Nicks head (after the Boy who first saw this land),<em> In Mr. Molineux's Log, his name is given as Nicholas Young, but no such name appears in the official lists.</em> bore North by West, distance 3 or 4 leagues, being at this time about 3 Miles from the Shore, and had 25 fathoms Water, the Main Land extending from North-East by North to South. My intention is to follow the direction of the Coast to the Southward, as far as the Latitude of 40 or 41 degrees, and then to return to the Northward, in case we meet with nothing to incourage us to proceed farther.",
         "date": "1769-10-11",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
         "location": [
             -38.7,
             -181.95
         ],
-        "chapter": "Off Portland Island, North Island, New Zealand.",
+        "chapter": "Leave Poverty Bay.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-12": {
@@ -4518,23 +3938,15 @@
         "date": "1769-10-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.11666666666667,
-            -181.6
-        ],
         "chapter": "Off Portland Island, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-14": {
-        "diary": "[In Hawkes Bay, North Island, New Zealand.]",
+        "diary": "Saturday, 14th. P.M. had Gentle breezes between the North-East and North-West. Kept running down along shore at the distance of 2 or 3 miles off. Our sounding was from 20 to 13 fathoms, an even sandy bottom. We saw some Canoes or Boats in shore, and several houses upon the Land, but no harbour or Convenient watering place--the Main thing we were looking for. In the night had little wind, and Sometimes Calm with Dirty, rainy weather. A.M. had Variable light Airs next to a Calm and fair weather. In the morning, being not above 2 Leagues from the South-West corner of the great Bay we have been in for the 2 days past, the Pinnace and Long boat were hoisted out in order to search for Fresh Water; but just as they were ready to put off we observed several Boats full of People coming off from the Shore, and for that reason I did not think it prudent to send our own from the Ship. The first that came were 5 in Number, in them were between 80 and 90 men. Every Method was tried to gain their Friendship, and several things were thrown overboard to them; but all we could do was to no purpose, neither would they accept of any one thing from us, but seem'd fully bent on attacking us. In order to prevent this, and our being obliged to fire upon them, I order'd a 4 Pounder Loaded with grape to be fir'd a little wide of them, letting them know at the same time by Means of Tupia what we were going to do; this had the desir'd effect, and not one of these would afterwards trust themselves abreast of the Ship. Soon after 4 more came off; one of these put what Arms they had into another Boat, and then came alongside so near as to take what things we gave them, and I believe might have been Prevailed upon to come on board had not some of the first 5 came up under our Stern and began again to threaten us, at which the people in this one Boat seem'd displeased; immediately after this they all went ashore. At Noon Latitude in per Observation 39 degrees 37 minutes South. Portland bore by our run from it East by North, distant 14 Leagues; the Southermost land in sight, and which is the South point of the Bay, South-East by South, distant 4 or 5 Leagues; and a Bluff head lying in the South-West corner of the Bay South by West 2 or 3 Miles. On each side of this bluff head is a low narrow sand or stone beach; between these beaches and the Main land is a pretty large lake of Salt Water, as I suppose. On the South-East side of this head is a very large flatt, which seems to extend a good way inland to the Westward; on this flatt are Several groves of Streight, tall Trees, but there seems to be a great Probability that the lake above mentiond extends itself a good way into this flatt Country. Inland are a Chain of Pretty high Mountains extending North and South; on the Summits and Sides of these Mountains were many Patches of Snow, but between them and the Sea the Land is Cloathed with wood.<em> The Endeavour was now off what is called Ahuriri Bay. The bluff head is known as Ahuriri Bluff, and the town of Napier, of 8000 inhabitants, lies at the back of it. The large sheet of salt water is called Manganui-o-rotu. There was no sheltered harbour for a vessel in the Endeavour's situation, but at present, harbour works have improved the entrance to the lagoon into which vessels drawing 12 feet can enter. Produce of the value of over a million pounds per annum is now exported from Napier.</em>",
         "date": "1769-10-14",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.11666666666667,
-            -181.6
-        ],
-        "chapter": "In Hawkes Bay, North Island, New Zealand.",
+        "chapter": "Off Portland Island, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-15": {
@@ -4543,22 +3955,18 @@
         "weather": "",
         "wind": "",
         "location": [
-            -39.833333333333336,
+            -39.71666666666667,
             -182.4
         ],
         "chapter": "In Hawkes Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-16": {
-        "diary": "[Returning North from Cape Turnagain.]",
+        "diary": "Monday, 16th. First and latter part, fresh breezes, Northerly; in the night, Variable and sometimes calm. At 2 p.m. passed by a Small but a Pretty high white Island lying close to the Shore. On this Island we saw a good many Houses, Boats, and Some People. We concluded that they must be fishers, because the Island was quite barren; we likewise saw several people upon the Shore in a small Bay on the Main within the Island. At 7 the Southermost land in sight bore South-West by South, and Cape Kidnapper North 3/4 East, distant 8 leagues, being then about 2 Leagues from the Shore, and had 55 fathoms. At 11 brought too until daylight, then made Sail along shore to the Southward. At 7 passed a pretty high point of Land, which lies South-South-West, 12 Leagues from Cape Kidnapper. From this point the Land Trends 3/4 of a point more to the Westward. At 10 saw more land appear to the Southward, at South-West by South. At Noon the Southermost land in sight bore South 39 degrees West, distant 8 or 10 Leagues, and a high Bluff head with Yellowish Cliffs bore West, distant 2 miles, Latitude observed 40 degrees 34 minutes South; depth of water 32 fathoms.",
         "date": "1769-10-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.833333333333336,
-            -182.4
-        ],
-        "chapter": "Returning North from Cape Turnagain.",
+        "chapter": "In Hawkes Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-17": {
@@ -4578,10 +3986,6 @@
         "date": "1769-10-18",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4590,10 +3994,6 @@
         "date": "1769-10-19",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4602,23 +4002,15 @@
         "date": "1769-10-20",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-21": {
-        "diary": "[At Tegadoo Bay, North Island, New Zealand.]",
+        "diary": "Saturday, 21st. We had no sooner come to an Anchor, as mentioned above, than perceiving 2 old Men in the Canoes, who from their Garbe appear'd to be Chiefs, these I invited on board, and they came without Hesitation. To each I gave about 4 Yards of linnen and a Spike Nail; the linnen they were very fond of, but the Nails they seem'd to set no Value upon. Tupia explain'd to them the reasons of our Coming here, and that we should neither hurt nor Molest them if they did but behave in the same peaceable manner to us; indeed, we were under very little apprehension but what they would, as they had heard of what hapned in Poverty Bay. Between 1 and 2 p.m. I put off with the Boats mann'd and Arm'd in order to land to look for fresh Water, these 2 Men along with us; but the surf running very high, and it begun to blow and rain at the same time, I returned back to the Ship, having first put the 2 Chiefs into one of their Canoes. In the evening it fell moderate, and we landed and found 2 Small Streams of Fresh Water, and the Natives to all appearance very friendly and peaceable; on which account I resolved to Stay one day at least, to fill a little water and to give Mr. Banks an opportunity to Collect a little of the Produce of the Country. In the morning Lieutenant Gore went on shore to superintend the Watering with a Strong party of Men, but the getting the Casks off was so very difficult, on account of the Surf, that it was noon before one Turn came on board.",
         "date": "1769-10-21",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
-        "chapter": "At Tegadoo Bay, North Island, New Zealand.",
+        "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-22": {
@@ -4626,10 +4018,6 @@
         "date": "1769-10-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4638,10 +4026,6 @@
         "date": "1769-10-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4650,10 +4034,6 @@
         "date": "1769-10-24",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4662,10 +4042,6 @@
         "date": "1769-10-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4674,10 +4050,6 @@
         "date": "1769-10-26",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4686,47 +4058,31 @@
         "date": "1769-10-27",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-28": {
-        "diary": "[At Tolaga Bay, North Island, New Zealand.]",
+        "diary": "Saturday, 28th. Gentle breezes Southerly and fine weather. Employ'd wooding, cutting, and making of Brooms, there being a Shrub here very fit for that purpose; and as I intended to sail in the morning some hands were employ'd picking of Sellery to take to Sea with us. This is found here in great plenty, and I have caused it to be boiled with Portable Soup and Oatmeal every morning for the people's breakfast; and this I design to continue as long as it will last, or any is to be got, and I look upon it to be very wholesome and a great Antiscorbutick.",
         "date": "1769-10-28",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
-        "chapter": "At Tolaga Bay, North Island, New Zealand.",
+        "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-29": {
-        "diary": "During our stay in this bay we had every day more or less Traffick with the Natives, they bringing us fish, and now and then a few sweet Potatoes and several trifles which we deemd Curiosities; for these we gave them Cloth, Beads, Nails, etc. The Cloth we got at King George's Island and Ulietea, they valued more than anything we could give them, and as every one in the Ship were provided with some of this sort of Cloth, I suffer'd every body to purchase what ever they pleased without limitation; for by this means I knew that the Natives would not only sell but get a good Price for every thing they brought. This I thought would induce them to bring to Market whatever the Country afforded, and I have great reason to think that they did, yet it amounted to no more than what is above mentioned. We saw no 4 footed Animals, either Tame or Wild, or signs of any, except Dogs and Rats,<em> Cook's powers of observation are here evident. There were no other quadrupeds in New Zealand.</em> and these were very Scarce, especially the latter. The flesh of the former they eat, and ornament their clothing with their skins as we do ours with furs, etc. While we lay here I went upon some of the Hills in order to View the Country, but when I came there I could see but very little of it, the sight being interrupted by still higher hills. The Tops and ridges of the Hills are for the most part barren, at least little grows on them but fern; but the Valleys and sides of many of the Hills were luxuriously clothed with woods and Verdure and little Plantations of the Natives lying dispers'd up and down the Country. We found in the Woods, Trees of above 20 different sorts; Specimens of each I took on board, as all of them were unknown to any of us. The Tree which we cut for firing was something like Maple and yeilded a whitish Gum. There was another sort of a deep Yellow which we imagin'd might prove useful in dying. We likewise found one Cabage Tree<em> Palm.</em> which we cut down for the sake of the cabage. The Country abounds with a great Number of Plants, and the woods with as great a variety of beautiful birds, many of them unknown to us. The soil of both the hills and Valleys is light and sandy, and very proper for producing all kinds of Roots, but we saw only sweet potatoes and Yams among them; these they plant in little round hills, and have plantations of them containing several Acres neatly laid out and keept in good order, and many of them are fenced in with low paling which can only serve for Ornament.",
+        "diary": "Monday, 29th. P.M. Gentle breezes with Thunder and Lightning up the Country; in the night had light Airs off the land and very foggy; in the forenoon had a gentle breeze at North-North-East and Clear weather. At 4 a.m. unmoor'd, and at 6 weigh'd and put to Sea. At Noon the bay sail'd from bore North 63 degrees West, distant 4 Leagues. This bay is called by the Natives Tolaga;<em> It still goes by this name.</em> it is moderately large, and hath in it from 13 to 8 and 7 fathoms, clean sandy bottom and good Anchorage, and is shelterd from all winds except those that blow from the North-East Quarter. It lies in the Latitude of 38 degrees 22 minutes South, and 4 1/2 Leagues to the Northward of Gable end Foreland. Off the South point lies a small but high Island, so near to the Main as not to be distinguished from it. Close to the North end of this Island, at the Entrance into the Bay, are 2 high Rocks; one is high and round like a Corn Stack, but the other is long with holes thro' it like the Arches of a Bridge. Within these rocks is the Cove, where we cut wood and fill'd our Water. Off the North point of the Bay is a pretty high rocky Island, and about a Mile without it are some rocks and breakers. The variation of the Compass is here 14 degrees 31 minutes East, and the Tide flows at full and change of the Moon about 6 o'Clock, and rises and falls upon a Perpendicular 5 or 6 feet, but wether the flood comes from the Southward or Northward I have not been able to determine.",
         "date": "1769-10-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
         "chapter": "At Tolaga Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-30": {
-        "diary": "[Off Cape Runaway, North Island, New Zealand.]",
+        "diary": "Monday, 30th. P.M. little wind and cloudy weather. At 1 Tack'd and stood in shore; at 7 o'Clock Tolaga Bay bore West-North-West, distant one League. Tack'd and lay her head off; had it calm until 2 a.m., when a breeze sprung up at South-West, and we made Sail to the Northward. At 6, Gable end Foreland bore South-South-West, and Tolaga bay South-South-West 1/4 West, distance 3 Leagues. At 8, being about 2 Miles from the shore, some Canoes that were fishing came after the Ship; but we having a fresh of wind they could not come up with us, and I did not chuse to wait for them. At Noon, Latitude per observation 37 degrees 49 minutes South, a small Island lying off the Northernmost land in sight, bore North 16 degrees East, distant 4 Miles; course from Tolaga bay North by East 1/2 East, distance 13 Leagues. The Land from thence is of a moderate but unequal height, forming several small bays wherein are sandy beaches. Hazey, cloudy weather prevented us from seeing much of the inland country, but near the Shore we could see several Villages and Plantations of the Natives. Soundings from 20 to 30 fathoms.",
         "date": "1769-10-30",
-        "weather": "",
+        "weather": "cloudy",
         "wind": "",
-        "location": [
-            -39.86666666666667,
-            -182.91666666666666
-        ],
-        "chapter": "Off Cape Runaway, North Island, New Zealand.",
+        "chapter": "At Tolaga Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-10-31": {
@@ -4746,15 +4102,11 @@
         "date": "1769-11-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -37.53333333333333,
-            -181.83333333333334
-        ],
         "chapter": "Off Cape Runaway, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-02": {
-        "diary": "[In Bay of Plenty, North Island, New Zealand.]",
+        "diary": "Thursday, 2nd. Gentle breezes from North-West round Northerly to East-South-East and fair weather. At 2 p.m. saw a pretty high Island bearing West from us, and at 5 saw more Islands and Rocks to the Westward of it. Hauld our wind in order to go without them, but, finding that we could not weather them before dark, bore up, and run between them and the Main. At 7 was close under the first Island, from whence a large double Canoe full of People came off to us. This was the first double Canoe we had seen in this Country. They staid about the Ship until it was dark, then left us; but not before they had thrown a few stones. They told us the name of the Island, which was Mowtohora.<em> Motuhora, called also Whale Island.</em> It is but of a small Circuit, but high, and lies 6 Miles from the Main. Under the South side is Anchorage in 14 fathoms. South-West by South from this Island on the Main land, seemingly at no great distance from the Sea, is a high round Mountain, which I have named Mount Edgcombe. It stands in the middle of a large Plain, which make it the more Conspicuous. Latitude 37 degrees 59 minutes South, Longitude 183 degrees 07 minutes West. In standing to the Westward we Shoalded our Water from 17 to 10 fathoms, and knowing that we were not far from some Small Islands and Rocks that we had seen before dark, after Passing of which I intended to have brought too for the night, but I now thought it more prudent to tack, and spend the Night under the Island of Mowtohora, where I knew there was no danger. And it was well we did, for in the morning, after we had made Sail to the Westward, we discovered Rocks ahead of us Level with and under the Water.<em> Rurima Rocks.</em> They lay 1 1/2 Leagues from the Island Mowtohora, and about 9 Miles from the Main, and North-North-East from Mount Edgecumbe. We passed between these Rocks and the Main, having from 7 to 10 fathoms. The double Canoe which we saw last night follow'd us to-day under Sail, and keept abreast of the Ship near an hour talking to Tupia, but at last they began to pelt us with stones. But upon firing one Musquet they dropt aStern and left us. At 1/2 past 10 Passed between a low flat Island and the Main, the distance from one to the other being 4 Miles; depth of Water 10, 12, and 15 fathoms. At Noon the flat Island<em> Motunau.</em> bore from North-East to East 1/2 North, distance 5 or 6 Miles; Latitude in per Observation 37 degrees 39 minutes South, Longitude 183 degrees 30 minutes West. The Main land between this and the Island of Mowtohara, which is 10 Leagues, is of a moderate height, and all a level, flat Country, pretty clear of wood and full of Plantations and Villiages. These Villiages are built upon Eminences Near the Sea, and are Fortified on the land side with a Bank and a Ditch, and Pallisaded all round. Besides this, some of them appear'd to have out-works. We have before now observed, on several parts of the Coast, small Villiages inclosed with Pallisades and works of this kind built on Eminences and Ridges of hills, but Tupia had all along told us that they were Mories, or places of worship; but I rather think they are places of retreat or strong hold where they defend themselves against the Attack of an Enemy, as some of them seem'd not ill design'd for that Purpose.<em> In the contests with the Maories in after years, these Pahs, or forts, proved to be no despicable defences.</em>",
         "date": "1769-11-02",
         "weather": "",
         "wind": "",
@@ -4762,7 +4114,7 @@
             -37.983333333333334,
             -183.5
         ],
-        "chapter": "In Bay of Plenty, North Island, New Zealand.",
+        "chapter": "Off Cape Runaway, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-03": {
@@ -4770,23 +4122,15 @@
         "date": "1769-11-03",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "In Bay of Plenty, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-04": {
-        "diary": "At 10, the weather Clearing up a little, I went with 2 Boats to sound the Bay and to look for a more convenient Anchoring place, the Master being in one Boat, and I in the other. We pull'd first over the North Shore, where some Canoes came out to meet us, but as we came near them they retir'd to the Shore and invited us to follow them, but seeing they were all Arm'd I did not think fit to Except of their Invitation; but after Trading with them out of the Boat for a few Minutes we left them and went towards the head of the Bay. I observed on a high Point a fortified Village, but I could only see a part of the works, and as I intend to see the whole, shall say no more about it at this time. After having fix'd upon an Anchoring place not far from where the Ship lay I return'd on board.",
+        "diary": "Saturday, 4th. The first and middle parts, little wind at East-North-East and Clear weather; the Latter had a fresh breeze at North-North-West and hazey with rain. At 1 p.m. 3 Canoes came off from the Main to the Ship, and after Parading about a little while they darted 2 Pikes at us. The first was at one of our Men as he was going to give them a rope, thinking they were coming on board; but the 2nd they throw'd into the Ship; the firing of one musquet sent them away. Each of these Canoes were made out of one large Tree, and were without any sort of Ornament, and the people in them were mostly quite naked. At 2 p.m. saw a large op'ning or inlet in the land, which we bore up for with an intent to come to an Anchor. At this time had 41 fathoms, which gradually decreased to 9 fathoms, at which time we were 1 1/2 Mile from a high Tower'd Rock lying near the South point of the inlet; the rock and the Northermost of the Court of Aldermen being in one bearing South 61 degrees East. At 1/2 past 7 Anchor'd in 7 Fathoms a little within the South Entrance of the Bay or inlet. We were accompanied in here by several Canoes, who stay'd about the Ship until dark; and before they went away they were so generous as to tell us that they would come and attack us in the morning; but some of them paid us a Visit in the night, thinking, no doubt, but what they should find all hands asleep, but as soon as they found their Mistake they went off. My reasons for putting in here were the hopes of discovering a good Harbour, and the desire I had of being in some convenient place to observe the Transit of Mercury, which happens on the 9th Instant, and will be wholy Visible here if the day is clear. If we be so fortunate as to obtain this observation, the Longitude of this place and Country will thereby be very accurately determined. Between 5 and 6 o'Clock in the morning several Canoes came off to us from all parts of the Bay; in them were about 130 or 140 People. To all appearances their first design was to attack us, being all Completely Arm'd in their way; however, this they never attempted, but after Parading about the Ship near 3 Hours, sometimes trading with us, and at other times Tricking of us, they dispersed; but not before we had fir'd a few Musquets and one great gun, not with any design to hurt any of them, but to shew them what sort of Weapons we had, and that we could revenge any insult they offer'd to us. It was observable that they paid but little regard to the Musquets that were fir'd, notwithstanding one ball was fir'd thro' one of their Canoes, but what Effect the great gun had I know not, for this was not fir'd until they were going away.",
         "date": "1769-11-04",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
-        "chapter": "At Mercury Bay, North Island, New Zealand.",
+        "chapter": "In Bay of Plenty, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-05": {
@@ -4794,10 +4138,6 @@
         "date": "1769-11-05",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4806,10 +4146,6 @@
         "date": "1769-11-06",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4818,10 +4154,6 @@
         "date": "1769-11-07",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4830,35 +4162,23 @@
         "date": "1769-11-08",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-09": {
-        "diary": "Latitude observed at noon 36 degrees 48 minutes 28 seconds, the mean of this and Yesterday's observation gives 36 degrees 48 minutes 5 1/2 seconds South; the Latitude of the Place of Observation, and the Variation of the Compass was at this time found to be 11 degrees 9 minutes East. While we were making these observations 5 Canoes came alongside the Ship, 2 Large and 3 Small ones, in one were 47 People, but in the other not so many. They were wholy strangers to us, and to all appearance they came with a Hostile intention, being compleatly Arm'd with Pikes, Darts, Stones, etc.; however, they made no attempt, and this was very probable owing to their being inform'd by some other Canoes (who at this time were alongside selling fish) what sort of people they had to Deal with. When they first came alongside they begun to sell our people some of their Arms, and one Man offer'd to Sale a Haahow, that is a Square Piece of Cloth such as they wear. Lieutenant Gore, who at this time was Commanding Officer, sent into the Canoe a piece of Cloth which the Man had agreed to Take in Exchange for his, but as soon as he had got Mr. Gore's Cloth in his Possession he would not part with his own, but put off the Canoe from alongside, and then shook their Paddles at the People in the Ship. Upon this, Mr. Gore fir'd a Musquet at them, and, from what I can learn, kill'd the Man who took the Cloth; after this they soon went away. I have here inserted the account of this Affair just as I had it from Mr. Gore, but I must own it did not meet with my approbation, because I thought the Punishment a little too severe for the Crime, and we had now been long Enough acquainted with these People to know how to Chastise Trifling faults like this without taking away their Lives.",
+        "diary": "Thursday, 9th. Variable light breezes and Clear weather. As soon as it was daylight the Natives began to bring off Mackrell, and more than we well know what to do with; notwithstanding I order'd all they brought to be purchased in order to encourage them in this kind of Traffick. At 8, Mr. Green and I went on shore with our Instruments to observe the Transit of Mercury, which came on at 7 hours 20 minutes 58 seconds Apparent time, and was observed by Mr. Green only.<em> Mr. Green satirically remarks in his Log, \"Unfortunately for the seamen, their look-out was on the wrong side of the sun.\" This probably refers to Mr. Hicks, who was also observing. It rather seems, however, as if Cook, on this occasion, was caught napping by an earlier appearance of the planet than was expected.</em> I, at this time, was taking the Sun's Altitude in order to Ascertain the time. The Egress was observed as follows:--",
         "date": "1769-11-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-10": {
-        "diary": "[Pahs in Mercury Bay, New Zealand.]",
+        "diary": "Friday, 10th. P.M., Gentle breezes and Variable; the remainder, a Strong breeze at East-North-East, and hazey weather. A.M., I went with 2 Boats, accompanied by Mr. Banks and the other Gentlemen into the River which Emptys itself into the head of the Bay, in order to Examine it; none of the Natives came off to the Ship this morning, which we think is owing to bad weather.",
         "date": "1769-11-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
-        "chapter": "Pahs in Mercury Bay, New Zealand.",
+        "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-11": {
@@ -4866,22 +4186,14 @@
         "date": "1769-11-11",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-12": {
-        "diary": "This village is built upon a high Promontory or point on the North side and near the head of the Bay. It is in some places quite inaccessible to man, and in others very difficult, except on that side which faced the narrow ridge of the hill on which it stands. Here it is defended by a double ditch, a bank and 2 rows of Picketing, the inner row upon the Bank; but not so near the Crown but what there was good room for men to Walk and handle their Arms between the Picketing and the inner Ditch. The outer Picketing was between the 2 Ditches, and laid sloping with their upper ends hanging over the inner Ditch. The Depth of this Ditch from the bottom to the Crown of the bank was 24 feet. Close within the inner Plcketing was erected by strong Posts a stage 30 feet high and 40 in length and 6 feet broad. The use of this stage was to stand upon to throw Darts at the Assailants, and a number of Darts lay upon it for that purpose. At right angles to this Stage and a few paces from it was another of the same Construction and bigness; this stood likewise within the Picketing, and was intended for the same use as the other--viz., to stand upon to throw stones and darts upon the Enemy as they advanc'd up the side of the Hill where lay the Main way into the place. It likewise might be intended to defend some little outworks and hutts that lay at the Skirts and on this side of the Hill. These outworks were not intended as advanced Posts, but for such of the Inhabitants to live in as had not room in the Main works, but had taken Shelter under it. Besides the works on the land side, above described, the whole Villiage was Pallisaded round with a line of pretty strong Picketing run round the Edge of the hill. The ground within having not been level at first, but laid Sloping, they had divided it into little squares and Leveled each of these. These squares lay in the form of an Amphitheatre, and were each of them Pallisaded round, and had communication one with another by narrow lanes and little gateways, which could easily be stoped up, so that if an Enemy had forced the outer Picketing he had several others to incounter before the place could be easily reduced, supposing them to defend everyone of the places one after another. The main way leading into this fortification was up a very steep part of the Hill and thro' a narrow passage about 12 feet long and under one of the Stages. I saw no door nor gate, but it might very soon have been barricaded up. Upon the whole I looked upon it to be very strong and well choose Post, and where a small number of resolute men might defend themselves a long time against a vast superior force, Arm'd in the manner as these People are. These seem'd to be prepared against a Siege, having laid up in store an immense quantity of Fern roots and a good many dry'd fish; but we did not see that they had any fresh Water nearer than a brook which runs close under the foot of a hill, from which I suppose they can at times get water, tho' besiged, and keep it in gouards until they use it. Under the foot of the point on which the Village stands are 2 Rocks, the one just broke off from the Main and other detatched a little from it. They are both very small, and more fit for Birds to inhabit than men; yet there are houses and places of defence on each of them, and about a Mile to Eastward of these is another of these small Fortified rocks, which communicates with the Main by a Narrow pathway, where there is a small Villiage of the Natives. Many works of this kind we have seen upon small Islands and Rocks and Ridges of hills on all parts of the Coast, besides a great number of Fortified towns, to all appearances Vastly superior to this I have described. From this it should seem that the People must have long and frequent Warrs, and must have been long accustomed to it, otherwise they never would have invented such strong holds as these, the Erecting of which must cost them immense labour, considering the Tools they have to work with, which are only made of Wood and Stone. It is a little strange that with such a Warlike People, as these undoubtedly are, no Omissive weapons are found among them, such as bows and Arrows, Slings, etc., things in themselves so easily invented, and are common in every other part of the world. The Arms they use are long spears or Lances, a Staff about 5 feet long. Some of these are pointed at one end like a Serjeant's Halberd, others are round and Sharp; the other ends are broad, something like the blade of an Oar. They have another sort about 4 1/2 feet long; these are shaped at one End like an Axe, and the other is made with a Sharp point. They have short Truncheons about a foot long, which they call Pattoo Pattoas; some made of wood, some of bone, and others of Stone. Those made of wood are Variously shaped, but those made of bone and Stone are of one shape, which is with a round handle, a broadish blade, which is thickest in the Middle and taper'd to an Edge all round. The use of these are to knock Men's brains out, and to kill them outright after they are wounded; and they are certainly well contrived things for this purpose. Besides these Weapons they Throw stones and Darts; the Darts are 10 or 12 feet long, are made of hard wood, and are barbed at one end. They handle all their Arms with great Agility, particularly their long Pikes or Lances, against which we have no weapon that is an equal match except a Loaded Musquet.",
+        "diary": "Sunday, 12th. P.M. had Strong Gales at North-East, and hazey, rainy weather; A.M. a fresh breeze at North-West, and Clear weather. In the morning got on board a Turn of Water, and afterwards sent the Long boat into the River for Oysters to take to sea with us; and I went with the Pinnace and Yawl, accompanied by Mr. Banks and Dr. Solander, over to the North side of the Bay in order to take a View of the Country and the Fortified Village which stands there. We landed about a mile from it, and were meet by the inhabitants in our way thither, who, with a great deal of good nature and friendship, conducted us into the place and shew'd us everything that was there.",
         "date": "1769-11-12",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4890,10 +4202,6 @@
         "date": "1769-11-13",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4902,34 +4210,22 @@
         "date": "1769-11-14",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.983333333333334,
-            -183.5
-        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-15": {
-        "diary": "[Off Cape Colville, North Island, New Zealand.]",
+        "diary": "Wednesday, 15th. In the evening I went in the Pinnace and landed upon one of the Islands that lies off of the South Head of the Bay, with a view to see if I could discover any sunken rocks or other Dangers lying before the Entrance of the Bay, as there was a pretty large swell at this Time. The Island we landed upon was very small, yet there were upon it a Village, the inhabitants of which received us very friendly. This little Village was laid out in small Oblong squares, and each pailisaded round. The Island afforded no fresh Water, and was only accessible on one side: from this I concluded that it was not choose for any Conveniency it could afford them, but for its Natural Strength.",
         "date": "1769-11-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
-        "chapter": "Off Cape Colville, North Island, New Zealand.",
+        "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-16": {
-        "diary": "Note, in speaking of Mercury Bay, I had forgot to mention that the Mangrove Trees found there produce a resinous substance very much like Rosin. Something of this kind, I am told, is found in both the East and West Indies. We found it, at first, in small Lumps upon the Sea Beach, but afterwards found it sticking to the Mangrove Trees, and by that means found out from whence it came.",
+        "diary": "Thursday, 16th. Fresh breezes between the North-West and South-West, and fair weather. At 1 P.M., having got within the Group of Islands which lies of the North head of Mercury Bay, hauld our wind to the Northward, and Kept plying to windward all the day between these Islands and some others laying to the Northward of them, with a View to get under the Main land, the Extream North-West point of which we could see, at Noon, bore West by North, distant 6 or 8 Leagues; Latitude in Per Observation 36 degrees 33 minutes South.",
         "date": "1769-11-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4938,10 +4234,6 @@
         "date": "1769-11-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4950,23 +4242,15 @@
         "date": "1769-11-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-19": {
-        "diary": "[At Frith of Thames, North Island, New Zealand.]",
+        "diary": "Sunday, 19th. At 1 p.m. a breeze sprung up at East, which afterwards came to North-East, and with it we steer'd along shore South by East and South-South-East, having from 25 to 18 fathoms Water. At 1/2 past 7, having run 7 or 8 Leagues since Noon, we Anchor'd in 23 fathoms, not choosing to run any farther in the Dark, having the land on both sides of us forming the Entrance of a Streight, Bay or River, lying in South by East, for on that point of the Compass we could see no land. At daylight A.M., the wind being still favourable, we weighed and run under an Easy sail up the inlet, keeping nearest the East side. Soon after we had got under Sail 3 large Canoes came off to the Ship, and several of the people came on board upon the very first invitation; this was owing to their having heard of our being upon the Coast and the manner we had treated the Natives. I made each of those that came on board a small present, and after about an Hour's stay they went away well Satisfied. After having run 5 Leagues from the place where we Anchor'd last night our Depth of Water gradually decreased to 6 fathoms, and into less I did not choose to go, and as the wind blew right up the inlet and tide of flood, we came to an Anchor nearly in the middle of the Channell, which is here about 11 Miles over, and after this sent 2 Boats to sound, the one on one side and the other on the other side.",
         "date": "1769-11-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
-        "chapter": "At Frith of Thames, North Island, New Zealand.",
+        "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-20": {
@@ -4974,10 +4258,6 @@
         "date": "1769-11-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4986,10 +4266,6 @@
         "date": "1769-11-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4998,23 +4274,15 @@
         "date": "1769-11-22",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-23": {
-        "diary": "[Description of Frith of Thames, New Zealand.]",
+        "diary": "Thursday, 23rd. P.M. Gentle breezes at North-North-West and fair weather. Between 3 and 4 o'Clock got under Sail with the first of the Ebb and ply'd to windward until 9 when we anchor'd in 16 fathoms over upon the East shore. In the night had light Airs and Calm; at 3 A.M. weighed but had little or no wind until near noon, when a light breeze sprung up at North-North-West. At this time we were close under the West shore in 7 fathoms Water; Latitude 36 degrees 51 minutes South.",
         "date": "1769-11-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.78333333333333,
-            -184.06666666666666
-        ],
-        "chapter": "Description of Frith of Thames, New Zealand.",
+        "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-24": {
@@ -5030,15 +4298,11 @@
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-25": {
-        "diary": "[Off Cape Brett, North Island, New Zealand.]",
+        "diary": "Saturday, 25th. P.M., had fresh Gales at South-West, and Squally weather. We kept standing along Shore to the North-West, having the Main land on the one side and Islands on the other; our Soundings were from 26 to 12 fathoms. At 1/2 past 7 p.m. we Anchor'd in a Bay in 14 fathoms, sandy bottom. We had no sooner come to an Anchor than we caught between 90 and 100 Bream (a fish so called), this occasioned my giving this place the Name of Bream Bay.<em> Whangarei Bay.</em> The 2 points which forms this Bay lie North and South 5 Leagues from each other. The Bay is every where pretty broad and between 3 and 4 Leagues deep; at the bottom of it their appears to be a fresh water River.<em> Whangarei River. The district is very fertile. Coal mines are in the vicinity, and coal is exported.</em> The North head of the Bay, called Bream head, is high land and remarkable on account of several peaked rocks ranged in order upon the top of it; it lies in the Latitude 35 degrees 46 minutes South and North 41 degrees West, distant 17 1/2 Leagues from Cape Colvill. This Bay may likewise be known by some Small Islands lying before it called the Hen and Chickens, one of which is pretty high and terminates at Top in 2 peaks. The land between Point Rodney and Bream Head, which is 10 Leagues, is low and wooded in Turfs, and between the Sea and the firm land are white sand banks. We saw no inhabitants but saw fires in the Night, a proof that the Country is not uninhabited. At daylight A.M. we left the Bay and directed our Course along shore to the northward, having a Gentle breeze at South by West and Clear weather. A little after sunrise found the Variation to be 12 degrees 42 minutes Easterly. At Noon, our Latitude by observation was 36 degrees 36 minutes South; Bream head bore South distant 10 Miles; some small Islands (Poor Knights) at North-East by North distant 3 Leagues, and the Northermost land in sight bore North-North-West, being at this Time 2 miles from the Shore, and in this Situation had 26 fathoms; the land here about is rather low and pretty well cover'd with wood and seems not ill inhabited.",
         "date": "1769-11-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.25,
-            -184.96666666666667
-        ],
-        "chapter": "Off Cape Brett, North Island, New Zealand.",
+        "chapter": "Description of Frith of Thames, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-26": {
@@ -5046,10 +4310,6 @@
         "date": "1769-11-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -36.25,
-            -184.96666666666667
-        ],
         "chapter": "Off Cape Brett, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5066,15 +4326,11 @@
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-28": {
-        "diary": "[At Bay of Islands, North Island, New Zealand.]",
+        "diary": "Tuesday, 28th. A Fresh breeze from the Westward all this day, which being right in our teeth, we kept beating to windward with all the sail we could Crowd, but instead of Gaining we lost ground. A.M., being close in with the land to the Westward of the Bay, which lies on this side of Cape Brett, we saw at some distance inland 2 pretty large Villages Pallisaded in the same manner as others we have seen. At noon, Cape Brett South-East by East 1/2 East, distant 6 Leagues; Latitude observed 35 degrees 0 minutes South.",
         "date": "1769-11-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
-        "chapter": "At Bay of Islands, North Island, New Zealand.",
+        "chapter": "Off Cape Brett, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-29": {
@@ -5082,22 +4338,14 @@
         "date": "1769-11-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-11-30": {
-        "diary": "After the Ship was moved into Deeper Water I went with the Pinnace and Yawl, mann'd and Arm'd, and landed upon the Island, accompanied by Mr. Banks and Dr. Solander. We had scarce landed before all the Canoes left the Ship and landed at different parts of the Island, and before we could well look about us we were surrounded by 2 or 300 People, and, notwithstanding that they were all Arm'd, they came upon us in such a confused, straggling manner that we hardly suspected that they meant us any harm; but in this we were very soon undeceived, for upon our Endeavouring to draw a line on the sand between us and them they set up the War dance, and immediately some of them attempted to seize the 2 Boats. Being disappointed in this, they next attempted to break in upon us, upon which I fir'd a Musquet loaded with small Shott at one of the Forwardest of them, and Mr. Banks and 2 of the Men fir'd immediately after. This made them retire back a little, but in less than a minute one of the Chiefs rallied them again. Dr. Solander, seeing this, gave him a peppering with small Shott, which sent him off and made them retire a Second time. They attempted to rally several times after, and only seem'd to want some one of resolution to head them; but they were at last intirely dispers'd by the Ship firing a few shott over their Heads and a Musquet now and then from us. In this Skirmish only one or 2 of them was Hurt with small Shott, for I avoided killing any one of them as much as Possible, and for that reason withheld our people from firing. We had observed that some had hid themselves in a Cave in one of the Rocks, and sometime after the whole was over we went Towards them. The Chief who I have mentioned to have been on board the Ship hapned to be one of these; he, his wife, and another came out to meet us, but the rest made off. Those 3 people came and sat down by us, and we gave them of such things as we had about us. After this we went to another part of the Island, where some of the inhabitants came to us, and were as meek as lambs. Having taken a View of the Bay from the Island and Loaded both Boats with Sellery, which we found here in great plenty, we return'd on board, and at 4 A.M. hove up the Anchor in order to put to Sea, with a light breeze at East, but it soon falling Calm, obliged us to come too again, and about 8 or 9 o'Clock, seeing no probability of our getting to Sea, I sent the Master to Sound the Harbour. But before this I order'd Matthew Cox, Henry Stevens, and Emanl Parreyra to be punished with a dozen lashes each for leaving their duty when ashore last night, and digging up Potatoes out of one of the Plantations.<em> Cook's care to deal fairly with natives is evinced by this punishment.</em> The first of the 3 I remitted back to Confinement because he insisted that there was no harm in what he had done. All this Forenoon had abundance of the Natives about the Ship and some few on board. We Trafficked with them for a few Trifles, in which they dealt very fair and friendly.",
+        "diary": "Thursday, 30th. P.M., had the winds Westerly, with some very heavy Showers of Rain. We had no sooner come to an Anchor than between 300 and 400 of the Natives Assembled in their Canoes about the Ship; some few were admitted on board, and to one of the Chiefs I gave a piece of Broad Cloth and distributed a few Nails, etc., among some others of them. Many of these People had been off to the Ship when we were at Sea, and seem'd to be very sencible of the use of Fire Arms, and in the Trade we had with them they behaved Tolerable well, but continued so not long, before some of them wanted to take away the Buoy,<em> The buoy on the anchor.</em> and would not desist at the firing of several Musquets until one of them was hurt by small Shott, after which they withdrew a small distance from the Ship, and this was thought a good opportunity to try what Effect a Great Gun would have, as they paid so little respect to a Musquet, and accordingly one was fir'd over their Heads. This, I believe, would have sent them quite off, if it had not been for Tupia, who soon prevail'd on them to return to the Ship, when their behaviour was such as gave us no room to suspect that they meant to give us any farther Trouble.",
         "date": "1769-11-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5106,10 +4354,6 @@
         "date": "1769-12-01",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5118,10 +4362,6 @@
         "date": "1769-12-02",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5130,10 +4370,6 @@
         "date": "1769-12-03",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5142,23 +4378,15 @@
         "date": "1769-12-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-05": {
-        "diary": "[Sail from Bay of Islands, New Zealand.]",
+        "diary": "Tuesday, 5th. P.M., had the winds at South-West and West-South-West, a fresh breeze. At 3 o'Clock we return'd on board, and after dinner Visited another part of the Bay, but met with nothing new. By the evening all our Empty Casks were fill'd with water, and had at the same time got on board a large quantity of Sellery, which is found here in great Plenty. This I still caused to be boild every morning with Oatmeal and Portable Soup for the Ship's Company's breakfast. At 4 a.m. weigh'd with a light breeze at South-East, but had Variable light Airs and sometimes Calm until near Noon, when a Gentle breeze sprung up at North. At this time we had not got out of the Bay; our Latitude by Observation was 35 degrees 9 minutes South. This Bay I have before observed, lies on the West side of Cape Brett: I have named it the Bay of Islands,<em> The principal settlement in the Bay of Islands is Russell. A little higher up the Waikare River, at Opua, coal obtained from mines in the vicinity is shipped. At Russell, then called Kororarika, the first settlement of missionaries was formed in 1814 by Samuel Marsden. Here also the Government of the Island was first established in 1840, but was soon removed to Auckland.</em> on account of the Great Number which line its shores, and these help to form Several safe and Commodious Harbours, wherein is room and Depth of Water sufficient for any number of Shipping. The one we lay in is on the South-West side of South-Westermost Island, that lies on the South-East side of the Bay. I have made no accurate Survey of this Bay; the time it would have requir'd to have done this discouraged me from attempting it; besides, I thought it quite Sufficient to be able to Affirm with Certainty that it affords a good Anchorage and every kind of refreshment for Shipping, but as this was not the Season for roots, we got only fish. Some few we Caught ourselves with hook and line and in the Sean, but by far the greatest part we purchased of the Natives, and these of Various sorts, such as Sharks, Stingrays, Breams, Mullet, Mackerel, and several other sorts. Their way of Catching them is the same as ours, viz., with Hook and line and Seans; of the last they have some prodidgious large made all of a Strong Kind of Grass. The Mackerel are in every respect the same as those we have in England, only some are larger than any I ever saw in any other Part of the World; although this is the Season for this fish, we have never been able to Catch one with hook and line. The inhabitants of this Bay are far more numerous than at any other place we have yet been in, and seem to live in friendship one with another, although it doth not at all appear that they are united under one head.<em> This district was found to be very populous when the missionaries came.</em> They inhabited both the Islands and the Main, and have a Number of Hippas, or Strong Holds, and these are all built in such places as nature hath in a great part fortified, and what she hath left undone the people themselves have finished. It is high water in this Bay at full and change of the Moon about 8 o'clock, and the tide at these times rises and falls upon a perpendicular 6 or 8 feet. It appears, from the few Observations I have been able to make of the Tides on the Sea-Coast, that the flood comes from the Southward, and I have lately had reasons to think that there is a current which comes from the Westward and sets along shore to the South-East or South-South-East, as the Land lays.",
         "date": "1769-12-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
-        "chapter": "Sail from Bay of Islands, New Zealand.",
+        "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-06": {
@@ -5166,10 +4394,6 @@
         "date": "1769-12-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5178,10 +4402,6 @@
         "date": "1769-12-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5190,23 +4410,15 @@
         "date": "1769-12-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-09": {
-        "diary": "[Off Rangaunu Bay, North Island, New Zealand.]",
+        "diary": "Saturday, 9th. P.M., had a Gentle Breeze at West, which in the Evening came to South and continued so all night; this by daylight brought us pretty well in with the land, 7 Leagues to the Westward of the Cavalle Isles, and where lies a deep Bay running in South-West by West and West-South-West, the bottom of which we could but just see, and there the land appear'd to be low and level, the 2 points which form the Entrance lie West-North-West and East-South-East 5 Miles from each other. This Bay I have named Doubtless Bay;<em> There is a small settlement called Mangonui in Doubtless Bay.</em> the wind not permitting us to look into this Bay we steer'd for the Westermost land we had in sight, which bore from us West-North-West, distant 3 Leagues, but before we got the length of it it fell calm, and continued so until 10 o'Clock, when a breeze sprung up at West-North-West, and with it we stood off North. While we lay becalm'd, several of the Natives came off to the Ship in 5 Canoes, but were fearful of venturing alongside. After these were gone, 6 more came off; these last came boldly alongside, and sold us fish of different sorts sufficient to give all hands a little.",
         "date": "1769-12-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.166666666666664,
-            -185.41666666666666
-        ],
-        "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
+        "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-10": {
@@ -5215,7 +4427,7 @@
         "weather": "hazy",
         "wind": "",
         "location": [
-            -34.63333333333333,
+            -34.85,
             -186.83333333333334
         ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
@@ -5226,10 +4438,6 @@
         "date": "1769-12-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.63333333333333,
-            -186.83333333333334
-        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5238,10 +4446,6 @@
         "date": "1769-12-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.63333333333333,
-            -186.83333333333334
-        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5250,23 +4454,15 @@
         "date": "1769-12-13",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -34.63333333333333,
-            -186.83333333333334
-        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-14": {
-        "diary": "[Off North Cape, New Zealand.]",
+        "diary": "Thursday, 14th. Strong Gales at West and West-South-West with Squalls at times attended with Rain. At 1/2 past 3 P.M. Tack'd and stood to the Northward. A small Island lying off Knockle point, bore South 1/2 West, distant half a League. In the evening brought the Ship under her Courses, having first Split the Fore and Mizen Top sails; at Midnight wore and Stood to the Southward until 5 a.m., then Tack'd and stood to the North-West. At this time saw the land bearing South, distant 8 or 9 Leagues; by this we found we had fell very much to Leeward since Yesterday morning. Set the Top sails close Reeft and the people to dry and repair the Damaged Sails. At Noon a strong Gale and clear weather, Latitude observ'd 34 degrees 6 minutes South. Saw land bearing South-West being the same North-Westermost land we have seen before, and which I take to be the Northern Extremity of this Country, as we have now a large swell rowling in from the Westward which could not well be, was we covered by any land on that point of the Compass.<em> The Endeavour was now to the northward of the north point of New Zealand.</em>",
         "date": "1769-12-14",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -34.63333333333333,
-            -186.83333333333334
-        ],
-        "chapter": "Off North Cape, New Zealand.",
+        "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-15": {
@@ -5286,10 +4482,6 @@
         "date": "1769-12-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -183.75
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5298,10 +4490,6 @@
         "date": "1769-12-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -183.75
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5310,10 +4498,6 @@
         "date": "1769-12-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -183.75
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5334,10 +4518,6 @@
         "date": "1769-12-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.03333333333333,
-            -186.91666666666666
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5346,10 +4526,6 @@
         "date": "1769-12-21",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -34.03333333333333,
-            -186.91666666666666
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5358,10 +4534,6 @@
         "date": "1769-12-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.03333333333333,
-            -186.91666666666666
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5370,10 +4542,6 @@
         "date": "1769-12-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.03333333333333,
-            -186.91666666666666
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5382,10 +4550,6 @@
         "date": "1769-12-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.03333333333333,
-            -186.91666666666666
-        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5414,15 +4578,15 @@
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-27": {
-        "diary": "[Off North End of New Zealand.]",
+        "diary": "Wednesday, 27th. Winds at East. P.M., a fresh Gale, with which we stood to the Southward until 12 at Night, then Tack'd and Stood to the Northward. At 4 a.m. the wind began to freshen, and increased in such a manner that at 9 we were obliged to bring the Ship too under her Mainsail, it blowing at this time excessive hard with heavy Squalls attended with rain, and at the same time thick hazey weather. Course made good since Yesterday at Noon South-South-West 1/2 West, distance 11 Miles. Latitude in 35 degrees 19 minutes South, Longitude in 188 degrees 29 minutes West. The Island of the 3 Kings, North 27 degrees East, distant 77 Miles.",
         "date": "1769-12-27",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -35.31666666666667,
             -188.48333333333332
         ],
-        "chapter": "Off North End of New Zealand.",
+        "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-28": {
@@ -5442,10 +4606,6 @@
         "date": "1769-12-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.833333333333336,
-            -188.45
-        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5454,22 +4614,14 @@
         "date": "1769-12-30",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -34.833333333333336,
-            -188.45
-        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1769-12-31": {
-        "diary": "NOTE. Mount Camel doth not appear to lay little more than a Mile from the Sea on this Side<em> It is, in fact, about six miles, but the coast in front is so low that the mistake in estimation is very natural.</em> and about the same distance on the other, so that the land here cannot be above 2 or 3 Miles broad from Sea to Sea, which is what I computed when we were in Sandy Bay on the other side of the Coast. At 6 a.m. Tack'd and Stood to the Eastward, the Island of the 3 Kings North-West by North. At Noon Tack'd again and stood to the Westward, being in the Latitude of 34 degrees 37 minutes South; the Island of the 3 Kings bore North-West by North, distant 10 or 11 Leagues; and Cape Maria Van Diemen North 31 East, distant 4 1/2 Leagues; in this situation had 54 fathoms. I cannot help thinking but what it will appear a little strange that at this season of the Year we should be 3 Weeks in getting 10 Leagues to the Westward and 5 Weeks in getting 50 Leagues, for so long it is since we pass'd Cape Brett; but it will hardly be credited that in the midst of Summer and in the Latitude of 35 degrees South such a Gale of wind as we have had could have hapned which for its Strength and Continuance was such as I hardly was ever in before. Fortunately at this time we were a good distance from land, otherwise it would have proved fatal to us.<em> The north point of New Zealand is celebrated for bad weather.</em>",
+        "diary": "Sunday, 31st. Fresh gales at South-West and South-West by South accompanied by a large Sea from the same Quarter. At 1 p.m. Tack'd and Stood to the North-West until 8, then stood to the South-East. At this time the Island of the 3 Kings bore North-West by West, distant 11 Leagues, and Cape Maria Van Diemen North by East. At Midnight wore and Stood to the North-West until 4 a.m., then wore and Stood to the South-East; at Noon our Latitude by observation was 34 degrees 42 minutes South. The land of Cape Maria Van Diemen bore North-East by North distant about 5 Leagues.",
         "date": "1769-12-31",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.833333333333336,
-            -188.45
-        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5486,15 +4638,11 @@
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-03": {
-        "diary": "[Off Kaipara Harbour, North Island, New Zealand.]",
+        "diary": "Wednesday, 3rd. Winds at West-South-West and South-West; a fresh breeze and Squally, the remainder moderate with frequent Squalls attended with rain. In the evening shortned Sail and at Midnight Tack'd and made a Trip to the North-West until 2 a.m., then wore and stood to the Southward. At daylight made Sail and Edged away in order to make the Land; at 10 saw it bearing North-East and appeared to be high land; at Noon it extended from North to East-North-East distant, by Estimation, 8 or 10 Leagues, and Cape Maria Van Diemen bore North 2 degrees 30 minutes West, distant 33 Leagues. Our Latitude by observation was 36 degrees 2 minutes South. A high rowling swell from the South-West.",
         "date": "1770-01-03",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -35.28333333333333,
-            -187.3
-        ],
-        "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
+        "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-04": {
@@ -5514,10 +4662,6 @@
         "date": "1770-01-05",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -35.75,
-            -185.83333333333334
-        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5526,10 +4670,6 @@
         "date": "1770-01-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.75,
-            -185.83333333333334
-        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5538,10 +4678,6 @@
         "date": "1770-01-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.75,
-            -185.83333333333334
-        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5550,23 +4686,15 @@
         "date": "1770-01-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.75,
-            -185.83333333333334
-        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-09": {
-        "diary": "[Off Kawhia Harbour, North Island, New Zealand.]",
+        "diary": "Tuesday, 9th. Gentle breezes between the North-East and North-West, Cloudy weather sailing along shore within sight of Land at Noon. Course and distance Sailed South 37 East, 69 Miles. Latitude in per Observation 36 degrees 39 minutes South; the place we were abreast of the 4th Instant, which we at first took for a Bay or Inlet<em> Kaipara.</em> bore North-East by North, distant 5 1/2 Leagues, and Cape Maria Van Diemen bore North 29 West, distant 47 Leagues.",
         "date": "1770-01-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.75,
-            -185.83333333333334
-        ],
-        "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
+        "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-10": {
@@ -5586,10 +4714,6 @@
         "date": "1770-01-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -38.06666666666667,
-            -184.7
-        ],
         "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -5598,15 +4722,11 @@
         "date": "1770-01-12",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -38.06666666666667,
-            -184.7
-        ],
         "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-13": {
-        "diary": "[In North Part of Cook's Strait.]",
+        "diary": "Saturday, 13th. Winds Variable. P.M., Cloudy weather. At 7 o'Clock sounded and had 42 fathoms water, being distant from the Shore between 2 and 3 Leagues and the Peaked Mountain as near as I could judge bore East. After it was Dark saw a fire upon the Shore, a sure sign that the Country is inhabited. In the night had some Thunder, Lightning, and Rain; at 5 a.m. saw for a few Minutes the Top of the Peaked Mountain above the Clouds bearing North-East. It is of a prodidgious height and its Top is cover'd with Everlasting Snow; it lies in the Latitude of 39 degrees 16 minutes South, and in the Longitude of 185 degrees 15 minutes West. I have named it Mount Egmont in honour of the Earl of Egmont.<em> The Earl of Egmont was First Lord of the Admiralty from 1763 to 1766. Mount Egmont is a magnificent conical mountain, surrounded on three sides by the sea, from which it rises to a height of 8300 feet.</em> This mountain seems to have a pretty large base and to rise with a Gradual Ascent to the Peak, and what makes it more Conspicuous is its being situated near the Sea and in the Midst of a flat Country which afforded a very good Aspect, being Cloathed with Woods and Verdure. The shore under the foot of this Mountain forms a large Cape which I have named Cape Egmont; it lies South-South-West 1/2 West, 27 Leagues from Albetross Point. On the North-East side of the Cape lay 2 Small Islands near to a very remarkable Point of the Main that riseth to a good height in the very form of a Sugar Loaf. To the Southward of the Cape the Land tends away South-East by East and East-South-East, and seems to be every where a bold shore. At Noon had variable light Airs and Clear weather. Latitude observ'd 39 degrees 32 minutes South. Cape Egmont bore about North-East, and we were about 4 Leagues from the Shore in that direction; in this situation had 40 fathoms Water.",
         "date": "1770-01-13",
         "weather": "",
         "wind": "",
@@ -5614,7 +4734,7 @@
             -39.53333333333333,
             -185.25
         ],
-        "chapter": "In North Part of Cook's Strait.",
+        "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-14": {
@@ -5622,34 +4742,22 @@
         "date": "1770-01-14",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-15": {
-        "diary": "TUESDAY, 16th. Variable light Airs and Clear settled weather. At 1 p.m. hauled close round the South-West end of the Island, on which stands the Village before mention'd, the inhabitants of which were all in Arms. At 2 o'Clock we anchor'd in a very Snug Cove,<em> Ship Cove, in Queen Charlotte's Sound.</em> which is on the North-West side of the Bay facing the South-West end of the Island in 11 fathoms; soft Ground, and moor'd with the Stream Anchor. By this time several of the Natives had come off to the Ship in their Canoes, and after heaving a few stones at us and having some Conversation with Tupia, some of them Ventur'd on board, where they made but a very short stay before they went into their Canoes again, and soon after left us altogether. I then went ashore in the bottom of the Cove, accompanied by most of the Gentlemen on board. We found a fine Stream of Excellent Water, and as to wood the land is here one intire forest. Having the Sean with us we made a few hauls and caught 300 pounds weight of different sorts of fish, which were equally distributed to the Ship's Company. A.M., Careen'd the Ship, scrubb'd and pay'd the Larboard side. Several of the Natives Visited us this Morning, and brought with them some stinking fish, which, however, I order'd to be bought up to encourage them in this kind of Traffick, but Trade at this time seem'd not to be their Object, but were more inclinable to Quarrel, and as the Ship was upon the Carreen I thought they might give us some Trouble, and perhaps hurt some of our people that were in the Boats alongside. For this reason I fir'd some small shott at one of the first Offenders; this made them keep at a proper distance while they stay'd, which was not long before they all went away. These people declared to us this morning, that they never either saw or heard of a Ship like ours being upon this Coast before. From this it appears that they have no Tradition among them of Tasman being here, for I believe Murtherers bay, the place where he anchor'd, not to be far from this place;<em> Tasman's Massacre Bay lies 70 miles to the West-North-West.</em> but this cannot be it from the Latitude, for I find by an Observation made this day at Noon that we are at an Anchor in 41 degrees 5 minutes 32 seconds South, which is 15 miles to the Southward of Murtherers Bay.<em> The bay in Queen Charlotte's Sound in which the Endeavour anchored, Ship Cove, lies 7 miles within the entrance on the western shore.</em>",
+        "diary": "Monday, 15th. Fore and Middle parts, fresh breezes between the West and North-West and fair weather. At 8 p.m. we were within 2 Leagues of the Land, we discover'd in the morning, having run 10 Leagues since Noon; the land seen then bearing South 63 degrees West bore now North 59 degrees West, distant 7 or 8 Leagues and makes like an Island. Between this land or Island and Cape Egmont is a very broad and Deep Bay or inlet the South-West side of which we are now upon, and here the Land is of a Considerable height, distinguished by Hills and Valleys, and the Shore seems to form several Bays, into one of which I intend to go with the Ship in order to Careen her (she being very foul) and to repair some few defects, recruit our Stock of Wood, Water, etc. With this View we Keept plying on and off all Night, having from 80 to 63 fathoms Water; at daylight stood in for an inlet which runs in South-West.<em> Queen Charlotte's Sound, in the north-east part of the Middle Island.</em> At 8 a.m. we were got within the Entrance which may be known by a Reef of Rocks stretching off from the North-West point, and some rocky Islands lying off the South-East point. At 9 o'clock being little wind and Variable we were carried by the Tide or Current within 2 Cables length of the North-West Shore where we had 54 fathoms, but with the help of our Boats we got Clear, at this time we saw rise up twice near the Ship a Sea Lyon, the Head of which was Exactly like the head of the Male one described by Lord Anson. We likewise saw a Canoe with some of the Natives cross the Bay, and a Village situated upon a point of an Island, which lies 7 or 8 miles with the Entrance. At Noon we were the length of this Island, and being little wind had the Boats ahead Towing.",
         "date": "1770-01-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
-        "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
+        "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
     "1770-01-17": {
         "diary": "Wednesday, 17th. Light Airs, Calm and pleasant weather. P.M., righted ship and got the other Side ready for heeling out, and in the Evening Haul'd the Sean and caught a few fish. While this was doing some of us went in the pinnace into another Cove, not far from where the Ship lays; in going thither we meet with a Woman floating upon the Water, who to all appearance had not been dead many days. Soon after we landed we meet with 2 or 3 of the Natives who not long before must have been regaling themselves upon human flesh, for I got from one of them the bone of the Fore arm of a Man or Woman which was quite fresh, and the flesh had been but lately picked off, which they told us they had eat; they gave us to understand that but a few days before they had taken, Kill'd, and Eat a Boats Crew of their Enemies or strangers, for I believe they look upon all strangers as Enemies. From what we could learn the woman we had seen floating upon the Water was in this Boat and had been drowned in the fray. There was not one of us that had the least doubt but what these people were cannibals; but the finding this bone with part of the sinews fresh upon it was a stronger proof than any we had yet met with, and, in order to be fully satisfied of the truth of what they had told us, we told one of them that it was not the bone of a man, but that of a dog; but he, with great fervency, took hold of his Fore Arm, and told us again that it was that bone: and to convince us that they had eat the flesh he took hold of the flesh of his own Arm with his teeth and made Signs of Eating. A.M., Careen'd, Scrub'd, and pay'd the Starboard side of the Ship; while this was doing some of the Natives came alongside seemingly only to look at us. There was a woman among them who had her Arms, thighs, and Legs cut in several place's; this was done by way of Mourning for her Husband who had very lately been Kill'd and Eat by some of their Enemies as they told us and pointed towards' the place where it was done, which lay somewhere to the Eastward. Mr. Banks got from one of them a Bone of the fore Arm, much in the same state as the one before mentioned; and to show us that they eat the flesh, they bit and Naw'd the bone and draw'd it through their Mouths, and this in such a manner as plainly Shew'd that the flesh to them was a Dainty Bit.",
         "date": "1770-01-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5658,10 +4766,6 @@
         "date": "1770-01-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5670,10 +4774,6 @@
         "date": "1770-01-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5682,10 +4782,6 @@
         "date": "1770-01-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5694,10 +4790,6 @@
         "date": "1770-01-21",
         "weather": "",
         "wind": "s",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5706,10 +4798,6 @@
         "date": "1770-01-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5718,10 +4806,6 @@
         "date": "1770-01-23",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5730,10 +4814,6 @@
         "date": "1770-01-24",
         "weather": "cloudy",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5742,10 +4822,6 @@
         "date": "1770-01-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5754,10 +4830,6 @@
         "date": "1770-01-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5766,10 +4838,6 @@
         "date": "1770-01-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5778,10 +4846,6 @@
         "date": "1770-01-28",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5790,10 +4854,6 @@
         "date": "1770-01-29",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5802,22 +4862,14 @@
         "date": "1770-01-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-01-31": {
-        "diary": "Thursday, February 1st. P.M. having compleated the Ship with wood, and filled all our water, the Boatswain was sent ashore with a party of Men to cut and make brooms, while others were Employ'd about the rigging, fishing, etc. In the night and the remainder of the day had a Strong Gale from the North-West, attended with very much rain.",
+        "diary": "Wednesday, 31st. Little wind and Variable. In the P.M. the Carpenters having prepared the 2 Posts with inscriptions upon them, setting forth the Ship's Name, Month, and Year, one of them was set up at the Watering Place, on which was hoisted the Union flag; and in the Morning I took the other over to the Island which is known by the name of Motuouru, and is the one that lies nearest to the Sea; but before I attempted to set up the Post I went first to the Hippa, having Dr. Monkhouse and Tupia along with me. We here met with the old Man I have before spoke of. The first thing I did was to inquire after the Man said to be kill'd by our people, and the one that was wounded at the same time, when it did not appear to me that any such accidents had happened. I next (by means of Tupia) explain'd to the old Man and several others that we were Come to set up a Mark upon the Island, in order to shew to any ship that might put into this place that we had been here before. They not only gave their free Consent to set it up, but promised never to pull it down. I then gave every one a present of one thing or another; to the old man I gave Silver, three penny pieces dated 1763, and Spike Nails with the King's Broad Arrow cut deep in them; things that I thought were most likely to remain long among them. After I had thus prepared the way for setting up the post, we took it up to the highest part of the Island, and after fixing it fast in the ground, hoisted thereon the Union flag, and I dignified this Inlet with the name of Queen Charlotte's Sound, and took formal possession of it and the Adjacent lands in the Name and for the use of his Majesty. We then drank her Majesty's health in a Bottle of wine, and gave the Empty bottle to the old man (who had attended us up the hill), with which he was highly pleased. Whilst the Post was setting up we asked the old man about the Strait or Passage into the Eastern sea, and he very plainly told us there was a Passage, and as I had some Conjectures that the lands to the South-West of this Strait (which we are now at) was an Island, and not a Continent, we questioned the old Man about it, who said it consisted of two Wannuas, that is 2 lands or Islands that might be Circumnavigated in a few days, even in 4. This man spoke of 3 lands, the 2 above mentioned which he called Tovy-poinammu,<em> The two Wannuas were doubtless the peninsulas lying west of Queen Charlotte's Sound. The third was the North Island. Te Wai Pounamu (The Water of the Greenstone, of which the most prized weapons were made</em> is the native name of the Middle Island; but there must have been some confusion as to the possibility of getting round this in four days. The name of the North Island is Te Ika o Maui (The Fish of Maui), but is given by Cook as Aeheino Mouwe. It has been suggested (Rusden) that the name given to him was Tehinga o Maui (The Fishing of Maui), and imperfectly rendered.) which Signifies green Talk or Stone, such as they make their Tools or ornaments, etc., and for the third he pointed to the land on the East side of the Strait; this, he said, was a large land, and that it would take up a great many Moons to sail round it; this he called Aeheino Mouwe, a name many others before had called it by. That part which borders on the strait he called Teiria Whitte. After we had done our business upon the Island we returned on board, bringing the old Man along with us, who after dinner went ashore in a Canoe that came to attend upon him.",
         "date": "1770-01-31",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5826,10 +4878,6 @@
         "date": "1770-02-02",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5838,10 +4886,6 @@
         "date": "1770-02-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5850,10 +4894,6 @@
         "date": "1770-02-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5862,23 +4902,15 @@
         "date": "1770-02-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-06": {
-        "diary": "[In Cook's Strait, New Zealand.]",
+        "diary": "Tuesday, 6th. At 2 p.m. hove up the Anchor, warped the Ship out of the Cove, and got under Sail, but it soon after falling little wind, and that very Variable, we anchor'd again a little above Motu-ouru. The old man, seeing us under sail, came on board to take his leave of us. Amongst other conversation that passed between him and Tupia, he was asked if either he or any of his Ancestors had ever seen or heard of any Ship like this being in these parts; to which question he answer'd in the Negative, but said that his Ancestors had told him that there came once to this place a small Vessel from a distant part, wherein were 4 Men that were all kill'd upon their landing; and being asked where this distant land lay, he pointed to the North, intimating that it would take up a great many days to go thither. Something of this land was mentioned by the People of the Bay of Islands, who said that some of their Ancestors had been there; but it is very clear to us that there knowledge of this land is only traditionary.<em> This was doubtless the tradition current among the Maoris, that their ancestors came from islands to the north. See Note below.</em> Had it Calm all night until 6 o'clock in the Morning, when a light breeze sprung up at North, and we got again under sail; but as the wind proved very unsteady, we got no farther than just without Motu-ouru by noon, but had a fair prospect of getting clear out of the Sound, which I shall next describe.",
         "date": "1770-02-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.45,
-            -184.65
-        ],
-        "chapter": "In Cook's Strait, New Zealand.",
+        "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-07": {
@@ -5894,7 +4926,7 @@
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-08": {
-        "diary": "[Complete the Circuit of North Island, New Zealand.]",
+        "diary": "Thursday, 8th. In the P.M. had a fresh breeze at North-North-East and Cloudy weather. At 3 o'Clock was abreast of the Southermost point of land set at Noon, which I named Cape Campbell, Latitude 41 degrees 42 minutes South, Longitude 184 degrees 47 minutes West, it lies South by West, distant 12 or 13 Leagues from Cape Koamaroo, and together with Cape Pallisser forms the Southern Entrance of the Straits; the Distance of the one to the other is 13 or 14 Leagues West by South and East by North. From this Cape we steer'd along Shore South-West by South until 8 o'Clock, when the wind died away; but an Hour after a fresh breeze sprung up at South-West, and we put the Ship right before it. The reason of my doing this was owing to a notion, which some of the Officers had just started, that Aeheinomouwe was not an Island; founding their opinion on a supposition that the land might extend away to the South-East from between Cape Turnagain and Cape Pallisser, there being a space of about 12 or 13 leagues which we had not seen. For my own part, I had seen so far into this Sea the first time I discover'd the Strait, together with many other Concurrent testimonies of its being an Island, that no such supposition ever enter'd my thoughts; but being resolved to clear up every doubt that might Arise on so important an Object, I took the opportunity of the Shifting of the Wind to Stand to the Eastward, and accordingly steer'd North-East by East all night. At 9 o'Clock A.M. we were abreast of Cape Pallisser, where we found the Land trend away North-East towards Cape Turnagain, which I reckon'd to be distant from us about 26 Leagues, but as the weather was hazey so that we could not see above 4 or 5 Leagues ahead, we Still kept standing to the North-East, with a light breeze at South. At Noon Cape Pallisser bore North 72 degrees West, distant 3 Leagues; our Latitude by account is 41 degrees 30 minutes South.",
         "date": "1770-02-08",
         "weather": "",
         "wind": "",
@@ -5902,7 +4934,7 @@
             -41.5,
             -184.78333333333333
         ],
-        "chapter": "Complete the Circuit of North Island, New Zealand.",
+        "chapter": "In Cook's Strait, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-09": {
@@ -5910,10 +4942,6 @@
         "date": "1770-02-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5922,10 +4950,6 @@
         "date": "1770-02-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5934,10 +4958,6 @@
         "date": "1770-02-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5946,10 +4966,6 @@
         "date": "1770-02-12",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5958,10 +4974,6 @@
         "date": "1770-02-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5970,10 +4982,6 @@
         "date": "1770-02-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5982,23 +4990,15 @@
         "date": "1770-02-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-16": {
-        "diary": "[Off Banks Peninsula, New Zealand.]",
+        "diary": "Friday, 16th. In the P.M. had a light breeze North-East, with which we steer'd West, edging in for the land, which was distant from us about 8 Leagues. At 7 o'Clock the Southermost Extream of the land in sight bore West-South-West, being about 6 Leagues from the Shore; soon after this it fell Calm, and continued so most part of the night, with sometimes light Airs from the land. At daylight we discover'd land bearing South by West, and seemingly detached from the Coast we were upon; at 8 o'Clock a breeze sprung up at North by East, and we steer'd directly for it. At Noon was in the Latitude of 43 degrees 19 minutes South; the Peak on the Snowy Mountains bore North 20 degrees East, distant 27 Leagues; the Southern Extremity we could see of that land bore West, and the land discover'd in the morning, making like an Island, extending from South-South-West to South-West by West 1/2 West, distant about 8 Leagues; our Course and distance sail'd since yesterday at Noon South-West by West, 43 Miles; Variation by this Morning's Amplitude 14 degrees 39 minutes East.",
         "date": "1770-02-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -41.5,
-            -184.78333333333333
-        ],
-        "chapter": "Off Banks Peninsula, New Zealand.",
+        "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-17": {
@@ -6018,23 +5018,15 @@
         "date": "1770-02-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.11666666666667,
-            -186.5
-        ],
         "chapter": "Off Banks Peninsula, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-19": {
-        "diary": "[Off Timaru, Middle Island, New Zealand.]",
+        "diary": "Monday, 19th. P.M. had a Moderate breeze at North-North-West and North until 8 o'clock, when it fell little wind, and was very unsettled until 10, at which time it fix'd at South, and freshen'd in such a manner that before the morning it brought us under our close reeft Topsails. At 8 a.m. having run 28 Leagues upon a West by North 1/2 North Course, and now judging ourselves to be to the Westward of the Land of Tovy Poenammu, we bore away North-West with a fresh Gale at South. At 10 o'clock, having run 11 Miles upon this Course, we saw land extending from the South-West to the North-West at the distance of about 10 Leagues from us, which we hauled up for. At Noon our Latitude per observation was 44 degrees 38 minutes South; the South-East point of Banks Island bore North 59 degrees 30 minutes East, distant 30 Leagues, and the Main body of the land in sight West by North. Course and distance sail'd since Yesterday at Noon is North 66 degrees 45 minutes West, 96 Miles.",
         "date": "1770-02-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.11666666666667,
-            -186.5
-        ],
-        "chapter": "Off Timaru, Middle Island, New Zealand.",
+        "chapter": "Off Banks Peninsula, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-20": {
@@ -6042,10 +5034,6 @@
         "date": "1770-02-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.733333333333334,
-            -2.3666666666666667
-        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6054,10 +5042,6 @@
         "date": "1770-02-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.733333333333334,
-            -2.3666666666666667
-        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6066,10 +5050,6 @@
         "date": "1770-02-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.733333333333334,
-            -2.3666666666666667
-        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6078,23 +5058,15 @@
         "date": "1770-02-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.733333333333334,
-            -2.3666666666666667
-        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-24": {
-        "diary": "[Off Otago, Middle Island, New Zealand.]",
+        "diary": "Saturday, 24th. Calm until 6 p.m., at which time a light breeze sprung up at East-North-East, with which we steer'd South-South-East all night, edging off from the Land because of a hollow swell which we had from the South-East; depth of water from 60 to 75 fathoms. At daylight the wind began to freshen, and before noon blowed a fresh Gale, and veer'd to North-North-East; at 8 a.m. Saw the land extending as far as South-West by South, which we steer'd directly for, and at Noon we were in the Latitude of 45 degrees 22 minutes South; the land in sight extending from South-West 1/2 South to North-North-West making high and hilly. Course and distance run since Yesterday at Noon is South 15 degrees West, 47 Miles. In the P.M., while we lay becalm'd, Mr. Banks, in a small Boat, shott 2 Port Egmont Hens, which were in every respect the same sort of Birds as are found in great Numbers upon the Island of Faro; they are of a very dark brown plumage, with a little white about the under side of their wings, and are as large as a Muscovy Duck. These were the first that we have seen since we arrived upon the Coast of this Country, but we saw of them for some days before we made land.",
         "date": "1770-02-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.733333333333334,
-            -2.3666666666666667
-        ],
-        "chapter": "Off Otago, Middle Island, New Zealand.",
+        "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-25": {
@@ -6114,10 +5086,6 @@
         "date": "1770-02-26",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -45.916666666666664,
-            -189.06666666666666
-        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6126,22 +5094,14 @@
         "date": "1770-02-27",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -46.9,
-            -1.4
-        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-02-28": {
-        "diary": "Thursday, March 1st. Winds between the South-West and North-North-West, a fresh gale. In the P.M. found the Variation to be 16 degrees 34 minutes East. At 8 Tack'd and Stood to the Southward, with the wind at West, which before the morning veer'd to North-West, accompanied with hazey weather and drizzling rain; at day light loosed a reef out of Each Topsail, and set some of the small sails. At Noon our Latitude by account was 47 degrees 52 minutes South, and Longitude made from Cape Saunders 1 degree 8 minutes East.",
+        "diary": "Wednesday, 28th. Strong Gale at South-West, with a large Sea from the Same quarter. At 7 p.m. made sail under the Courses; at 8 a.m. set the Topsails close reefed. At Noon, being in the Latitude of 47 degrees 43 minutes South, and Longitude East from Cape Saunders 2 degrees 10 minutes, wore and stood to the Northward.",
         "date": "1770-02-28",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
-        "location": [
-            -47.86666666666667,
-            -1.1333333333333333
-        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6151,7 +5111,7 @@
         "weather": "heavy-rain",
         "wind": "",
         "location": [
-            -46.7,
+            -48,
             -188
         ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
@@ -6162,23 +5122,15 @@
         "date": "1770-03-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -46.7,
-            -188
-        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-04": {
-        "diary": "[Off South Part of Middle Island, New Zealand.]",
+        "diary": "Sunday, 4th. At 4 p.m. the Wind coming to the Northward we stood to the Westward with all the sail we could make. In the morning got up Topgallant yards, and set the sails; found the Variation to be 16 degrees 16 minutes East. Saw several Whales, Seals, and one Penguin; this bird was but Small of the sort, but seem'd to be such a one as we had never seen before. We have seen several Seals since we passed the Straits, but never saw one upon the whole Coast of Aeheinomouwe. We sounded both in the Night and the morning, but found no bottom with 150 fathoms Line; at Noon we saw Cape Saunders bearing North 1/2 West; our Latitude by observation was 46 degrees 31 minutes South.<em> The Endeavour had been blown off the land for seven days, and had barely recovered her position.</em>",
         "date": "1770-03-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -46.7,
-            -188
-        ],
-        "chapter": "Off South Part of Middle Island, New Zealand.",
+        "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-05": {
@@ -6186,10 +5138,6 @@
         "date": "1770-03-05",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -46.833333333333336,
-            -1.9333333333333333
-        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6198,10 +5146,6 @@
         "date": "1770-03-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -46.833333333333336,
-            -1.9333333333333333
-        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6210,23 +5154,15 @@
         "date": "1770-03-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -46.833333333333336,
-            -1.9333333333333333
-        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-08": {
-        "diary": "[Off South Cape of New Zealand.]",
+        "diary": "Thursday, 8th. Light Airs next to a Calm from South-South-East to North-East, with which we kept Steering to the South-West, but made but little way because of a swell which took us right ahead. At daylight A.M. we saw, or thought we saw, from the Masthead, the land which we have left to the Northward of us joined to that to the South-West of us; and at the same time we imagined we saw the land extend to the Southward as far as South-South-West; but after steering this Course until noon we discovered our Mistake, for there was no land to be seen to the Southward of West, which Course we now steer'd, being by observation in the Latitude of 47 degrees 12 minutes; Longitude made from Cape Saunders 2 degrees 2 minutes West.",
         "date": "1770-03-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -47.2,
-            -2.033333333333333
-        ],
-        "chapter": "Off South Cape of New Zealand.",
+        "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-09": {
@@ -6234,10 +5170,6 @@
         "date": "1770-03-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -47.43333333333333,
-            -3.066666666666667
-        ],
         "chapter": "Off South Cape of New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6247,8 +5179,8 @@
         "weather": "",
         "wind": "",
         "location": [
-            -47.55,
-            -0.9833333333333333
+            -47.31666666666667,
+            -192.2
         ],
         "chapter": "Off South Cape of New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
@@ -6278,15 +5210,11 @@
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-13": {
-        "diary": "[Off the New Zealand Sounds.]",
+        "diary": "Tuesday, 13th. Strong Gale between the South-West by West and South-South-West, with a large Hollow sea from the same Quarter. In the P.M. had frequent Squalls, with Showers of rain; in the night had several very heavy squalls, attended with Showers of Hail, which obliged us to take in our Topsails. During the night steer'd North-North-West until 6 a.m., when, seeing no land, we steer'd North by East, and set the Main Topsail, single reeft. At 8 set the Foretopsail, single reeft, and loosed all the Reefs out of the Maintopsail, and Steer'd North-East by East 1/2 East in order to make the land. At 10 saw it bearing East-North-East, and appeared to be very high; but, being hazey over it, we could see nothing distinct neither now nor at Noon, when, by Observation, we were in the Latitude of 46 degrees 0 minutes South. Course and distance Sailed since Yesterday North 5 degrees West, 96 Miles. Longitude made from the South Cape 1 degree 40 minutes West.",
         "date": "1770-03-13",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -46,
-            -1.6666666666666665
-        ],
-        "chapter": "Off the New Zealand Sounds.",
+        "chapter": "Off South Cape of New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-14": {
@@ -6296,7 +5224,7 @@
         "wind": "",
         "location": [
             -45.266666666666666,
-            -0.48333333333333334
+            -193.28333333333333
         ],
         "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
@@ -6306,10 +5234,6 @@
         "date": "1770-03-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.78333333333333,
-            -1.05
-        ],
         "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6318,23 +5242,19 @@
         "date": "1770-03-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.78333333333333,
-            -1.05
-        ],
         "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-17": {
-        "diary": "[Off West Coast of Middle Island, New Zealand.]",
+        "diary": "Saturday, 17th. Continued our Course along shore, having in the P.M. the advantage of a fresh Gale at South-West. At 2, past by the point afore-mentioned, which is of a Moderate height, with deep Red Clifts, down which falls 4 Small streams of Water, on which account it is named Cascades Point. Latitude 44 degrees 0 minutes South; Longitude 2 degrees 20 minutes East from Cape West. From this point the land at first Trends North 76 degrees East, but afterwards more to the Northward East-North-East, 8 Leagues. From this point and near the Shore lies a small low Island, which bore from us South by East, distant 1 1/2 Leagues. At 7 o'Clock we Shortned sail, and brought too under the Topsails, with her head off Shore, having 33 fathoms, and fine sandy bottom. At 10, had 50 fathoms, and at 12, wore in 65 fathoms, having drove about 5 Miles North-North-West since we brought too. Two hours after this had no ground with 140 fathoms; which shews that the soundings extend but a little way from the land. From 2 to 8 a.m. had it Calm and hazey, with drizzling rain, at which time a breeze sprung up at South-West, with which we steer'd along shore North-East by East 1/4 East, keeping about 3 Leagues from the land. At Noon had no Observation, being Hazey with rain. Our run since Yesterday at Noon is North-East by East, 55 Miles; Longitude from Cape West 3 degrees 12 minutes East.",
         "date": "1770-03-17",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -44,
             -3.2
         ],
-        "chapter": "Off West Coast of Middle Island, New Zealand.",
+        "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-18": {
@@ -6342,10 +5262,6 @@
         "date": "1770-03-18",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -44,
-            -3.2
-        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6354,10 +5270,6 @@
         "date": "1770-03-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -42.13333333333333,
-            -5.083333333333333
-        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6366,10 +5278,6 @@
         "date": "1770-03-20",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -42.38333333333333,
-            -5.916666666666667
-        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6386,7 +5294,7 @@
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-22": {
-        "diary": "[Off Cape Farewell, Middle Island, New Zealand.]",
+        "diary": "Thursday, 22nd. In the P.M. had a Gentle breeze from the South-South-West, with which we steer'd along shore North-East until 8, when being about 2 or 3 Leagues from shore we sounded, and had 34 fathoms, upon which we haul'd off North-West by North until 11, then brought too, having at this time 64 fathoms. At 4 a.m. made sail to the North-East, wind at South-South-West, a light breeze. At 8 the wind veer'd to the Westward, and soon after fell Calm; at this time we were about 3 or 4 Miles from the Shore, and in 54 fathoms, having a large swell from the West-South-West rowling Obliquely upon the Shore, which put me under a good deal of Apprehension that we should be obliged to Anchor; but by the help of a light Air now and then from the South-West quarter we were Enabled to keep the Ship from driving much nearer the shore. At Noon the Northermost land in sight bore North-East by East 1/4 East, distant 8 or 10 Leagues; our Latitude by account was 40 degrees 55 minutes South, Longitude from Cape West 6 degrees 35 minutes East; Course and distance sail'd since Yesterday at Noon North 36 degrees East, 42 Miles; very foggy over the Land.",
         "date": "1770-03-22",
         "weather": "",
         "wind": "",
@@ -6394,7 +5302,7 @@
             -40.916666666666664,
             -6.583333333333333
         ],
-        "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
+        "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-23": {
@@ -6414,10 +5322,6 @@
         "date": "1770-03-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6426,23 +5330,15 @@
         "date": "1770-03-25",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-26": {
-        "diary": "[In Admiralty Bay, Middle Island, New Zealand.]",
+        "diary": "Monday, 26th. At 3 p.m. the wind came to North, and we Steer'd East-South-East with all the Sail we could set until dark, when we shortned sail until the morning, having thick Misty weather. All Night we keept the lead going continually, and had from 37 to 48 fathoms. At day light we saw the land bearing South-East by East, and an Island laying near it bearing East-South-East, distant 5 Leagues. This I knew to be the Island<em> Stephens Island.</em> seen from the Entrance of Queen Charlotte's sound, from which it bears North-West by North, Distant 9 Leagues. At Noon it bore South-East, distant 4 or 5 miles, and the North-West head of Queen Charlotte's sound bore South-East by South, distant 10 1/2 Leagues; Latitude ohserv'd 43 degrees 33 minutes South.",
         "date": "1770-03-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
-        "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
+        "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-27": {
@@ -6450,10 +5346,6 @@
         "date": "1770-03-27",
         "weather": "heavy-rain",
         "wind": "w",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6462,10 +5354,6 @@
         "date": "1770-03-28",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6474,10 +5362,6 @@
         "date": "1770-03-29",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -6486,34 +5370,22 @@
         "date": "1770-03-30",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -44.333333333333336,
-            -6.866666666666667
-        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-03-31": {
-        "diary": "SUNDAY, 1st April. In the P.M. had a moderate breeze at East, which in the Night Veer'd to the North-East, and was attended with hazey, rainy weather. I have before made mention of our quitting New Zeland with an intention to steer to the Westward, which we accordingly did, taking our departure from Cape Farewell in the Latitude of 40 degrees 30 minutes South and Longitude 185 degrees 58 minutes West from Greenwich, which bore from us at 5 p.m. West 18 degrees North, distance 12 Miles. After this we steer'd North-West and West-North-West, in order to give it a good berth, until 8 o'Clock a.m., at which time we steered West, having the Advantage of a fresh Gale at North by East. At Noon our Latitude by account was 40 degrees 12 minutes South, Longitude made from Cape Farewell 1 degree 11 minutes West.",
+        "diary": "Saturday, 31st. In the P.M., after rowing a League and a half or 2 Leagues up the Bay, I Landed upon a point of Land on the West side, where, from an Eminency, I could see this Western Arm of the Bay run in South-West by West, about 5 Leagues farther, yet did not see the Head of it. There appeared to be several other inlets, or at least small bays, between this and the North-West head of Queen Charlotte's sound, in every one of which I make no doubt but what there is Anchorage and Shelter for Shipping, as they are partly cover'd from the Sea wind by these Islands that lay without them.<em> There is a maze of inlets and harbours between Admiralty Bay and Queen Charlotte's Sound, a distance of 20 miles.</em> The land about this bay, at least what I could see of it, is of a very hilly, uneven Surface, and appears to be mostly cover'd with wood, Shrubs, Firns, etc., which renders Travelling both difficult and Fatiguing. I saw no inhabitants, neither have we seen any since we have been in this bay, but met with several of their Huts, all of which appear'd to have been at least 12 Months deserted.",
         "date": "1770-03-31",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
-        "chapter": "Historical Notes on New Zealand.",
-        "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
+        "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
+        "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
     "1770-04-02": {
         "diary": "Monday, 2nd. In the P.M. had a moderate Gale at North, with thick hazey weather, attended with rain. At 8 it fell little wind, and Veer'd to West-South-West, at which time we Tack'd. At Midnight the wind came to South-South-West, and increased to a brisk gale with fair Cloudy weather, which we made the most of as soon as it was daylight. At Noon our Latitude, by Observation, was 40 degrees 0 minutes, and Longitude made from Cape Farewell 2 degrees 31 minutes West.",
         "date": "1770-04-02",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6522,10 +5394,6 @@
         "date": "1770-04-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6534,10 +5402,6 @@
         "date": "1770-04-04",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6546,10 +5410,6 @@
         "date": "1770-04-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6558,10 +5418,6 @@
         "date": "1770-04-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -40.2,
-            -1.1833333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6572,7 +5428,7 @@
         "wind": "",
         "location": [
             -37.38333333333333,
-            -11.566666666666666
+            -196.73333333333332
         ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
@@ -6582,10 +5438,6 @@
         "date": "1770-04-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -37.38333333333333,
-            -11.566666666666666
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6594,10 +5446,6 @@
         "date": "1770-04-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -38.483333333333334,
-            -14.75
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6618,10 +5466,6 @@
         "date": "1770-04-11",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -39.11666666666667,
-            -17.383333333333333
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6644,7 +5488,7 @@
         "wind": "",
         "location": [
             -39.38333333333333,
-            -18.066666666666666
+            -204.03333333333333
         ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
@@ -6654,10 +5498,6 @@
         "date": "1770-04-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.416666666666664,
-            -18.35
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6666,10 +5506,6 @@
         "date": "1770-04-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.416666666666664,
-            -18.35
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6678,10 +5514,6 @@
         "date": "1770-04-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.416666666666664,
-            -18.35
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -6690,35 +5522,27 @@
         "date": "1770-04-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -39.6,
-            -22.366666666666667
-        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
     "1770-04-18": {
-        "diary": "THURSDAY, 19th. In the P.M. had fresh Gales at South-South-West and Cloudy Squally weather, with a large Southerly Sea; at 6 took in the Topsails, and at 1 A.M. brought too and Sounded, but had no ground with 130 fathoms of line. At 5, set the Topsails close reef'd, and 6, saw land<em> The south-east coast of Australia. See chart.</em> extending from North-East to West, distance 5 or 6 Leagues, having 80 fathoms, fine sandy bottom. We continued standing to the Westward with the Wind at South-South-West until 8, at which time we got Topgallant Yards a Cross, made all sail, and bore away along shore North-East for the Eastermost land we had in sight, being at this time in the Latitude of 37 degrees 58 minutes South, and Longitude of 210 degrees 39 minutes West. The Southermost point of land we had in sight, which bore from us West 1/4 South, I judged to lay in the Latitude of 38 degrees 0 minutes South and in the Longitude of 211 degrees 7 minutes West from the Meridian of Greenwich. I have named it Point Hicks, because Lieutenant Hicks was the first who discover'd this Land. To the Southward of this point we could see no land, and yet it was clear in that Quarter, and by our Longitude compared with that of Tasman's, the body of Van Diemen's land ought to have bore due South from us, and from the soon falling of the Sea after the wind abated I had reason to think it did; but as we did not see it, and finding the Coast to trend North-East and South-West, or rather more to the Westward, makes me Doubtfull whether they are one land or no.<em> Had not the gale on the day before forced Cook to run to the northward, he would have made the north end of the Furneaux Group, and probably have discovered Bass Strait, which would have cleared up the doubt, which he evidently felt, as to whether Tasmania was an island or not. The fact was not positively known until Dr. Bass sailed through the Strait in a whale-boat in 1797. Point Hicks was merely a rise in the coast-line, where it dipped below the horizon to the westward, and the name of Point Hicks Hill is now borne by an elevation that seems to agree with the position.</em> However, every one who compares this Journal with that of Tasman's will be as good a judge as I am; but it is necessary to observe that I do not take the Situation of Vandiemen's from the Printed Charts, but from the extract of Tasman's Journal, published by Dirk Rembrantse. At Noon we were in the Latitude of 37 degrees 50 minutes and Longitude of 210 degrees 29 minutes West. The extreams of the Land extending from North-West to East-North-East, a remarkable point, bore North 20 degrees East, distant 4 Leagues. This point rises to a round hillock very much like the Ramhead going into Plymouth sound, on which account I called it by the same name; Latitude 37 degrees 39 minutes, Longitude 210 degrees 22 minutes West. The Variation by an Azimuth taken this morning was 8 degrees 7 minutes East. What we have as yet seen of this land appears rather low, and not very hilly, the face of the Country green and Woody, but the Sea shore is all a white Sand.",
+        "diary": "Wednesday, 18th. Winds Southerly, a hard gale, with heavy squalls, attended with Showers of rain and a great Sea from the same Quarter. At 3 p.m. Close reeft the Topsails, handed the Main and Mizen Topsail, and got down Top Gallant Yards. At 6 the Gale increased to such a height as to oblige us to take in the Foretopsail and Mainsail, and to run under the Foresail and Mizen all night; Sounding every 2 hours, but found no ground with 120 fathoms. At 6 a.m. set the Mainsail, and soon after the Foretopsail, and before Noon the Maintopsail, both close reeft. At Noon our Latitude by observation was 38 degrees 45 minutes South, Longitude from Cape Farewell 23 degrees 43 minutes West; and Course and distance run since Yesterday noon North 51 degrees West, 82 Miles. Last night we saw a Port Egmont Hen, and this morning 2 More, a Pintado bird, several Albetrosses, and black sheer Waters. The first of these birds are Certain signs of the nearness of land; indeed we cannot be far from it. By our Longitude we are a degree to the Westward of the East side of Van Diemen's Land, according to Tasman, the first discoverer's, Longitude of it, who could not err much in so short a run as from this land to New Zeland; and by our Latitude we could not be above 50 or 55 Leagues to the Northward of the place where he took his departure from.",
         "date": "1770-04-18",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -37.65,
-            -210.36666666666667
-        ],
         "chapter": "Historical Notes on New Zealand.",
-        "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
+        "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
     "1770-04-20": {
-        "diary": "[Off Cape Dromedary, New South Wales.]",
+        "diary": "Friday, 20th. In the P.M. and most part of the night had a fresh Gale Westerly, with Squalls, attended with Showers of rain. In the A.M. had the Wind at South-West, with Severe weather. At 1 p.m. saw 3 Water Spouts at once; 2 were between us and the Shore, and one at some distance upon our Larboard Quarter. At 6, shortned sail, and brought too for the Night, having 56 fathoms fine sandy bottom. The Northermost land in sight bore North by East 1/2 East, and a small Island<em> Gabo Island.</em> lying close to a point on the Main bore West, distant 2 Leagues. This point I have named Cape Howe<em> Cape Howe, called after Admiral Earl Howe, is the south-east point of Australia. The position is almost exact.</em>; it may be known by the Trending of the Coast, which is North on the one Side and South-West on the other. Latitude 37 degrees 28 minutes South; Longitude 210 degrees 3 minutes West. It may likewise be known by some round hills upon the main just within it. Having brought too with her head off Shore, we at 10 wore, and lay her head in until 4 a.m., at which time we made sail along shore to the Northward. At 6, the Northermost land in sight bore North, being at this time about 4 Leagues from the Land. At Noon we were in the Latitude of 36 degrees 51 minutes South and Longitude of 209 degrees 53 minutes West, and 3 Leagues from the land. Course sail'd along shore since Yesterday at Noon was first North 52 degrees East, 30 miles, then North by East and North by West, 41 Miles. The weather being clear gave us an opportunity to View the Country, which had a very agreeable and promising aspect, diversified with hills, ridges, plains, and Valleys, with some few small lawns; but for the most part the whole was covered with wood, the hills and ridges rise with a gentle slope; they are not high, neither are there many of them.",
         "date": "1770-04-20",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -36.85,
             -209.88333333333333
         ],
-        "chapter": "Off Cape Dromedary, New South Wales.",
+        "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-21": {
@@ -6728,7 +5552,7 @@
         "wind": "",
         "location": [
             -35.81666666666667,
-            -210.15
+            -209.91666666666666
         ],
         "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
@@ -6738,10 +5562,6 @@
         "date": "1770-04-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.45,
-            -209.38333333333333
-        ],
         "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6750,23 +5570,19 @@
         "date": "1770-04-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -35.45,
-            -209.38333333333333
-        ],
         "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-24": {
-        "diary": "[Off Jervis Bay, New South Wales.]",
+        "diary": "Tuesday, 24th. In the P.M. had Variable light Airs and Calms until 6 o'Clock, at which time a breeze sprung up at North by West; at this time we had 70 fathoms Water, being about 4 or 5 Leagues from the land, the Pidgeon house bearing North 40 degrees West, Mount Dromedary South 30 degrees West, and the Northermost land in sight North 19 degrees East. Stood to the North-East until Noon, having a Gentle breeze at North-West, at which time we Tack'd and stood to the Westward, being then, by observation, in the Latitude of 35 degrees 10 minutes South and Longitude 208 degrees 51 minutes West. A point of land which I named Cape St. George, we having discovered it on that Saint's day, bore West, distant 19 Miles, and the Pidgeon house South 7 degrees West, the Latitude and Longitude of which I found to be 35 degrees 19 minutes South and 209 degrees 42 minutes West. In the morning we found the Variation to be, by the Amplitude, 7 degrees 50 minutes East, by several Azimuths 7 degrees 54 minutes East.",
         "date": "1770-04-24",
         "weather": "",
         "wind": "",
         "location": [
-            -35.31666666666667,
-            -35.31666666666667
+            -35.166666666666664,
+            -208.85
         ],
-        "chapter": "Off Jervis Bay, New South Wales.",
+        "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-25": {
@@ -6798,23 +5614,15 @@
         "date": "1770-04-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "Off Jervis Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-28": {
-        "diary": "[At Anchor, Botany Bay, New South Wales.]",
+        "diary": "Saturday, 28th. In the P.M. hoisted out the Pinnace and Yawl in order to attempt a landing, but the Pinnace took in the Water so fast that she was obliged to be hoisted in again to stop her leakes. At this time we saw several people a shore, 4 of whom where carrying a small Boat or Canoe, which we imagin'd they were going to put in to the Water in order to Come off to us; but in this we were mistaken. Being now not above 2 Miles from the Shore Mr. Banks, Dr. Solander, Tupia, and myself put off in the Yawl, and pull'd in for the land to a place where we saw 4 or 5 of the Natives, who took to the Woods as we approached the Shore; which disappointed us in the expectation we had of getting a near View of them, if not to speak to them. But our disappointment was heightened when we found that we no where could effect a landing by reason of the great Surf which beat everywhere upon the shore. We saw haul'd up upon the beach 3 or 4 small Canoes, which to us appeared not much unlike the Small ones of New Zeland. In the wood were several Trees of the Palm kind, and no under wood; and this was all we were able to observe from the boat, after which we return'd to the Ship about 5 in the evening.<em> The place where Cook attempted to land is near Bulli, a place where there is now considerable export of coal. A large coal port, Wollongong, lies a little to the southward.</em> At this time it fell Calm, and we were not above a Mile and a half from the Shore, in 11 fathoms, and within some breakers that lay to the Southward of us; but luckily a light breeze came off from the Land, which carried us out of danger, and with which we stood to the Northward. At daylight in the morning we discover'd a Bay,<em> Botany Bay.</em> which appeared to be tollerably well shelter'd from all winds, into which I resolved to go with the Ship, and with this View sent the Master in the Pinnace to sound the Entrance, while we keept turning up with the Ship, having the wind right out. At noon the Entrance bore North-North-West, distance 1 Mile.",
         "date": "1770-04-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
-        "chapter": "At Anchor, Botany Bay, New South Wales.",
+        "chapter": "Off Jervis Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-29": {
@@ -6822,22 +5630,14 @@
         "date": "1770-04-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-04-30": {
-        "diary": "Tuesday, May 1st. Gentle breezes, Northerly. In the P.M. 10 of the Natives again visited the Watering place. I, being on board at this time, went immediately ashore, but before I got there they were going away. I follow'd them alone and unarm'd some distance along shore, but they would not stop until they got farther off than I choose to trust myself. These were armed in the same manner as those that came Yesterday. In the evening I sent some hands to haul the Saine, but they caught but a very few fish. A little after sunrise I found the Variation to be 11 degrees 3 minutes East. Last night Forby Sutherland, Seaman, departed this Life, and in the A.M. his body Was buried ashore at the watering place, which occasioned my calling the south point of this bay after his name. This morning a party of us went ashore to some Hutts, not far from the Watering place, where some of the Natives are daily seen; here we left several articles, such as Cloth, Looking Glasses, Coombs, Beads, Nails, etc.; after this we made an Excursion into the Country, which we found diversified with Woods, Lawns, and Marshes. The woods are free from underwood of every kind, and the trees are at such a distance from one another that the whole Country, or at least great part of it, might be Cultivated without being obliged to cut down a single tree. We found the Soil every where, except in the Marshes, to be a light white sand, and produceth a quantity of good Grass, which grows in little Tufts about as big as one can hold in one's hand, and pretty close to one another; in this manner the Surface of the Ground is Coated. In the woods between the Trees Dr. Solander had a bare sight of a Small Animal something like a Rabbit, and we found the Dung of an Animal<em> This was the kangaroo.</em> which must feed upon Grass, and which, we judge, could not be less than a Deer; we also saw the Track of a Dog, or some such like Animal. We met with some Hutts and places where the Natives had been, and at our first setting out one of them was seen; the others, I suppose, had fled upon our Approach. I saw some Trees that had been cut down by the Natives with some sort of a Blunt instrument, and several Trees that were barqued, the bark of which had been cut by the same instrument; in many of the Trees, especially the Palms, were cut steps of about 3 or 4 feet asunder for the conveniency of Climbing them. We found 2 Sorts of Gum, one sort of which is like Gum Dragon, and is the same, I suppose, Tasman took for Gum lac; it is extracted from the largest tree in the Woods.",
+        "diary": "Monday, 30th. As Soon as the Wooders and Waterers were come on board to Dinner 10 or 12 of the Natives came to the watering place, and took away their Canoes that lay there, but did not offer to touch any one of our Casks that had been left ashore; and in the afternoon 16 or 18 of them came boldly up to within 100 yards of our people at the watering place, and there made a stand. Mr. Hicks, who was the Officer ashore, did all in his power to intice them to him by offering them presents; but it was to no purpose, all they seem'd to want was for us to be gone. After staying a Short time they went away. They were all Arm'd with Darts and wooden Swords; the darts have each 4 prongs, and pointed with fish bones. Those we have seen seem to be intended more for striking fish than offensive Weapons; neither are they poisoned, as we at first thought. After I had return'd from sounding the Bay I went over to a Cove on the North side of the Bay, where, in 3 or 4 Hauls with the Sean, we caught about 300 pounds weight of Fish, which I caused to be equally divided among the Ship's Company. In the A.M. I went in the Pinnace to sound and explore the North side of the bay, where I neither met with inhabitants or anything remarkable. Mr. Green took the Sun's Meridian Altitude a little within the South Entrance of the Bay, which gave the Latitude 34 degrees 0 minutes South.",
         "date": "1770-04-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6846,10 +5646,6 @@
         "date": "1770-05-02",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6858,10 +5654,6 @@
         "date": "1770-05-03",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6870,23 +5662,15 @@
         "date": "1770-05-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-05": {
-        "diary": "[Description of Botany Bay, New South Wales.]",
+        "diary": "Saturday, 5th. In the P.M. I went with a party of Men over to the North Shore, and while some hands were hauling the Sean, a party of us made an Excursion of 3 or 4 Miles into the Country, or rather along the Sea Coast. We met with nothing remarkable; great part of the Country for some distance inland from the Sea Coast is mostly a barren heath, diversified with Marshes and Morasses. Upon our return to the Boat we found they had caught a great number of small fish, which the sailors call leather Jackets on account of their having a very thick skin; they are known in the West Indies. I had sent the Yawl in the morning to fish for Sting rays, who returned in the Evening with upwards of four hundred weight; one single one weigh'd 240 pounds Exclusive of the entrails. In the A.M., as the wind Continued Northerly, I sent the Yawl again a fishing, and I went with a party of Men into the Country, but met with nothing extraordinary.",
         "date": "1770-05-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.166666666666664,
-            -208.45
-        ],
-        "chapter": "Description of Botany Bay, New South Wales.",
+        "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-06": {
@@ -6895,7 +5679,7 @@
         "weather": "",
         "wind": "",
         "location": [
-            -33.833333333333336,
+            -34,
             -208.61666666666667
         ],
         "chapter": "Description of Botany Bay, New South Wales.",
@@ -6906,10 +5690,6 @@
         "date": "1770-05-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -33.55,
-            -0.31666666666666665
-        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6918,10 +5698,6 @@
         "date": "1770-05-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -33.55,
-            -0.31666666666666665
-        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6930,15 +5706,11 @@
         "date": "1770-05-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -33.55,
-            -0.31666666666666665
-        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-10": {
-        "diary": "[Off Cape Hawke, New South Wales.]",
+        "diary": "Thursday, 10th. In the P.M., had the wind at North-East by North, with which we stood in Shore until near 4 o'Clock, when we Tack'd in 23 fathoms Water, being about a Mile from the land, and as much to the Southward of Cape 3 Points. In the night the wind veer'd to North-West and West, and in the morning to South-West. Having the advantage of a light Moon, we made the best of our way along shore to the Northward. At Noon we were by observation in the Latitude of 32 degrees 53 minutes South, and Longitude 208 degrees 0 minutes West, and about 2 Leagues from the land, which extended from North 41 degrees East to South 41 degrees West. A small round rock or Island,<em> Nobby Head, at the entrance of Newcastle Harbour, formed by the Hunter River. Newcastle is the great coal port of New South Wales. It has a population of 20,000, and exports 1,500,000 tons of coal in the year.</em> laying close under the land, bore South 82 degrees West, distance 3 or 4 Leagues. At sunrise in the Morning found the Variation to be 8 degrees East. In the Latitude of 33 degrees 2 minutes South, a little way inland, is a remarkable hill, that is shaped like the Crown of a Hatt, which we past about 9 o'Clock in the forenoon.",
         "date": "1770-05-10",
         "weather": "",
         "wind": "",
@@ -6946,7 +5718,7 @@
             -33.03333333333333,
             -208
         ],
-        "chapter": "Off Cape Hawke, New South Wales.",
+        "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-11": {
@@ -6966,10 +5738,6 @@
         "date": "1770-05-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -31.3,
-            -206.96666666666667
-        ],
         "chapter": "Off Cape Hawke, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6990,35 +5758,31 @@
         "date": "1770-05-14",
         "weather": "cloudy",
         "wind": "",
-        "location": [
-            -30.366666666666667,
-            -206.65
-        ],
         "chapter": "Off Cape Hawke, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-15": {
-        "diary": "[Off Point Danger, New South Wales.]",
+        "diary": "Tuesday, 15th. Fresh Gales at South-West, West-South-West, and South-South-West. In the P.M. had some heavy Squalls, attended with rain and hail, which obliged us to close reef our Topsails. Between 2 and 4 we had some small rocky Islands<em> The Solitary Islands.</em> between us and the land; the Southermost lies in the Latitude of 30 degrees 10 minutes, the Northermost in 29 degrees 58 minutes, and about 2 Leagues or more from the land; we sounded, and had 33 fathoms about 12 Miles without this last island. At 8 we brought too until 10, at which time we made sail under our Topsails. Having the Advantage of the Moon we steer'd along shore North and North by East, keeping at the distance of about 3 Leagues from the land having from 30 to 25 fathoms. As soon as it was daylight we made all the sail we could, having the Advantage of a fresh Gale and fair weather.<em> During the night the entrance of the Clarence River, now the outlet for the produce of a large and rich agricultural district, was passed, and in the morning that of the Richmond River, which serves a similar purpose.</em> At 9, being about a League from the Land, we saw upon it people and Smoke in Several places. At noon we were by observation in the Latitude of 28 degrees 39 minutes South, and Longitude 206 degrees 27 minutes West; Course and distance saild since Yesterday at Noon North 6 degrees 45 minutes East, 104 Miles. A Tolerable high point of land bore North-West by West, distant 3 Miles; this point I named Cape Byron<em> Captain John Byron was one of Cook's predecessors in exploration in the Pacific, having sailed round the World in H.M.S. Dolphin, in company with the Tamar, in 1764 to 1766.</em> (Latitude 28 degrees 37 minutes 30 seconds South, Longitude 206 degrees 30 minutes West). It may be known by a remarkable sharp peaked Mountain lying in land North-West by West from it. From this point the land Trends North 13 degrees West. Inland it is pretty high and hilly, but near the Shore it is low; to the Southward of the Point the land is low, and Tolerable level.",
         "date": "1770-05-15",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -28.616666666666667,
             -206.5
         ],
-        "chapter": "Off Point Danger, New South Wales.",
+        "chapter": "Off Cape Hawke, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-16": {
-        "diary": "[Off Moreton Bay, Queensland.]",
+        "diary": "Wednesday, 16th. Winds Southerly, a fresh Gale, with which we steer'd North along shore until sunset, at which time we discover'd breakers ahead, and on our Larboard bow, being at this time in 20 fathoms, and about 5 miles from the land. Haul'd off East until 8, at which time we had run 8 Miles, and had increased our Depth of Water to 44 fathoms. We then brought too with her head to the Eastward, and lay on this Tack until 10 o'Clock, when, having increased our Soundings to 78 fathoms, we wore and lay with her head in shore until 5 o'Clock a.m., when we made Sail. At daylight we were surprized by finding ourselves farther to the Southward than we were in the evening, and yet it had blown strong all night Southerly. We now saw the breakers again within us, which we passed at the distance of about 1 League; they lay in the Latitude of 28 degrees 8 minutes South, and stretch off East 2 Leagues from a point under which is a small Island; their situation may always be found by the peaked mountain before mentioned, which bears South-West by West from them, and on their account I have named it Mount Warning. It lies 7 or 8 Leagues in land in the Latitude of 28 degrees 22 minutes South. The land is high and hilly about it, but it is Conspicuous enough to be distinguished from everything else. The point off which these shoals lay I have named Point Danger;<em> Point Danger is the boundary point on the coast between New South Wales and Queensland.</em> to the Northward of it the land, which is low, Trends North-West by North; but we soon found that it did not keep that direction long before it turn'd again to the Northward. At Noon we were about 2 Leagues from the land, and by observation in the Latitude of 27 degrees 46 minutes, which was 17 Miles to the Southward of the Log; Longitude 206 degrees 26 minutes West. Mount Warning bore South 20 degrees West, distant 14 Leagues; the Northermost land in sight bore North. Our Course and distance made good since yesterday North 1 degree 45 minutes West, 53 miles.",
         "date": "1770-05-16",
         "weather": "",
         "wind": "",
         "location": [
-            -27.766666666666666,
+            -28.366666666666667,
             -206.43333333333334
         ],
-        "chapter": "Off Moreton Bay, Queensland.",
+        "chapter": "Off Point Danger, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-17": {
@@ -7027,7 +5791,7 @@
         "weather": "",
         "wind": "",
         "location": [
-            -26.466666666666665,
+            -26.883333333333333,
             -206.76666666666668
         ],
         "chapter": "Off Moreton Bay, Queensland.",
@@ -7046,15 +5810,11 @@
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-19": {
-        "diary": "[Off Sandy Cape, Queensland.]",
+        "diary": "Saturday, 19th. In the P.M. had Variable light Airs, and Calms; in the night had a light breeze from the land, which in the A.M. veer'd to South-West and South-South-West. In the evening found the Variation to be 8 degrees 36 minutes East, and in the Morning 8 degrees 20 minutes; as we had but little wind we keept to the Northward all night, having from 23 to 27 fathoms fine sandy bottom, at the Distance of 2 or 3 Leagues from the Land. At Noon we were about 4 Miles from it, and by observation in the Latitude of 25 degrees 4 minutes, and in this situation had but 13 fathoms; the Northermost land in Sight bore North 21 degrees West, distant 8 Miles; our Course and distance saild since yesterday at Noon was North 13 degrees 15 minutes East, 31 Miles.",
         "date": "1770-05-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -25.566666666666666,
-            -206.75
-        ],
-        "chapter": "Off Sandy Cape, Queensland.",
+        "chapter": "Off Moreton Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-20": {
@@ -7070,51 +5830,35 @@
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-21": {
-        "diary": "For these few days past we have seen at times a sort of Sea fowl we have no where seen before that I remember; they are of the sort called Boobies. Before this day we seldom saw more than 2 or 3 at a time, and only when we were near the land. Last night a small flock of these birds passed the Ship and went away to the North-West, and this morning from 1/2 an hour before sun rise to half an hour after, flights of them were continually coming from the North-North-West, and flying to the South-South-East, and not one was seen to fly in any other direction. From this we did suppose that there was a Lagoon, River, or Inlet of Shallow Water to the Southward of us, where these birds resorted to in the day to feed, and that not very far to the Northward lay some Island, where they retir'd too in the night.",
+        "diary": "Monday, 21st. In the P.M. we keept along the East side of the Shoal until 2, when, judging there was water for us over, I sent a Boat a Head to sound, and upon her making the Signal for more than 5 fathoms we hauld our wind and stood over the Tail of it in 6 fathoms. At this time we were in the Latitude of 24 degrees 22 minutes South, and Sandy Cape bore South 1/2 East, distant 8 Leagues; but the Direction of the Shoal is nearest North-North-West and South-South-East. At this time we had 6 fathoms; the boat which was not above 1/4 of a mile to the Southward of us had little more than 5 fathoms. From 6 fathoms we had the next Cast, 13, and then 20 immediately, as fast as the Man could heave the Lead; from this I did suppose that the West side of the Shoal is pretty steep too, whereas on the other side we had gradual Soundings from 13 to 7 fathoms. This Shoal I called Break Sea Spit, because now we had smooth water, whereas upon the whole Coast to the Southward of it we had always a high Sea or swell from the South-East. At 6, the Land of Sandy Cape extending from South 17 degrees East to South 27 degrees East, distance 8 Leagues; Depth of Water, 23 fathoms, which depth we keept all Night, as we stood to the Westward with light Airs from the Southward; but between 12 and 4 A.M. we had it Calm, after which a Gentle breeze sprung up at South, with which we still keept on upon a Wind to the Westward. At 7 we Saw from the Masthead the Land of Sandy Cape bearing South-East 1/2 East, distance 12 or 13 Leagues. At 9, we discover'd from the Mast head land to the Westward, and soon after saw smooke upon it. Our depth of Water was now decreased to 17 fathoms, and by Noon to 13, at which time we were by observation in the Latitude of 24 degrees 28 minutes South, and about 7 Leagues from the Land, which extended from South by West to West-North-West. Longitude made from Sandy Cape 0 degrees 45 minutes West.",
         "date": "1770-05-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -24.466666666666665,
-            -0.75
-        ],
         "chapter": "Off Sandy Cape, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-22": {
-        "diary": "[At Anchor. Bustard Bay, Queensland.]",
+        "diary": "Tuesday, 22nd. In the P.M. had a Gentle breeze at South-East, with which we stood in for the land South-West until 4, when, being in the Latitude of 24 degrees 36 minutes South, and about 2 Leagues from land, in 9 fathoms, we bore away along shore North-West by West; at the same time we could see the land extending to the South-South-East about 8 Leagues. Near the Sea the land is very low, but inland are some moderately high hills, and the whole appeared to be thickly Cloathed with wood. In running along shore we shoalded our Water from 9 to 7 fathoms, and at one time had but 6 fathoms, which determined me to Anchor for the Night, and accordingly at 8 o'Clock we came too in 8 fathoms, fine gravelly bottom, about 5 miles from the land. This evening we saw a Water Snake, and 2 or 3 evenings ago one lay under the Ship's Stern some time; this was about 1 1/2 Yards in length, and was the first we had seen. At 6 A.M. weighed with a Gentle breeze Southerly, and Steer'd North-West 1/4 West, edging in for the land until we got Within 2 Miles of it, having from 7 to 11 fathoms; we then steer'd North-North-West as the land laid. At Noon we were by Observation in the Latitude of 24 degrees 19 minutes South; Longitude made from Sandy Cape 1 degree 14 minutes West.",
         "date": "1770-05-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -24.316666666666666,
-            -1.2333333333333334
-        ],
-        "chapter": "At Anchor. Bustard Bay, Queensland.",
+        "chapter": "Off Sandy Cape, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-23": {
-        "diary": "In the A.M. I went ashore with a party of men in order to Examine the Country, accompanied by Mr. Banks and the other Gentlemen; we landed a little within the South point of the Bay, where there is a Channel leading into a large Lagoon. The first thing that I did was to sound and examine the Channell, in which I found 3 fathoms, until I got about a Mile up it, where I met with a Shoal, whereon was little more than one fathom; being over this I had 3 fathoms again. The Entrance into this Channell lies close to the South point of this Bay, being form'd on the East by the Shore, and on the West by a large Spit of sand; it is about a 1/4 of a Mile broad, and lies in South by West; here is room for a few Ships to lay very secure, and a small Stream of Fresh Water. After this I made a little excursion into the Woods while some hands made 3 or 4 hauls with the Sean, but caught not above a dozen very small fish. By this time the flood was made, and I imbarqued in the Boats in order to row up the Lagoon; but in this I was hindred by meeting everywhere with Shoal Water. As yet we had seen no people, but saw a great deal of Smook up and on the West side of the Lagoon, which was all too far off for us to go by land, excepting one; this we went to and found 10 Small fires in a very small Compass, and some Cockle Shells laying by them, but the people were gone. On the windward or South side of one of the fires was stuck up a little Bark about a foot and a half high, and some few pieces lay about in other places; these we concluded were all the covering they had in the Night, and many of them, I firmly believe, have not this, but, naked as they are, sleep in the open air. Tupia, who was with us, observed that they were Taata Eno's; that is, bad or poor people. The Country is visibly worse than at the last place we were at; the soil is dry and Sandy, and the woods are free from underwoods of every kind; here are of the same sort of Trees as we found in Bottany Harbour, with a few other sorts. One sort, which is by far the most Numerous sort of any in the Woods, grow Something like birch; the Bark at first sight looks like birch bark, but upon examination I found it to be very different, and so I believe is the wood; but this I could not examine, as having no axe or anything with me to cut down a Tree. About the Skirts of the Lagoon grows the true Mangrove, such as are found in the West Indies, and which we have not seen during the Voyage before; here is likewise a sort of a palm Tree, which grows on low, barren, sandy places in the South Sea Islands. All, or most of the same sort, of Land and Water fowl as we saw at Botany Harbour we saw here; besides these we saw some Bustards, such as we have in England, one of which we kill'd that weighed 17 1/2 pounds, which occasioned my giving this place the Name of Bustard Bay (Latitude 24 degrees 4 minutes, Longitude 208 degrees 22 minutes West); we likewise saw some black and white Ducks. Here are plenty of small Oysters sticking to the Rocks, Stones, and Mangrove Trees, and some few other shell fish, such as large Muscles, Pearl Oysters, Cockels, etc. I measured the perpendicular height of the last Tide, and found it to be 8 foot above low water mark, and from the time of low water to-day I found that it must be high Water at the full and Change of the Moon at 8 o'Clock.",
+        "diary": "Wednesday, 23rd. Continued our Course alongshore at the distance of about 2 Miles off, having from 12 to 9, 8 and 7 fathoms, until 5 o'Clock, at which time we were abreast of the South point of a Large open Bay,<em> Bustard Bay.</em> wherein I intended to Anchor. Accordingly we hauld in Close upon a Wind, and sent a boat ahead to sound; after making some Trips we Anchored at 8 o'Clock in 5 fathoms, a Sandy bottom. The South point of the bay bore East 3/4 South, distant 2 Miles; the North point North-West 1/4 North, about 2 Miles from the shore, in the bottom of the bay. Last night, some time in the Middle watch, a very extraordinary affair hapned to Mr. Orton, my Clerk. He having been drinking in the evening, some Malicious person or persons in the Ship took Advantage of his being Drunk, and cut off all the Cloaths from off his back; not being satisfied with this, they some time after went into his Cabin and cut off a part of both his Ears as he lay a Sleep in his Bed. The person whom he suspected to have done this was Mr. Magra, one of the Midshipmen; but this did not appear to me. Upon enquiry, however, as I had been told that Magra had once or twice before this in their drunken Frolicks cut off his cloaths, and had been heard to say (as I was told) that if it was not for the Law he would Murder him, these things consider'd, induced me to think that Magra was not Altogether innocent. I therefore for the present dismiss'd him the Quarter deck, and Suspended him from doing any duty in the Ship, he being one of those Gentlemen frequently found on board King's Ships that can very well be spared; besides, it was necessary in me to show my immediate resentment against the person on whom the suspicion fell, least they should not have stop'd here. With respect to Mr. Orton, he is a man not without faults; yet from all the inquiry I could make, it evidently appear'd to me that so far from deserving such Treatment, he had not designed injuring any person in the Ship; so that I do--and shall always--look upon him as an injured man. Some reasons, however, might be given why this misfortune came upon him, in which he himself was in some measure to blame; but as this is only conjecture, and would tend to fix it upon some people in the Ship, whom I would fain believe would hardly be guilty of such an Action, I shall say nothing about it, unless I shall hereafter discover the Offenders, which I shall take every method in my power to do, for I look upon such proceedings as highly dangerous in such Voyages as this, and the greatest insult that could be offer'd to my Authority in this Ship, as I have always been ready to hear and redress every complaint that have been made against any Person in the Ship.<em> This history of Mr. Orton's misadventure is omitted from the Admiralty copy. It is an illustration of the times to note that the fact of Orton having got drunk does not seem to call for the Captain's severe censure. In these days, though the practical joker receives punishment, the drunkard would certainly come in for a large share also.</em>",
         "date": "1770-05-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -24.066666666666666,
-            -208.36666666666667
-        ],
         "chapter": "At Anchor. Bustard Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-24": {
-        "diary": "[Off Cape Capricorn, Queensland.]",
+        "diary": "Thursday, 24th. In the P.M. I was employ'd ashore in the Transactions before related; at 4 a.m. we weighed with a Gentle breeze at South, and made sail out of the Bay. In standing out our soundings were from 5 to 15 fathoms; when in this last Depth we were abreast of the North Point, and being daylight we discover'd breakers stretching out from it about North-North-East, 2 or 3 miles; at the Outermost point of them is a Rock just above Water. In passing these rocks at the distance of 1/2 a mile we had from 15 to 20 fathoms; being past them, we hauld along shore West-North-West for the farthest land we had in sight. At Noon we were by Observation in the Latitude of 23 degrees 52 minutes South; the North part of Bustard Bay bore South 62 degrees East, distance 10 miles, and the Northermost land in sight North 60 degrees West. Longitude in 208 degrees 37 minutes West, distance from the nearest shore 6 Miles; in this situation had 14 fathoms water.",
         "date": "1770-05-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.866666666666667,
-            -208.61666666666667
-        ],
-        "chapter": "Off Cape Capricorn, Queensland.",
+        "chapter": "At Anchor. Bustard Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-25": {
@@ -7122,10 +5866,6 @@
         "date": "1770-05-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.4,
-            -209
-        ],
         "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7134,23 +5874,15 @@
         "date": "1770-05-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -23.4,
-            -209
-        ],
         "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-27": {
-        "diary": "[Off Cape Townshend, Queensland.]",
+        "diary": "Sunday, 27th. We had not stood on to the Northward quite an hour before we fell into 3 fathoms, upon which I anchor'd, and Sent away the Master with 2 Boats to sound the Channell, which lay to Leeward of us between the Northermost Island and the Main Land, which appear'd to me to be pretty broad; but I suspected that it was Shoal, and so it was found, for the Master reported to me upon his return that he found in many places only 2 1/2 fathoms, and where we lay at Anchor we had only 16 feet, which was not 2 feet more than the Ship drew.<em> This was between Great Keppel Island and the Main. There is a mass of shoals here.</em> In the Evening the wind veer'd to East-North-East, which gave us an opportunity to stretch 3 or 4 miles back the way we Came before the Wind Shifted to South, and obliged us again to Anchor in 6 fathoms. At 5 o'Clock in the A.M. I sent away the Master with 2 Boats to search for a Passage out between the Islands, while the Ship got under sail. As soon as it was light the Signal was made by the boats of their having found a Passage, upon which we hoisted in the Boats, and made sail to the Northward as the land lay; soundings from 9 to 15 fathoms, having still Some small Islands without us.<em> The ship passed out between Great Keppel Island and North Keppel Island.</em> At noon we were about 2 Leagues from the Main Land, and by observation in the Latitude of 22 degrees 53 minutes South, Longitude made from Cape Capricorn 0 degrees 20 minutes West. At this time the Northermost point of Land we had in sight bore North-North-West, distance 10 Miles; this point I named Cape Manyfold, from the Number of high Hills over it; Latitude 22 degrees 43 minutes South; it lies North 20 degrees West, distant 17 Leagues from Cape Capricorn. Between them the shore forms a large Bay, which I call'd Keppel Bay, and the Islands which lay in and Off it are known by the same name; in this Bay is good Anchorage, where there is a sufficient depth of Water; what refreshment it may afford for Shipping I know not.<em> As before mentioned, the Fitzroy River falls into Keppel Bay, and forms a good harbour, though much encumbered with sand banks.</em> We caught no fish here, notwithstanding we were at Anchor; it can hardly be doubted but what it afforded fresh Water in several places, as both Mainland and Islands are inhabited. We saw smokes by day and fires in the night upon the Main, and people upon one of the Islands.",
         "date": "1770-05-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -22.716666666666665,
-            -0.3333333333333333
-        ],
-        "chapter": "Off Cape Townshend, Queensland.",
+        "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-28": {
@@ -7159,22 +5891,18 @@
         "weather": "",
         "wind": "",
         "location": [
-            -22.133333333333333,
+            -22.216666666666665,
             -209.8
         ],
         "chapter": "Off Cape Townshend, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-29": {
-        "diary": "[At Anchor, Thirsty Sound.]",
+        "diary": "Tuesday, 29th. Fresh gales between the South-South-East and East-South-East, Hazey weather, with some showers of rain. In the P.M., having sounded about the Ship, and found that their was Sufficient Water for her over the Shoal, we at 3 o'clock weigh'd and made Sail, and stood to the Westward as the Land lay, having first sent a boat ahead to sound. At 6 we Anchor'd in 10 fathoms, Sandy bottom, about 2 Miles from the Main Land, the Westermost part of which bore West-North-West, having still a Number of Islands in sight a long way without us. At 5 a.m. I sent away the Master with 2 Boats to sound the Entrance of an inlet, which bore from us West, distance about 1 League, into which I intended to go with the Ship to wait a few days, until the Moon increased, and in the meantime to examine the Country. By such time as we had got the Ship under Sail the Boats made the Signal for Anchorage, upon which we stood in with the Ship, and Anchor'd in 5 fathoms, about a League within the Entrance of the inlet, which we judged to be a River running a Good way inland, as I observed the Tides to flow and Ebb something considerable.<em> It is in reality a narrow channel which runs into Broad Sound.</em> I had some thoughts of laying the Ship a Shore to Clean her bottom. With this view both the Master and I went to look for a Convenient place for that purpose, and at the same time to look for fresh Water, not one drop of which we could find, but met with several places where a Ship might be laid ashore with safety.",
         "date": "1770-05-29",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -22.133333333333333,
-            -209.8
-        ],
-        "chapter": "At Anchor, Thirsty Sound.",
+        "chapter": "Off Cape Townshend, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-30": {
@@ -7190,15 +5918,11 @@
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-05-31": {
-        "diary": "[Off Cape Hillsborough, Queensland.]",
+        "diary": "Thursday, 31st. Winds Southerly and South-East; Dark, Hazey weather, with rain. In the P.M., finding no one inducement to stay longer in this place, we at 6 a.m. Weighed and put to Sea, and stood to the North-West, having the Advantage of a fresh breeze at South-South-East. We keept without the Group of Islands which lay in Shore, and to the North-West of Thirsty Sound, as there appear'd to be no safe passage between them and the Main; at the same time we had a number of Islands without us extending out to Sea as far as we could see; as we run in this direction our depth of Water was 10, 8 and 9 fathoms.<em> The ship passed between the Duke Islands and the maze of reefs and islands lying North-West of Thirsty Sound.</em> At Noon the North-West point of Thirsty Sound, which I have named Pier head, bore South 36 degrees East, distant 5 Leagues; the East point of the other inlet, which Communicates with the former, as I have before mentioned, bore South by West, distance 2 1/2 Leagues, the Group of Islands above mentioned laying between us and the point. The farthest part of the Main in sight, on the other side of the inlet, bore North-West; our Latitude by Observation was 21 degrees 53 minutes South.",
         "date": "1770-05-31",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -21.45,
-            -210.95
-        ],
-        "chapter": "Off Cape Hillsborough, Queensland.",
+        "chapter": "At Anchor, Thirsty Sound.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-02": {
@@ -7206,15 +5930,11 @@
         "date": "1770-06-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -21.45,
-            -210.95
-        ],
         "chapter": "Off Cape Hillsborough, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-03": {
-        "diary": "[In Whitsunday Passage, Queensland.]",
+        "diary": "Sunday, 3rd. Winds between the South by East and South-East. A Gentle breeze and Clear weather. In the P.M. we steer'd along shore North-West 1/2 West, at the distance of 2 Leagues from the Main, having 9 and 10 fathoms regular soundings. At sun set the furthest point of the Main Land that we could distinguish as such bore North 48 degrees West; to the Northward of this lay some high land, which I took to be an Island, the North West point of which bore North 41 degrees West; but as I was not sure that there was a passage this way, we at 8 came to an Anchor in 10 fathoms, muddy bottom. 2 hours after this we had a tide setting to the Northward, and at 2 o'clock it had fallen 9 Feet since the time we Anchored. After this the Tide began to rise, and the flood came from the Northward, which was from the Islands out at Sea, and plainly indicated that there was no passage to the North-West; but as this did not appear at day light when we got under Sail, and stood away to the North-West until 8, at this time we discover'd low land, quite a Cross what we took for an Opening between the Main and the Islands, which proved to be a Bay about 5 or 6 Leagues deep. Upon this we hauld our wind to the Eastward round the Northermost point of the Bay, which bore from us at this time North-East by North, distance 4 Leagues. From this point we found the Main land trend away North by West 1/2 West, and a Strait or Passage between it and a Large Island<em> Whitsunday Island.</em> or Islands laying in a Parrallel direction with the Coast; this passage we Stood into, having the Tide of Ebb in our favour. At Noon we were just within the Entrance, and by observation in the Latitude of 20 degrees 26 minutes South; Cape Hillsborough bore South by East, distant 10 Leagues, and the North point of the Bay before mentioned bore South 19 degrees West, distance 4 Miles. This point I have named Cape Conway<em> General H.S. Conway was Secretary of State 1765 to 1768.</em> (Latitude 20 degrees 30 minutes, Longitude 211 degrees 28 minutes), and the bay, Repulse Bay, which is formed by these 2 Capes. The greatest and least depth of Water we found in it was 13 and 8 fathoms; every where safe Anchoring, and I believe, was it properly examined, there would be found some good Harbour in it, especIally on the North Side within Cape Conway, for just within the Cape lay 2 or 3 Small Islands, which alone would shelter that side of the Bay from the South-East and Southerly winds, which seem to be the prevailing or Trade Winds. Among the many islands that lay upon this Coast there is one more Remarkable than the rest,<em> Probably Blacksmith Island.</em> being of a Small circuit, very high and peaked, and lies East by South, 10 Miles from Cape Conway at the South end of the Passage above mention'd.",
         "date": "1770-06-03",
         "weather": "",
         "wind": "",
@@ -7222,7 +5942,7 @@
             -20.5,
             -211.46666666666667
         ],
-        "chapter": "In Whitsunday Passage, Queensland.",
+        "chapter": "Off Cape Hillsborough, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-04": {
@@ -7231,22 +5951,22 @@
         "weather": "",
         "wind": "",
         "location": [
-            -19.783333333333335,
+            -19.95,
             -211.9
         ],
         "chapter": "In Whitsunday Passage, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-05": {
-        "diary": "[Off Cleveland Bay, Queensland.]",
+        "diary": "Tuesday, 5th. Winds between the South and East, a Gentle breeze, and Serene weather. At 6 a.m. we were abreast of the Western point of Land above mentioned, distant from it 3 Miles, which I have named Cape Upstart, because being surrounded with low land it starts or rises up singley at the first making of it (Latitude 19 degrees 39 minutes South, Longitude 212 degrees 32 minutes West); it lies West-North-West 14 Leagues from Cape Gloucester, and is of a height sufficient to be seen 12 Leagues; but it is not so much of a Promontory as it appears to be, because on each side of it near the Sea is very low land, which is not to be seen unless you are pretty well in with the Shore. Inland are some Tolerable high hills or mountains, which, like the Cape, affords but a very barren prospect. Having past this Cape, we continued standing to the West-North-West as the land lay, under an easey Sail, having from 16 to 10 fathoms, until 2 o'Clock a.m., when we fell into 7 fathoms, upon which we hauled our wind to the Northward, judging ourselves to be very near the land; as so we found, for at daylight we were little more than 2 Leagues off. What deceived us was the Lowness of the land, which is but very little higher than the Surface of the Sea, but in the Country were some hills. At noon we were in 15 fathoms Water, and about 4 Leagues from the land. Our Latitude by Observation was 19 degrees 12 minutes South; Cape Upstart bore 38 degrees 30 minutes East, distant 12 Leagues. Course and distance sail'd since Yesterday noon North 48 degrees 45 minutes, 53 Miles. At and before Noon some very large smokes were Seen rise up out of the low land. At sun rise I found the Variation to be 5 degrees 35 minutes Easterly; at sun set last night the same Needle gave near 9 degrees. This being Close under Cape Upstart, I judged that it was owing to Iron ore or other Magnetical Matter Lodged in the Earth.",
         "date": "1770-06-05",
         "weather": "",
         "wind": "",
         "location": [
-            -19.2,
+            -19.65,
             -212.53333333333333
         ],
-        "chapter": "Off Cleveland Bay, Queensland.",
+        "chapter": "In Whitsunday Passage, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-06": {
@@ -7254,10 +5974,6 @@
         "date": "1770-06-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -19.016666666666666,
-            -1.5
-        ],
         "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7266,23 +5982,15 @@
         "date": "1770-06-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -19.016666666666666,
-            -1.5
-        ],
         "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-08": {
-        "diary": "[Anchored near Cape Grafton, Queensland.]",
+        "diary": "Friday, 8th. Winds at South-South-East and South; first part light Airs, the remainder a Gentle breeze. In the P.M. we saw several large smokes upon the Main, some people, Canoes, and, as we thought, Cocoa Nut Trees upon one of the Islands; and, as a few of these Nutts would have been very acceptable to us at this Time, I sent Lieutenant Hicks ashore, with whom went Mr. Banks and Dr. Solander, to see what was to be got. In the Meantime we keept Standing in for the Island with the Ship. At 7 they returned on board, having met with Nothing worth Observing. The Trees we saw were a small kind of Cabbage Palms. They heard some of the Natives as they were putting off from the Shore, but saw none. After the Boat was hoisted in we stood away North by West for the Northermost land we had in sight, which we were abreast of at 3 o'Clock in the Morning, having passed all the Islands 3 or 4 hours before. This point I have named Point Hillock,<em> Point Hillock is the east point of Hinchinbrook Island, which is separated from the main by a narrow and tortuous channel.</em> on account of its Figure. The Land of this point is Tolerable high, and may be known by a round Hillock or rock that appears to be detached from the point, but I believe it joins to it. Between this Cape and Cape Cleveland the shore forms a Large bay, which I named Hallifax bay;<em> The Earl of Halifax was Secretary of State 1763 to 1765.</em> before it lay the Groups of Islands before mentioned, and some others nearer the Shore. These Islands shelter the Bay in a manner from all Winds, in which is good Anchorage. The land near the Shore in the bottom of the bay is very low and Woody; but a little way back in the Country is a continued ridge of high land, which appear'd to be barren and rocky. Having passed Point Hillock, we continued standing to the North-North-West as the land Trended, having the Advantage of a light Moon. At 6 a.m. we were abreast of a point of Land which lies North by West 1/2 West, 11 Miles from Point Hillick; the Land between them is very high, and of a craggy, barren surface. This point I named Cape Sandwich;<em> Earl of Sandwich was First Lord of the Admiralty 1763.</em> it may not only be known by the high, craggy land over it, but by a small Island which lies East one Mile from it, and some others about 2 Leagues to the Northward of it. From Cape Sandwich the Land trends West, and afterwards North, and forms a fine, Large Bay, which I called Rockingham Bay;<em> The Marquis of Rockingham was Prime Minister 1765 to 1766.</em> it is well Shelter'd, and affords good Anchorage; at least, so it appear'd to me, for having met with so little encouragement by going ashore that I would not wait to land or examine it farther, but continued to range along Shore to the Northward for a parcel of Small Islands<em> The Family Islands.</em> laying off the Northern point of the Bay, and, finding a Channel of a Mile broad between the 3 Outermost and those nearer the Shore, we pushed thro'. While we did this we saw on one of the nearest Islands a Number of the Natives collected together, who seem'd to look very attentively upon the Ship; they were quite naked, and of a very Dark Colour, with short hair. At noon we were by observation in the Latitude of 17 degrees 59 minutes, and abreast of the North point of Rockingham Bay, which bore from us West 2 Miles. This boundry of the Bay is form'd by a Tolerable high Island, known in the Chart by the Name of Dunk Isle; it lays so near the Shore as not to be distinguished from it unless you are well in with the Land. At this time we were in the Longitude of 213 degrees 57 minutes. Cape Sandwich bore South by East 1/2 East, distant 19 Miles, and the northermost land in sight North 1/2 West. Our depth of Water in the Course of this day's Sail was not more than 16, nor less than 7, fathoms.<em> About here the Great Barrier Reefs begin to close in on the land. Cook kept so close to the latter that he was unconscious as yet of their existence; but he was soon to find them.</em>",
         "date": "1770-06-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -17.983333333333334,
-            -213.95
-        ],
-        "chapter": "Anchored near Cape Grafton, Queensland.",
+        "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-09": {
@@ -7298,15 +6006,15 @@
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-10": {
-        "diary": "[The Ship Aground on Endeavour Reef.]",
+        "diary": "Sunday, 10th. After hauling round Cape Grafton we found the land trend away North-West by West; 3 Miles to the Westward of the Cape is a Bay, wherein we Anchor'd, about 2 Miles from the Shore, in 4 fathoms, owsey bottom. The East point of the Bay bore South 74 degrees East, the West point South 83 degrees West, and a Low green woody Island laying in the Offing bore North 35 degrees East. The Island lies North by East 1/2 East, distance 3 or 4 Leagues from Cape Grafton, and is known in the Chart by the Name of Green Island. As soon as the Ship was brought to an Anchor I went ashore, accompanied by Mr. Banks and Dr. Solander; the first thing I did was to look for fresh Water, and with that View rowed out towards the Cape, because in the bottom of the bay was low Mangrove land, and little probability of meeting with any there. But the way I went I found 2 Small streams, which were difficult to get at on account of the Surf and rocks upon the Shore. As we came round the Cape we saw, in a sandy Cove, a small stream of Water run over the beach; but here I did not go in the boat because I found that it would not be Easey to land. We hardly advanced anything into the Country, it being here hilly, which were steep and rocky, and we had not time to Visit the Low lands, and therefore met with nothing remarkable. My intention was to have stay'd here at least one day, to have looked into the Country had we met with fresh water convenient, or any other Refreshment; but as we did not, I thought it would be only spending of time, and loosing as much of a light Moon to little purpose, and therefore at 12 o'Clock at night we weighed and stood away to the North-West, having at this time but little wind, attended with Showers of rain.<em> In the next bay west of where Cook anchored is Cairns, a small but rising town in the centre of a sugar-growing district.</em> At 4 the breeze freshned at South by East, with fair weather; we continued steering North-North-West 1/2 West as the Land lay, having 10, 12, and 14 fathoms, at a distance of 3 Leagues from the Land. At 11 we hauld off North, in order to get without a Small Low Island<em> Low Isles. There is now a lighthouse on them.</em> which lay about 2 Leagues from the Main; it being about high Water, about the time we passed it, great part of it lay under water. About 3 Leagues to the North Westward of this Island, close under the Main land, is another Island,<em> Snapper Island.</em> Tolerable high, which bore from us at Noon North 55 degrees West, distant 7 or 8 Miles; we being at this time in the Latitude of 16 degrees 20 minutes South, Cape Grafton bore South 29 degrees East, distant 40 Miles, and the Northermost point of Land in Sight North 20 degrees West, and in this Situation had 15 fathoms Water. The Shore between Cape Grafton and the above Northern point forms a large but not very deep Bay, which I named Trinity Bay, after the day on which it was discover'd; the North point Cape Tribulation, because here began all our Troubles. Latitude 16 degrees 6 minutes South, Longitude 214 degrees 39 minutes West.",
         "date": "1770-06-10",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
         "location": [
             -16.1,
             -214.65
         ],
-        "chapter": "The Ship Aground on Endeavour Reef.",
+        "chapter": "Anchored near Cape Grafton, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-11": {
@@ -7314,35 +6022,23 @@
         "date": "1770-06-11",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "The Ship Aground on Endeavour Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-12": {
-        "diary": "[Fothering the Ship.]",
+        "diary": "Tuesday, 12th. Fortunately we had little wind, fine weather, and a smooth Sea, all this 24 Hours, which in the P.M. gave us an Opportunity to carry out the 2 Bower Anchors, one on the Starboard Quarter, and the other right a Stern, got Blocks and Tackles upon the Cables, brought the falls in abaft and hove taught. By this time it was 5 o'Clock p.m.; the tide we observed now begun to rise, and the leak increased upon us, which obliged us to set the 3rd Pump to work, as we should have done the 4th also, but could not make it work. At 9 the Ship righted, and the Leak gain'd upon the Pumps considerably. This was an alarming and, I may say, terrible circumstance, and threatened immediate destruction to us. However, I resolv'd to risque all, and heave her off in case it was practical, and accordingly turn'd as many hands to the Capstan and Windlass as could be spared from the Pumps; and about 20 Minutes past 10 o'Clock the Ship floated, and we hove her into Deep Water, having at this time 3 feet 9 Inches Water in the hold. This done I sent the Long boat to take up the Stream Anchor, got the Anchor, but lost the Cable among the Rocks; after this turn'd all hands to the Pumps, the Leak increasing upon us.",
         "date": "1770-06-12",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
-        "chapter": "Fothering the Ship.",
+        "chapter": "The Ship Aground on Endeavour Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-13": {
-        "diary": "[In Endeavour River, Queensland.]",
+        "diary": "Wednesday, 13th. In the P.M. had light Airs at East-South-East, with which we keept edging in for the Land. Got up the Maintopmast and Mainyard, and having got the Sail ready for fothering of the Ship, we put it over under the Starboard Fore Chains, where we suspected the Ship had suffer'd most, and soon after the Leak decreased, so as to be keept clear with one Pump with ease; this fortunate circumstance gave new life to every one on board.",
         "date": "1770-06-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
-        "chapter": "In Endeavour River, Queensland.",
+        "chapter": "Fothering the Ship.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-14": {
@@ -7350,10 +6046,6 @@
         "date": "1770-06-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7362,10 +6054,6 @@
         "date": "1770-06-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7374,10 +6062,6 @@
         "date": "1770-06-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7386,10 +6070,6 @@
         "date": "1770-06-17",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7398,10 +6078,6 @@
         "date": "1770-06-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7410,10 +6086,6 @@
         "date": "1770-06-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7422,23 +6094,15 @@
         "date": "1770-06-20",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-21": {
-        "diary": "[Ship Beached in Endeavour River.]",
+        "diary": "Thursday, 21st. P.M., landed the Powder, got out the stone ballast, wood, etc., which brought the Ship's Draught of water to 8 feet 10 inches Forward, and 13 feet abaft. This I thought, by trimming the Coals aft, would be sufficient, as I find the Tides will rise and fall upon a Perpendicular 8 feet at Spring tides; but after the Coals was trimm'd away from over the Leak we Could hear the Water come Gushing in a little abaft the Foremast about 3 feet from her Keel. This determin'd me to clear the hold intirely; accordingly very early in the Morning we went to work to get out the Coals, which was Employment for all hands.",
         "date": "1770-06-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
-        "chapter": "Ship Beached in Endeavour River.",
+        "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-22": {
@@ -7446,10 +6110,6 @@
         "date": "1770-06-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7458,10 +6118,6 @@
         "date": "1770-06-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7470,22 +6126,14 @@
         "date": "1770-06-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-06-25": {
-        "diary": "The Carpenters continued hard at work under her bottom until put off by the Tide in the evening, and the morning Tide did not Ebb out far enough to permit them to work upon her, for here we have only one Tolerable low and high tide in 24 Hours. A.M., a party of Men were employ'd ashore filling water, while others were employ'd overhauling the rigging.",
+        "diary": "Monday, 25th. At low water in the P.M. While the Carpenters were buisey in repairing the Sheathing and plank under the Larboard bow I got people to go under the Ship's bottom, to examine all her Larboard side, she only being dry Forward, but abaft were 9 feet water. They found part of the Sheathing off abreast of the Mainmast about her floor heads, and a part of one plank a little damaged. There were 3 people who went down, who all agreed in the same Story; the Master was one, who was positive that she had received no Material Damage besides the loss of the Sheathing. This alone will be sufficient to let the worm into her bottom, which may prove of bad consequence. However, we must run all risque, for I know of no method to remedy this but by heaving her down, which would be a work of Emence Labour and time, if not impractical in our present situation.",
         "date": "1770-06-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7494,10 +6142,6 @@
         "date": "1770-06-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7506,10 +6150,6 @@
         "date": "1770-06-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7518,10 +6158,6 @@
         "date": "1770-06-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.1,
-            -214.65
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7542,10 +6178,6 @@
         "date": "1770-06-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7554,10 +6186,6 @@
         "date": "1770-07-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7566,10 +6194,6 @@
         "date": "1770-07-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7578,10 +6202,6 @@
         "date": "1770-07-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7590,23 +6210,15 @@
         "date": "1770-07-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-07-05": {
-        "diary": "[At Anchor, Endeavour River.]",
+        "diary": "Thursday, 5th. Strong breezes at South-East and fair weather. P.M. Warped the Ship over, and at high Water laid her ashore on the Sandbank on the South side of the River, for I was afraid to lay her broad side to the Shore where she lay before, because the ground lies upon too great a decent, and she hath already received some Damage by laying there these last Niep Tides, at least she still makes water.",
         "date": "1770-07-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
-        "chapter": "At Anchor, Endeavour River.",
+        "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-07-06": {
@@ -7614,10 +6226,6 @@
         "date": "1770-07-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7626,10 +6234,6 @@
         "date": "1770-07-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7638,10 +6242,6 @@
         "date": "1770-07-08",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7650,10 +6250,6 @@
         "date": "1770-07-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7662,10 +6258,6 @@
         "date": "1770-07-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7674,10 +6266,6 @@
         "date": "1770-07-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7686,10 +6274,6 @@
         "date": "1770-07-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7698,10 +6282,6 @@
         "date": "1770-07-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7710,10 +6290,6 @@
         "date": "1770-07-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7722,10 +6298,6 @@
         "date": "1770-07-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7734,10 +6306,6 @@
         "date": "1770-07-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7746,10 +6314,6 @@
         "date": "1770-07-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7758,10 +6322,6 @@
         "date": "1770-07-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7770,10 +6330,6 @@
         "date": "1770-07-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7782,10 +6338,6 @@
         "date": "1770-07-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7794,10 +6346,6 @@
         "date": "1770-07-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7806,10 +6354,6 @@
         "date": "1770-07-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7818,10 +6362,6 @@
         "date": "1770-07-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7830,10 +6370,6 @@
         "date": "1770-07-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7842,10 +6378,6 @@
         "date": "1770-07-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7854,10 +6386,6 @@
         "date": "1770-07-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7866,10 +6394,6 @@
         "date": "1770-07-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7878,10 +6402,6 @@
         "date": "1770-07-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7890,10 +6410,6 @@
         "date": "1770-07-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7902,10 +6418,6 @@
         "date": "1770-07-30",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7914,10 +6426,6 @@
         "date": "1770-07-31",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7926,10 +6434,6 @@
         "date": "1770-08-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7938,10 +6442,6 @@
         "date": "1770-08-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7950,23 +6450,19 @@
         "date": "1770-08-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.433333333333334,
-            -214.75
-        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-04": {
-        "diary": "[At Anchor, Off Turtle Reef, Queensland.]",
+        "diary": "Saturday, 4th. In the P.M., having pretty moderate weather, I order'd the Coasting Anchor and Cable to be laid without the barr, to be ready to warp out by, that we might not loose the least opportunity that might Offer; for laying in Port spends time to no purpose, consumes our Provisions, of which we are very Short in many Articles, and we have yet a long Passage to make to the East Indies through an unknown and perhaps dangerous Sea; these Circumstances consider'd, make me very Anxious of getting to Sea. The wind continued moderate all night, and at 5 a.m. it fell calm; this gave us an opportunity to warp out. About 7 we got under sail, having a light Air from the Land, which soon died away, and was Succeeded by the Sea breezes from South-East by South, with which we stood off to Sea East by North, having the Pinnace ahead sounding. The Yawl I sent to the Turtle bank to take up the Net that was left there; but as the wind freshen'd we got out before her, and a little After Noon Anchor'd in 15 fathoms water, Sandy bottom, for I did not think it safe to run in among the Shoals until I had well view'd them at low Water from the Mast head, that I might be better Able to Judge which way to Steer; for as yet I had not resolved whether I should beat back to the Southward round all the Shoals, or seek a Passage to the Eastward or Northward, all of which appeared to be equally difficult and dangerous. When at Anchor the Harbour sail'd from bore South 70 degrees West, distant 4 or 5 Leagues; the Northermost point of the Main land we have in sight, which I named Cape Bedford<em> Probably after John, 4th Duke, who had been First Lord of the Admiralty, 1744 to 1747.</em> (Latitude 15 degrees 17 minutes South, Longitude 214 degrees 45 minutes West), bore North 20 degrees West, distant 3 1/2 Leagues; but we could see land to the North-East of this Cape, which made like 2 high Islands;<em> Direction Islands.</em> the Turtle banks bore East, distant one Mile. Latitude by Observation 15 degrees 23 minutes South; our depth of Water, in standing off from the land, was from 3 1/2 to 15 fathoms.",
         "date": "1770-08-04",
         "weather": "",
         "wind": "",
         "location": [
-            -15.383333333333333,
+            -15.283333333333333,
             -214.75
         ],
-        "chapter": "At Anchor, Off Turtle Reef, Queensland.",
+        "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-05": {
@@ -7974,10 +6470,6 @@
         "date": "1770-08-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.383333333333333,
-            -214.75
-        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7986,10 +6478,6 @@
         "date": "1770-08-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.383333333333333,
-            -214.75
-        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -7998,10 +6486,6 @@
         "date": "1770-08-07",
         "weather": "cloudy",
         "wind": "",
-        "location": [
-            -15.383333333333333,
-            -214.75
-        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -8010,23 +6494,15 @@
         "date": "1770-08-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.383333333333333,
-            -214.75
-        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-09": {
-        "diary": "[Off Cape Flattery, Queensland.]",
+        "diary": "Thursday, 9th. In the P.M., the weather being something moderate, we got up the Top masts, but keept the Lower yards down. At 6 in the morning we began to heave in the Cable, thinking to get under sail; but it blow'd so fresh, together with a head sea, that we could hardly heave the ship a head, and at last was obliged to desist.",
         "date": "1770-08-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -15.383333333333333,
-            -214.75
-        ],
-        "chapter": "Off Cape Flattery, Queensland.",
+        "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-10": {
@@ -8046,10 +6522,6 @@
         "date": "1770-08-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -14.916666666666666,
-            -214.71666666666667
-        ],
         "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -8058,23 +6530,15 @@
         "date": "1770-08-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -14.916666666666666,
-            -214.71666666666667
-        ],
         "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-13": {
-        "diary": "[Pass Outside Barrier Reef, Queensland.]",
+        "diary": "Monday, 13th. At 2 P.M. I left Lizard Island in order to return to the Ship, and in my way landed upon the low sandy Isle mentioned in coming out. We found on this Island<em> Eagle Island.</em> a pretty number of Birds, the most of them sea Fowl, except Eagles; 2 of the Latter we shott and some of the others; we likewise saw some Turtles, but got none, for the reasons before mentioned. After leaving Eagle Isle I stood South-West direct for the Ship, sounding all the way, and had not less than 8 fathoms, nor more than 14. I had the same depth of Water between Lizard and Eagle Isle. After I got on board the Master inform'd me he had been down to the Islands I had directed him to go too, which he judged to lay about 3 Leagues from the Main, and had sounded the Channel between the 2, found 7 fathoms; this was near the Islands, for in with the Main he had only 9 feet 3 Miles off, but without the Islands he found 10, 12, and 14 fathoms. He found upon the islands piles of turtle shells, and some finns that were so fresh that both he and the boats' crew eat of them. This showed that the natives must have been there lately. After well considering both what I had seen myself and the report of the Master's, I found by experience that by keeping in with the Mainland we should be in continued danger, besides the risk we should run in being lock'd in with Shoals and reefs by not finding a passage out to Leeward. In case we persever'd in keeping the Shore on board an accident of this kind, or any other that might happen to the ship, would infallibly loose our passage to the East India's this Season,<em> In November the wind changes to the North-West, which would have been a foul wind to Batavia.</em> and might prove the ruin of both ourselves and the Voyage, as we have now little more than 3 Months' Provisions on board, and that at short allowance. Wherefore, after consulting with the Officers, I resolved to weigh in the morning, and Endeavour to quit the Coast altogether until such time as I found I could approach it with less danger. With this View we got under sail at daylight in the morning, and stood out North-East for the North-West end of Lizard Island, having Eagle Island to windward of us, having the pinnace ahead sounding; and here we found a good Channell, wherein we had from 9 to 14 fathoms. At Noon the North end of Lizard Island bore East-South-East, distant one Mile; Latitude observed 14 degrees 38 minutes South; depth of water 14 fathoms. We now took the pinnace in tow, knowing that there were no dangers until we got out to the Reefs.<em> From the 13th to the 19th the language used in Mr. Corner's copy of the Journal is quite different from that of the Admiralty and the Queen's, though the occurrences are the same. From internal evidences, it appears that Mr. Corner's copy was at this period the first written up, and that Cook amended the phrases in the other fair copies.</em>",
         "date": "1770-08-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -14.916666666666666,
-            -214.71666666666667
-        ],
-        "chapter": "Pass Outside Barrier Reef, Queensland.",
+        "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-14": {
@@ -8082,63 +6546,43 @@
         "date": "1770-08-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -14.916666666666666,
-            -214.71666666666667
-        ],
         "chapter": "Pass Outside Barrier Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-15": {
-        "diary": "[Ship in Danger, Outside Barrier Reef.]",
+        "diary": "Wednesday, 15th. Fresh Trade at South-East and Clear weather. At 6 in the evening shortned sail and brought too, with her head to the North-East. By this time we had run near 12 Leagues upon a North-West 1/2 North Course since Noon. At 4 a.m. wore and lay her head to the South-West, and at 6 made all Sail, and steer'd West, in order to make the land, being fearful of over shooting the passage, supposing there to be one, between this land and New Guinea. By noon we had run 10 Leagues upon this Course, but saw no land. Our Latitude by observation was 13 degrees 2 minutes South, Longitude 216 degrees 00 minutes West, which was 1 degree 23 minutes to the West of Lizard Island.",
         "date": "1770-08-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -13.033333333333333,
-            -216
-        ],
-        "chapter": "Ship in Danger, Outside Barrier Reef.",
+        "chapter": "Pass Outside Barrier Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-16": {
-        "diary": "[Pass Again Inside Barrier Reef.]",
+        "diary": "Thursday, 16th. Moderate breezes at East-South-East and fair weather. A little after Noon saw the Land from the Mast head bearing West-South-West, making high; at 2 saw more land to the North-West of the former, making in hills like Islands; but we took it to be a Continuation of the Main land. An hour after this we saw a reef, between us and the land, extending away to the Southward, and, as we thought, terminated here to the Northward abreast of us; but this was only on op'ning, for soon after we saw it extend away to the Northward as far as we could distinguish anything. Upon this we hauld close upon a Wind, which was now at East-South-East, with all the sail we could set. We had hardly trimm'd our sails before the wind came to East by North, which made our weathering the Reef very doubtful, the Northern point of which in sight at sun set still bore from us North by West, distant about 2 Leagues. However, this being the best Tack to Clear it, we keept standing to the Northward, keeping a good look out until 12 at night, when, fearing to run too far upon one Course, we tack'd and stood to the southward, having run 6 Leagues North or North by East since sun set; we had not stood above 2 Miles to the South-South-East before it fell quite Calm. We both sounded now and several times before, but had not bottom with 140 fathoms of line.<em> The description which follows, of the situation of the ship, and the occurrences until she was safely anchored inside the Barrier Reef, is from the Admiralty copy, as it is much fuller than that in Mr. Corner's.</em> A little after 4 o'clock the roaring of the surf was plainly heard, and at daybreak the Vast foaming breakers were too plainly to be seen not a mile from us, towards which we found the ship was carried by the Waves surprisingly fast. We had at this time not an air of Wind, and the depth of water was unfathomable, so that there was not a possibility of anchoring. In this distressed Situation we had nothing but Providence and the small Assistance the Boats could give us to trust to; the Pinnace was under repair, and could not immediately be hoisted out. The Yawl was put in the Water, and the Longboat hoisted out, and both sent ahead to tow, which, together with the help of our sweeps abaft, got the Ship's head round to the Northward, which seemed to be the best way to keep her off the Reef, or at least to delay time. Before this was effected it was 6 o'clock, and we were not above 80 or 100 yards from the breakers. The same sea that washed the side of the ship rose in a breaker prodidgiously high the very next time it did rise, so that between us and destruction was only a dismal Valley, the breadth of one wave, and even now no ground could be felt with 120 fathom. The Pinnace was by this time patched up, and hoisted out and sent ahead to Tow. Still we had hardly any hopes of saving the ship, and full as little our lives, as we were full 10 Leagues from the nearest Land, and the boats not sufficient to carry the whole of us; yet in this Truly Terrible Situation not one man ceased to do his utmost, and that with as much Calmness as if no danger had been near. All the dangers we had escaped were little in comparison of being thrown upon this reef, where the Ship must be dashed to pieces in a Moment. A reef such as one speaks of here is Scarcely known in Europe. It is a Wall of Coral Rock rising almost perpendicular out of the unfathomable Ocean, always overflown at high Water generally 7 or 8 feet, and dry in places at Low Water. The Large Waves of the Vast Ocean meeting with so sudden a resistance makes a most Terrible Surf, breaking Mountains high, especially as in our case, when the General Trade Wind blows directly upon it. At this Critical juncture, when all our endeavours seemed too little, a Small Air of Wind sprung up, but so small that at any other Time in a Calm we should not have observed it. With this, and the Assistance of our Boats, we could observe the Ship to move off from the Reef in a slanting direction; but in less than 10 Minutes we had as flat a Calm as ever, when our fears were again renewed, for as yet we were not above 200 Yards from the Breakers. Soon after our friendly Breeze visited us again, and lasted about as long as before. A Small Opening was now Seen in the Reef about a 1/4 of a Mile from us, which I sent one of the Mates to Examine. Its breadth was not more than the Length of the Ship, but within was Smooth Water. Into this place it was resolved to Push her if Possible, having no other Probable Views to save her, for we were still in the very Jaws of distruction, and it was a doubt wether or no we could reach this Opening. However, we soon got off it, when to our Surprise we found the Tide of Ebb gushing out like a Mill Stream, so that it was impossible to get in. We however took all the Advantage Possible of it, and it Carried us out about a 1/4 of a Mile from the breakers; but it was too Narrow for us to keep in long. However, what with the help of this Ebb, and our Boats, we by Noon had got an Offing of 1 1/2 or 2 Miles, yet we could hardly flatter ourselves with hopes of getting Clear, even if a breeze should Spring up, as we were by this time embay'd by the Reef, and the Ship, in Spite of our Endeavours, driving before the Sea into the bight. The Ebb had been in our favour, and we had reason to Suppose the flood which was now made would be against us. The only hopes we had was another Opening we saw about a Mile to the Westward of us, which I sent Lieutenant Hicks in the Small Boat to Examine. Latitude observed 12 degrees 37 minutes South, the Main Land in Sight distant about 10 Leagues.",
         "date": "1770-08-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -13.033333333333333,
-            -216
-        ],
-        "chapter": "Pass Again Inside Barrier Reef.",
+        "chapter": "Ship in Danger, Outside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-17": {
-        "diary": "In the P.M., as the wind would not permit us to sail out by the same Channel as we came in, neither did I care to move until the pinnace was in better repair, I sent the Master with all the other Boats to the Reef to get such refreshments as he could find, and in the meantime the Carpenters were repairing the pinnace. Variations by the Amplitude and Azimuth in the morning 4 degrees 9 minutes Easterly; at noon Latitude observed 12 degrees 38 minutes South, Longitude in 216 degrees 45 minutes West. It being now about low water, I and some other of the officers went to the Masthead to see what we could discover. Great part of the reef without us was dry, and we could see an Opening in it about two Leagues farther to the South-East than the one we came in by; we likewise saw 2 large spots of sand to the Southward within the Reef, but could see nothing to the Northward between it and the Main. On the Mainland within us was a pretty high promontary, which I called Cape Weymouth (Latitude 12 degrees 42 minutes South, Longitude 217 degrees 15 minutes); and on the North-West side of this Cape is a Bay, which I called Weymouth Bay.<em> Viscount Weymouth was one of the Secretaries of State when the Endeavour sailed.</em>",
+        "diary": "Friday, 17th. While Mr. Hicks was Examining the opening we struggled hard with the flood, sometime gaining a little and at other times loosing. At 2 o'Clock Mr. Hicks returned with a favourable Account of the Opening. It was immediately resolved to Try to secure the Ship in it. Narrow and dangerous as it was, it seemed to be the only means we had of saving her, as well as ourselves. A light breeze soon after sprung up at East-North-East, with which, the help of our Boats, and a Flood Tide, we soon entered the Opening, and was hurried thro' in a short time by a Rappid Tide like a Mill race, which kept us from driving against either side, though the Channel was not more than a 1/4 of a Mile broad, having 2 Boats ahead of us sounding.<em> This picture of the narrow escape from total shipwreck is very graphic. Many a ship has been lost under similar circumstances, without any idea of anchoring, which would often save a vessel, as it is not often that a reef is so absolutely steep; but that Cook had this possibility in his mind is clear. As a proof of the calmness which prevailed on board, it may be mentioned that when in the height of the danger, Mr. Green, Mr. Clerke, and Mr. Forwood the gunner, were engaged in taking a Lunar, to obtain the longitude. The note in Mr. Green's log is: \"These observations were very good, the limbs of sun and moon very distinct, and a good horizon. We were about 100 yards from the reef, where we expected the ship to strike every minute, it being calm, no soundings, and the swell heaving us right on.\"</em> Our deepth of water was from 30 to 7 fathoms; very irregular soundings and foul ground until we had got quite within the Reef, where we Anchor'd in 19 fathoms, a Coral and Shelly bottom. The Channel we came in by, which I have named Providential Channell, bore East-North-East, distant 10 or 12 Miles, being about 8 or 9 Leagues from the Main land, which extended from North 66 degrees West to South-West by South.",
         "date": "1770-08-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -12.7,
-            -217.25
-        ],
         "chapter": "Pass Again Inside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-18": {
-        "diary": "[Amongst Shoals off Cape Grenville.]",
+        "diary": "Saturday, 18th. Gentle breezes at East and East-South-East. At 4 P.M. the Boats return'd from the Reef with about 240 pounds of Shell-fish, being the Meat of large Cockles, exclusive of the Shells. Some of these Cockles are as large as 2 Men can move, and contain about 20 pounds of Meat, very good. At 6 in the morning we got under sail, and stood away to the North-West, as we could not expect a wind to get out to Sea by the same Channel as we came in without waiting perhaps a long time for it, nor was it advisable at this time to go without the Shoals, least we should by them be carried so far off the Coast as not to be able to determine wether or no New Guinea joins to or makes a part of this land. This doubtful point I had from my first coming upon the Coast, determined, if Possible, to clear up; I now came to a fix'd resolution to keep the Main land on board, let the Consequence be what it will, and in this all the Officers concur'd. In standing to the North-West we met with very irregular soundings, from 10 to 27 fathoms, varying 5 or 6 fathoms almost every Cast of the Lead. However, we keept on having a Boat ahead sounding. A little before noon we passed a low, small, sandy Isle, which we left on our Starboard side at the distance of 2 Miles. At the same time we saw others, being part of large Shoals above water, away to the North-East and between us and the Main land. At Noon we were by observation in the Latitude of 12 degrees 28 minutes South, and 4 or 5 Leagues from the Main, which extended from South by West to North 71 degrees West, and some Small Islands extending from North 40 degrees West to North 54 degrees West, the Main or outer Reef seen from the Masthead away to the North-East.",
         "date": "1770-08-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -12.7,
-            -217.25
-        ],
-        "chapter": "Amongst Shoals off Cape Grenville.",
+        "chapter": "Pass Again Inside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-19": {
-        "diary": "[Nearing Cape York, Queensland.]",
+        "diary": "Sunday, 19th. Gentle breezes at South-East by East and Clear wether. At 2 P.M., as we were steering North-West by North, saw a large shoal right ahead, extending 3 or 4 points on each bow, upon which we hauld up North-North-East and North-East by North, in order to get round to North Point of it, which we reached by 4 o'clock, and then Edged away to the westward, and run between the North end of this Shoal and another, which lays 2 miles to the Northward of it, having a Boat all the time ahead sounding. Our depth of Water was very irregular, from 22 to 8 fathoms. At 1/2 past 6 we Anchor'd in 13 fathoms; the Northermost of the Small Islands mentioned at Noon bore West 1/2 South, distant 3 Miles. These Islands, which are known in the Chart by the name of Forbes's Isles,<em> Admiral John Forbes was a Commissioner of Longitude in 1768, and had been a Lord of the Admiralty from 1756 to 1763.</em> lay about 5 Leagues from the Main, which here forms a moderate high point, which we called Bolt head, from which the Land trends more westerly, and is all low, sandy Land, but to the Southward it is high and hilly, even near the Sea. At 6 A.M. we got under sail, and directed our Course for an Island which lay but a little way from the Main, and bore from us at this time North 40 degrees West, distant 5 Leagues; but we were soon interrupted in our Course by meeting with Shoals, but by the help of 2 Boats ahead and a good lookout at the Mast head we got at last into a fair Channel, which lead us down to the Island, having a very large Shoal on our Starboard side and several smaller ones betwixt us and the Main land. In this Channel we had from 20 to 30 fathoms. Between 11 and 12 o'Clock we hauld round the North-East side of the Island, leaving it between us and the Main from which it is distant 7 or 8 Miles. This Island is about a League in Circuit and of a moderate height, and is inhabited; to the North-West of it are several small, low Islands and Keys, which lay not far from the Main, and to the Northward and Eastward lay several other Islands and Shoals, so that we were now incompassed on every side by one or the other, but so much does a great danger Swallow up lesser ones, that these once so much dreaded spots were now looked at with less concern. The Boats being out of their Stations, we brought too to wait for them. At Noon our Latitude by observation was 12 degrees 0 minutes South, Longitude in 217 degrees 25 minutes West; depth of Water 14 fathoms; Course and distance sail'd, reduced to a strait line, since yesterday Noon is North 29 degrees West, 32 Miles. The Main land within the above Islands forms a point, which I call Cape Grenville<em> George Grenville was First Lord of the Admiralty for a few months in 1763, and afterwards Prime Minister for two years.</em> (Latitude 11 degrees 58 minutes, Longitude 217 degrees 38 minutes); between this Cape and the Bolt head is a Bay, which I Named Temple Bay.<em> Richard Earl Temple, brother of George Grenville, was First Lord of the Admiralty in 1756.</em> East 1/2 North, 9 Leagues from Cape Grenville, lay some tolerable high Islands, which I called Sir Charles Hardy's Isles;<em> Admiral Sir C. Hardy was second in command in Hawke's great action in Quiberon Bay, 1759.</em> those which lay off the Cape I named Cockburn Isles.<em> Admiral George Cockburn was a Commissioner of Longitude and Comptroller of the Navy when Cook left England. Off Cape Grenville the Endeavour again got into what is now the recognised channel along the land inside the reefs.</em>",
         "date": "1770-08-19",
         "weather": "",
         "wind": "",
@@ -8146,7 +6590,7 @@
             -11.966666666666667,
             -217.63333333333333
         ],
-        "chapter": "Nearing Cape York, Queensland.",
+        "chapter": "Amongst Shoals off Cape Grenville.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-20": {
@@ -8154,15 +6598,11 @@
         "date": "1770-08-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -11.383333333333333,
-            -217.76666666666668
-        ],
         "chapter": "Nearing Cape York, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-21": {
-        "diary": "[Land upon Possession Island.]",
+        "diary": "Tuesday, 21st. Winds at East by South and East-South-East, fresh breeze. By one o'Clock we had run nearly the length of the Southermost of the 2 Islands before mentioned, and finding that we could not well go to windward of them without carrying us too far from the Main land, we bore up, and run to Leeward, where we found a fair open passage. This done, we steer'd North by West, in a parrallel direction with the Main land, leaving a small Island between us and it, and some low sandy Isles and Shoals without us, all of which we lost sight of by 4 o'Clock; neither did we see any more before the sun went down, at which time the farthest part of the Main in sight bore North-North-West 1/2 West. Soon after this we Anchor'd in 13 fathoms, soft Ground, about five Leagues from the Land, where we lay until day light, when we got again under sail, having first sent the Yawl ahead to sound. We steer'd North-North-West by Compass from the Northermost land in sight; Variation 3 degrees 6 minutes East. Seeing no danger in our way we took the Yawl in Tow, and made all the Sail we could until 8 o'Clock, at which time we discover'd Shoals ahead and on our Larboard bow, and saw that the Northermost land, which we had taken to be a part of the Main, was an Island, or Islands,<em>Now called Mount Adolphus Islands.</em> between which and the Main their appeared to be a good Passage thro' which we might pass by running to Leeward of the Shoals on our Larboard bow, which was now pretty near us. Whereupon we wore and brought too, and sent away the Pinnace and Yawl to direct us clear of the Shoals, and then stood after them. Having got round the South-East point of the Shoal we steer'd North-West along the South-West, or inside of it, keeping a good lookout at the Masthead, having another Shoal on our Larboard side; but we found a good Channel of a Mile broad between them, wherein were from 10 to 14 fathoms. At 11 o'Clock, being nearly the length of the Islands above mentioned, and designing to pass between them and the Main, the Yawl, being thrown a stern by falling in upon a part of the Shoal, She could not get over. We brought the Ship too, and Sent away the Long boat (which we had a stern, and rigg'd) to keep in Shore upon our Larboard bow, and the Pinnace on our Starboard; for altho' there appear'd nothing in the Passage, yet I thought it necessary to take this method, because we had a strong flood, which carried us on end very fast, and it did not want much of high water. As soon as the Boats were ahead we stood after them, and got through by noon, at which time we were by observation in the Latitude of 10 degrees 36 minutes 30 seconds South. The nearest part of the Main, and which we soon after found to be the Northermost,<em> Cape York, the northernmost point of Australia.</em> bore West southerly, distant 3 or 4 Miles; the Islands which form'd the passage before mentioned extending from North to North 75 degrees East, distant 2 or 3 Miles. At the same time we saw Islands at a good distance off extending from North by West to West-North-West, and behind them another chain of high land, which we likewise judged to be Islands.<em> The islands around Thursday Island.</em> The Main land we thought extended as far as North 71 degrees West; but this we found to be Islands. The point of the Main, which forms one side of the Passage before mentioned, and which is the Northern Promontory of this Country, I have named York Cape, in honour of his late Royal Highness, the Duke of York.<em> Edward Augustus, Duke of York and Albany, was a brother of George III.</em> It lies in the Longitude of 218 degrees 24 minutes West, the North point in the Latitude of 10 degrees 37 minutes South, and the East point in 10 degrees 41 minutes. The land over and to the Southward of this last point is rather low and very flatt as far inland as the Eye could reach, and looks barren. To the Southward of the Cape the Shore forms a large open bay, which I called Newcastle bay, wherein are some small, low Islands and shoals, and the land all about it is very low, flatt, and sandy. The land on the Northern part of the Cape is rather more hilly, and the shore forms some small bays, wherein there appear'd to be good Anchorage, and the Vallies appear'd to be tolerably well Cloathed with wood. Close to the East point of the Cape are 3 small Islands, and a small Ledge of rocks spitting off from one of them. There is also an Island laying close to the North Point. The other Islands before spoke of lay about 4 Miles without these; only two of them are of any extent. The Southermost is the largest, and much higher than any part of the Main land. On the North-West side of this Island seem'd to be good Anchorage, and Vallies that to all appearance would afford both wood and fresh Water. These Isles are known in the Chart by the name of York Isles.<em> Now called Mount Adolphus Islands.</em> To the Southward and South-East of them, and even to the Eastward and Northward, are several low Islands, rocks, and Shoals. Our depth of Water in sailing between them and the Main was 12, 13, and 14 fathoms.<em> In this channel is the dangerous rock on which the steamship Quetta was wrecked, with such terrible loss of life, in 1890. By the Endeavour's track she must have passed very near it.</em>",
         "date": "1770-08-21",
         "weather": "",
         "wind": "",
@@ -8170,55 +6610,39 @@
             -10.616666666666667,
             -218.4
         ],
-        "chapter": "Land upon Possession Island.",
+        "chapter": "Nearing Cape York, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-22": {
-        "diary": "[In Endeavour Strait, Torres Strait.]",
+        "diary": "Wednesday, 22nd. Gentle breezes at East by South and clear weather. We had not steer'd above 3 or 4 Miles along shore to the westward before we discover'd the land ahead to be Islands detached by several Channels from the main land; upon this we brought too to Wait for the Yawl, and called the other Boats on board, and after giving them proper instructions, sent them away again to lead us thro' the Channell next the Main, and as soon as the Yawl was on board made sail after them with the Ship. Soon after we discover'd rocks and Shoals in this Channell, upon which I made the Signal for the boats to lead thro' the next Channel to the Northward<em> This led to Endeavour Strait, but the recognised track is the channel farther north.</em> laying between the Islands, which they accordingly did, we following with the Ship, and had not less than 5 fathoms; and this in the narrowest part of the Channel, which was about a Mile and a 1/2 broad from Island to Island. At 4 o'Clock we Anchor'd about a Mile and a 1/2 or 2 Miles within the Entrance in 6 1/2 fathoms, clear ground, distance from the Islands on each side of us one Mile, the Main land extending away to the South-West; the farthest point of which we could see bore from us South 48 degrees West, and the Southermost point of the Islands, on the North-West side of the Passage, bore South 76 degrees West. Between these 2 points we could see no land, so that we were in great hopes that we had at last found out a Passage into the Indian seas; but in order to be better informed I landed with a party of men, accompanied by Mr. Banks and Dr. Solander, upon the Islands which lies at the South-East point of the Passage. Before and after we Anchor'd we saw a Number of People upon this Island, Arm'd in the same manner as all the others we have seen, Except one man, who had a bow and a bundle of Arrows, the first we have seen upon this Coast. From the appearance of the people we expected they would have opposed our landing; but as we approached the shore they all made off, and left us in peaceable possession of as much of the Island as served our purpose. After landing I went upon the highest hill, which, however, was of no great height, yet no less than twice or thrice the height of the Ship's Mastheads; but I could see from it no land between South-West and West-South-West, so that I did not doubt but there was a passage. I could see plainly that the lands laying to the North-West of this passage were compos'd of a number of Islands of Various extent, both for height and Circuit, ranged one behind another as far to the Northward and Westward as I could see, which could not be less than 12 or 14 Leagues.",
         "date": "1770-08-22",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -10.766666666666667,
-            -218.98333333333332
-        ],
-        "chapter": "In Endeavour Strait, Torres Strait.",
+        "chapter": "Land upon Possession Island.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-23": {
-        "diary": "FRIDAY, 24th. In the P.M. had light Airs from the South-South-West, with which, after leaving Booby Island, as before mentioned, we steer'd West-North-West until 5 o'clock, when it fell Calm, and the Tide of Ebb which sets to the North-East soon after making, we Anchor'd in 8 fathoms soft sandy bottom, Booby Island bearing South 50 degrees East, distant 5 miles; Prince of Wales Isles extending from North-East by North to South 55 degrees East. There appear'd to be an open clear passage between these Islands extending from North 64 degrees East to East by North. At 1/2 past 5 in the morning in purchasing<em> Weighing the anchor.</em> the Anchor, the Cable parted about 8 or 10 fathoms from the Anchor; I immediately order'd another Anchor to be let go, which brought the ship up before she had drove a cable's length from the Buoy; after this we carried out a Kedge, and warped the ship nearer to it, and then endeavour'd to sweep the Anchor with a Hawser, but miss'd it, and broke away the Buoy rope.<em> The kedge is a small anchor. Sweeping is dragging the middle of a rope, or hawser, held at the two ends from two boats some distance apart, along the bottom, with the object of catching the fluke of the anchor as it lies on the bottom, and so recovering it. It is a long and wearisome operation if the bottom is uneven. Cook, however, having already lost one of his large anchors, could not afford to leave this without an effort.</em> We made several Attempts afterwards, but did not succeed. While the Boats were thus employed we hove up the Kedge Anchor, it being of no more use. At Noon Latitude observed 10 degrees 30 minutes South. Winds at North-East, a fresh breeze; the Flood Tide here comes from the same Quarter.",
+        "diary": "Thursday, 23rd. In the P.M. had little wind and Variable, with which and the Tide of Flood we keept advancing to the West-North-West; depth of Water 8, 7, and 5 fathoms. At 1/2 past 1 the pinnace, which was ahead, made the Signal for Shoal Water, upon which we Tackt and sent away the Yawl to sound also, and then Tack'd again, and stood after them with the Ship; 2 hours after this they both at once made the Signal for having Shoal water. I was afraid to stand on for fear of running aground at that time of the Tide, and therefore came to an Anchor in 1/4 less 7 fathoms, sandy ground. Wallice's Islands bore South by West 1/2 West, distant 5 or 6 Miles, the Islands to the Northward extending from North 73 degrees East to North 10 degrees East, and a small island<em> Booby Island.</em> just in sight bearing North-West 1/2 West. Here we found the flood Tide set to the Westward and Ebb to the Contrary. After we had come to Anchor I sent away the Master with the Long boat to sound, who, upon his return in the evening, reported that there was a bank stretching North and South, upon which were 3 fathoms Water, and behind it 7 fathoms. We had it Calm all Night and until 9 in the morning, at which time we weigh'd, with a light breeze at South-South-East, and steer'd North-West by West for the Small Island above mentioned, having first sent the Boats ahead to sound; depth of Water 8, 7, 6, 5, 4, and 3 fathoms when upon the Bank,<em> The Endeavour Strait is now little used, on account of this great bank, which nearly bars its western part. There is, however, deeper water than Cook found, a few miles to the southward; but it is just the difficulty of finding this narrow pass, so far from land, and the fact that there is a deep though narrow channel north of Prince of Wales Island, that has caused it to be abandoned. The passage of Torres Strait is, however, still an anxious bit of navigation.</em> it being now the last Quarter Ebb. At this time the most Northermost Islands we had in sight bore North 9 degrees East; the South-West point of the largest Islands on the North-West side of the Passage, which I named Cape Cornwall, bore East; distant 3 Leagues. This bank, at least so much as we sounded, extends nearly North and South, how far I cannot say; its breadth, however, is not more than 1/4 or at most 1/2 a Mile. Being over the Bank, we deepned our water to a 1/4 less 7 fathoms, which depth we carried all the way to the small Island ahead, which we reached by Noon, at which time it bore South, distant near 1/2 a Mile; depth of Water 5 fathoms. The most northermost land we had in sight (being part of the same Chain of Islands we have had to the Northward of us since we entered the Passage) bore North 71 degrees East; Latitude in, by Observation, 10 degrees 33 minutes South, Longitude 219 degrees 22 minutes West. In this situation we had no part of the Main land in sight. Being now near the island, and having but little wind, Mr. Banks and I landed upon it, and found it to be mostly a barren rock frequented by Birds, such as Boobies, a few of which we shott, and occasioned my giving it the name of Booby Island.<em> Booby Island is now the great landmark for ships making Torres Strait from the westward. There is a light upon it.</em> I made but very short stay at this Island before I return'd to the Ship; in the meantime the wind had got to the South-West, and although it blow'd but very faint, yet it was accompanied with a Swell from the same quarter. This, together with other concuring Circumstances, left me no room to doubt but we had got to the Westward of Carpentaria, or the Northern extremity of New Holland, and had now an open Sea to the Westward; which gave me no small satisfaction, not only because the danger and fatigues of the Voyage was drawing near to an end, but by being able to prove that New Holland and New Guinea are 2 separate Lands or Islands, which until this day hath been a doubtful point with Geographers.<em> Luis Vaez de Torres, commanding a Spanish ship in company with Quiros in 1605, separated from his companion in the New Hebrides. He afterwards passed through the Strait separating New Guinea from Australia, which now bears his name. This fact, however, was little known, as the Spaniards suppressed all account of the voyage; and though it leaked out later, the report was so vague that it was very much doubted whether he had really passed this way. On most charts and maps of the period, New Guinea was shown joined to Australia, and to Cook the establishment of the Strait may fairly be given. Only the year before Bougainville, the French navigator, who preceded Cook across the Pacific, and who was steering across the Coral Sea on a course which would have led him to Lizard Island, abandoned his search in that direction, after falling in with two reefs to the eastward of the Barrier, because he feared falling amongst other shoals, and had no faith whatever in the reports of the existence of Torres Strait. Had he persevered, he would have snatched from Cook the honour of the complete exploration of Eastern Australia, and of the verification of the passage between it and New Guinea. Bougainville paid dearly for his caution, as he found that retracing his steps against the trade wind, in order to pass eastward and northward of New Guinea, occupied such a weary time, that he and his people were nearly starved before they reached a place of refreshment.</em>",
         "date": "1770-08-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.45,
-            -218.6
-        ],
-        "chapter": "Historical Notes, East Coast of Australia.",
-        "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
+        "chapter": "In Endeavour Strait, Torres Strait.",
+        "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
     "1770-08-25": {
         "diary": "Saturday, 25th. Winds at North-East and East-North-East, a gentle breeze. Being resolv'd not to leave the Anchor behind while there remain'd the least probability of getting of it, after dinner I sent the Boats again to sweep for it first with a small line, which succeeded, and now we know'd where it lay we found it no very hard matter to sweep it with a Hawser. This done, we hove the Ship up to it by the same Hawser, but just as it was almost up and down the Hawser slip'd, and left us all to do over again. By this time it was dark, and obliged us to leave off until daylight in the morning, when we sweep'd it again, and hove it up to the bows, and by 8 o'Clock weigh'd the other anchor, got under sail, and stood away North-West, having a fresh breeze at East-North-East. At Noon we were by observation in the Latitude of 10 degrees 18 minutes South, Longitude 219 degrees 39 minutes West, having no land in sight, but about 2 miles to the Southward of us lay a Shoal,<em> Cook Reef.</em> on which the Sea broke, and I believe a part of it dry. At low Water it extended North-West and South-East, and might be about 4 or 5 Leagues in Circuit; depth of Water at this time and since we weigh'd 9 fathoms.",
         "date": "1770-08-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.3,
-            -219.65
-        ],
         "chapter": "Historical Notes, East Coast of Australia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-08-26": {
-        "diary": "[Off South Coast of New Guinea.]",
+        "diary": "Sunday, 26th. Fresh breezes at East in standing to the North-West. We began to Shoalden our water from 9 to 7 fathoms, and at 1/2 past one, having run 11 Miles since Noon, the boat which was a head made the signal for Shoal Water, immediately upon which we let go an Anchor, and brought the Ship up with the sails standing as the boats was but a little way ahead, having but just relieved the Crew, and at same time we saw from the Ship Shoal Water<em> Cook Shoal.</em> in a manner all round us, and both wind and Tide setting upon it. We lay in 6 fathoms with the Ship, but upon sounding about her found hardly 2 fathoms, a very rocky bottom, not much above 1/2 a cable's length from us from the east round by the North and West as far as South-West, so that there was no way to get clear but the way we came. This was one of the many Fortunate Escapes we have had from Shipwreck, for it was near high water, and there run a short cockling sea that would soon have bulged the Ship had she struck. These Shoals that lay a fathom or 2 under Water are the most dangerous of any, for they do not shew themselves until you are close upon them, and then the water upon them looks brown like the reflection of dark clouds. Between 3 and 4 the Ebb began to make, when I sent the Master to sound to the Southward and South Westward, and in the meantime, as the Ship tended,<em> Swung to the tide.</em> hove up the Anchor, and with a little Sail stood to the Southward and afterwards edged away to the Westward, and got once more out of danger, where at sun set we Anchor'd in 10 fathoms Sandy bottom. Having a fresh of wind at East-South-East, at 6 o'clock in the morning we weighed and stood West, with a fresh of wind at East, having first sent a boat ahead to sound. I did intend to have steer'd North-West until we had made the Coast of New Guinea, designing if Possible to touch upon that Coast, but the meeting with these Shoals last night made me Alter the Course to West, in hopes of meeting with fewer dangers and deeper Water; and this we found, for by Noon we had deepned our water gradually to 17 fathoms, and this time we were by observation in the Latitude of 10 degrees 10 minutes South, Longitude 220 degrees 12 minutes West. Course and distance sail'd since yesterday at noon North 76 degrees West, 11 Leagues, no land in sight.",
         "date": "1770-08-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.166666666666666,
-            -220.2
-        ],
-        "chapter": "Off South Coast of New Guinea.",
+        "chapter": "Historical Notes, East Coast of Australia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-08-27": {
@@ -8226,10 +6650,6 @@
         "date": "1770-08-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.933333333333334,
-            -221
-        ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8238,10 +6658,6 @@
         "date": "1770-08-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -8.866666666666667,
-            -221.45
-        ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8251,22 +6667,18 @@
         "weather": "",
         "wind": "",
         "location": [
-            -8.316666666666666,
+            -8.216666666666667,
             -221.73333333333332
         ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-08-30": {
-        "diary": "[Off Cape Walsche, New Guinea.]",
+        "diary": "Thursday, 30th. Fresh breezes at South-East, East-South-East, and East by South. After steering South-West by West, 6 miles, we discover'd on our Starboard bow and ahead a Strong appearance of Shoal Water, and by this time we had Shoald our water from 10 to 5 fathoms; upon which I made the Pinnace Signal to Edge down to it, but she not going far enough, we sent the Yawl to sound in it, and at the same time hauld off close upon a Wind, with the Ship until 4, at which time we had run 6 Miles, but did not depen our water anything. We then Edged away South-West, 4 Miles more, but finding still Shoal Water we brought too, and call'd the Boats on board by Signal, hoisted them in, and then hauld off close upon a wind, being at this time about 3 or 4 Miles from the Land. The Yawl found only 3 fathoms water in the place where I sent her to sound, which place I weather'd about 1/2 a mile. Between 1 and 2 we passed a Bay or Inlet, before which lies a small Island that seems to Shelter it from the Southerly winds; but I very much doubt their being Water behind it for Shipping. I could not attempt it because the South-East Trade wind blows right in, and we have not as yet had any land breezes. We stretched off to Sea until 12 o'Clock, at which time we were 10 and 11 Leagues from the Land, and had depen'd our Water to 29 fathoms; we now tack'd and stood in until 4 o'Clock, when, being in 6 1/2 fathoms, we tack'd and lay her head off until day light, at which time we saw the land bearing North-West by West, distant about 4 Leagues. We now made sail and steer'd West-South-West, and then West by South, but coming into 54 fathoms we hauld off South-West until we depen'd our Water to 8 fathoms; we then keept away West by South and West, having 9 fathoms and the Land just in sight from the Deck, which we judged not above 3 or 4 Leagues off, as it is everywhere exceeding low. At Noon we were by Observation in the Latitude of 8 degrees 38 minutes South, Longitude 222 degrees 34 minutes West. St. Bartholomew Isle bore North 69 degrees East, distant 74 Miles.",
         "date": "1770-08-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -8.633333333333333,
-            -222.56666666666666
-        ],
-        "chapter": "Off Cape Walsche, New Guinea.",
+        "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-08-31": {
@@ -8275,7 +6687,7 @@
         "weather": "",
         "wind": "",
         "location": [
-            -8.166666666666666,
+            -8.4,
             -222.91666666666666
         ],
         "chapter": "Off Cape Walsche, New Guinea.",
@@ -8306,15 +6718,11 @@
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-03": {
-        "diary": "[Off South-west Coast of New Guinea.]",
+        "diary": "Monday, 3rd. Steer'd North by East, with a fresh breeze at East by North until 7 in the Evening, when the wind came to South-East by South, with which we keept standing to the Eastward close upon a wind all Night, having from 17 to 10 fathoms pretty even Soundings. At daylight we saw the land extending from North by East to South-East, distant about 4 Leagues. We still keept standing in for it, having the advantage of a fresh gale at East-South-East and East by South, until near 9, when, being about 3 or 4 Miles off, and in 3 fathoms, we brought too and I went ashore in the pinnace, accompanied by Mr. Banks and Dr. Solander, having a mind to land once in this Country before we quit it Altogether, which I now am determin'd to do without delay; for I found that it is only spending time to little purpose, and carrying us far out of our way, staying upon this Coast, which is so shallow that we can hardly keep within sight of land.",
         "date": "1770-09-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.233333333333333,
-            -222.5
-        ],
-        "chapter": "Off South-west Coast of New Guinea.",
+        "chapter": "Off Cape Walsche, New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-04": {
@@ -8322,10 +6730,6 @@
         "date": "1770-09-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -6.733333333333333,
-            -223.85
-        ],
         "chapter": "Off South-west Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8342,15 +6746,11 @@
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-06": {
-        "diary": "[Remarks on Charts.]",
+        "diary": "Thursday, 6th. A steady fresh gale at East by South and clear weather, with which we steer'd West-South-West. At 7 in the Evening we took in the small Sails, reefd the Topsails, and sounded, having 50 fathoms; we still keept West-South-West all night, going at the rate of 4 1/2 Miles an hour. At 10 had 42 fathoms; at 11, 37; and at 12 o'Clock 45; 1 o'Clock 49; and at 3, 120; after which we could get no ground. In the evening we caught 2 Boobies, which settled upon the rigging, and these were the first of the kind we have caught in this manner the voyage, altho' I have heard of them being caught this way in great numbers. At daylight, in the Morning, we made all the sail we could, and at 10 o'Clock saw land extending from North-North-West to West by North, distant 5 or 6 League. At Noon it bore from North to West about the same distance; our Latitude by observation was 8 degrees 15 minutes South, Longitude 227 degrees 47 minutes West. This land is of an even and moderate height, and by our run from New Guinea ought to be a part of the Arrow Isles;<em> This was the southern part of the Tenimber Islands.</em> but it lays a degree farther to the South than any of these Islands are laid down in the Charts. We sounded, but had no ground, with 50 fathoms of Line.",
         "date": "1770-09-06",
-        "weather": "",
+        "weather": "hazy",
         "wind": "",
-        "location": [
-            -8.25,
-            -227.78333333333333
-        ],
-        "chapter": "Remarks on Charts.",
+        "chapter": "Off South-west Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-07": {
@@ -8382,10 +6782,6 @@
         "date": "1770-09-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.766666666666667,
-            -232.11666666666667
-        ],
         "chapter": "Remarks on Charts.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8394,23 +6790,19 @@
         "date": "1770-09-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.766666666666667,
-            -232.11666666666667
-        ],
         "chapter": "Remarks on Charts.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-11": {
-        "diary": "[Off South Coast of Timor.]",
+        "diary": "Tuesday, 11th. Variable light Airs and Clear weather. Steer'd North-West, in order to discover the Land plainer until 4 in the morning, at which time the wind came to North-West and West, with which we stood to the Southward until 9 o'Clock, when we Tack'd and stood North-West, having the wind at West-South-West. At sun rise in the morning we could see the land extend from West-North-West to North-East; at noon we could see it extend to the Westward as far as West by South 1/2 South, but no farther to the Eastward than North by East. We were now well assured that this was part of the Island of Timor, in consequence of which the last Island we saw must have been Timor land, the South part of which lies in the Latitude of 8 degrees 15 minutes South, Longitude 228 degrees 10 minutes, whereas in the Charts the South Point is laid down in Latitude 9 degrees 30 minutes. It is possible that the Land we saw might be some other Island; but then I cannot see how we could have miss'd seeing Timor land, soposing it to be right laid down in Latitude, as we were never to the Southward of 9 degrees 30 minutes; for my design was to have made that Island, and to have landed upon it to have seen what it produced, as it is (according to the Charts) a large Island, and not settled by the Dutch that I ever heard off. We were now in the Latitude of 9 degrees 37 minutes, Longitude 233 degrees 54 minutes West by observation of the Sun and Moon, and Yesterday we were by Observation in 233 degrees 27 minutes West. The difference is 27 minutes, which is exactly the same as what the Log gave; this, however, is a degree of accuracy in observation that is seldom to be expected.",
         "date": "1770-09-11",
         "weather": "",
         "wind": "",
         "location": [
             -9.616666666666667,
-            -233.9
+            -228.16666666666666
         ],
-        "chapter": "Off South Coast of Timor.",
+        "chapter": "Remarks on Charts.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-12": {
@@ -8418,10 +6810,6 @@
         "date": "1770-09-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.616666666666667,
-            -233.9
-        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8431,7 +6819,7 @@
         "weather": "",
         "wind": "",
         "location": [
-            -9.75,
+            -9.566666666666666,
             -234.2
         ],
         "chapter": "Off South Coast of Timor.",
@@ -8442,10 +6830,6 @@
         "date": "1770-09-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.75,
-            -234.2
-        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8454,23 +6838,19 @@
         "date": "1770-09-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.75,
-            -234.2
-        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-16": {
-        "diary": "[Anchor at Savu.]",
+        "diary": "Sunday, 16th. Light breezes from the North-East by East, with clear weather, except in the morning, when we had it cloudy, with a few small Showers of Rain. Steer'd along shore South-West and South-West by West until 6 o'Clock in the morning, when we steer'd West-South-West, and at 9, West, at which time we saw the Island Rotte right ahead. At Noon we were in the Latitude of 10 degrees 39 minutes, Longitude 235 degrees 57 minutes; the South end of Timor bore North-North-West, distant 5 or 6 Leagues; the Island of Rotte extending from South 75 degrees West to North 67 degrees West, and the Island of Anaboa as Dampier calls it, or Seman<em> Semao. This island lies off the Dutch settlement of Koepang or Concordia in Timor; but Cook was right in supposing he would have received but a cold reception there. The Dutch discouraged any visits at their outlying settlements. Rotte is a large island lying off the south-west end of Timor.</em> as it is called in the Charts, which lies of the South end of Timor, bore North-West. Course and distance sail'd since Yesterday noon South 55 degrees 15 minutes West, 67 Miles. Dampier, who has given us a large and, so far as I know, an Accurate discription of the Island of Timor, says that it is 70 Leagues long and 16 Broad, and that it lies North-East and South-West. I found the East side to lie nearest North-East by East and South-West by West, and the South end to lie in the Latitude 10 degrees 23 minutes South, Longitude 236 degrees 5 minutes West from Greenwich. We run about 45 Leagues along the East side, which I observed to be free from Danger, and, excepting near the South end, the Land which bounds the Sea is low for 2, 3, or 4 Miles inland, and seem'd in many places to be intersected with Salt Creeks. Behind the low land are Mountains, which rise one above another to a considerable height. We continually saw upon it smoakes by day and fires by night, and in many places houses and plantations. I was strongly importuned by some of my Officers to go to the Dutch settlement at Concordia, on this Island, for refreshments; but this I refused to comply with, knowing that the Dutch look upon all Europeans with a Jealous Eye that come among these Islands, and our necessities were not so great as to oblige me to put into a place where I might expect to be but indifferently treated.",
         "date": "1770-09-16",
-        "weather": "",
+        "weather": "cloudy",
         "wind": "",
         "location": [
             -10.383333333333333,
             -236.08333333333334
         ],
-        "chapter": "Anchor at Savu.",
+        "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-17": {
@@ -8486,15 +6866,11 @@
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-18": {
-        "diary": "[At Anchor. Savu.]",
+        "diary": "Tuesday, 18th. As soon as Mr. Gore landed he was meet on the beach by several people, both Horse and Foot, who gave him to understand that there was a Bay to Leeward where we could Anchor, and likewise get refreshments. Upon Mr. Gore's return with this intelligence we bore away for the Bay, in which we Anchor'd at 7 o'Clock in 38 fathoms Water, Clean sandy bottom. About a Mile from Shore the North point of the Bay bore North 30 degrees East, 2 1/2 Miles, and the South point or West end of the Island bore South 63 degrees West. Two hours before we Anchor'd we saw Dutch Colours hoisted in a Village which stands about a Mile inland, and at day light in the Morning the same Colours were hoisted on the beach abreast of the Ship. By this I was no longer in doubt but what here was a Dutch settlement, and accordingly sent Lieutenant Gore on shore to wait upon the Governor, or chief person residing here, to acquaint him with the reasons that induced us to touch at this Island. Upon Mr. Gore's landing we could perceive that he was received by a Guard of the Natives, and not Dutch Troops, and Conducted up to the Village where the Colours were hoisted last night. Some time after this I received a message from him, acquainting me that he was there with the king of the Island, who had told him that he could not supply him with anything without leave from the Dutch Governor, who resided at another part of the Island, but that he had sent to acquaint him of our Arrival and request.",
         "date": "1770-09-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.45,
-            -237.51666666666668
-        ],
-        "chapter": "At Anchor. Savu.",
+        "chapter": "Anchor at Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-19": {
@@ -8502,10 +6878,6 @@
         "date": "1770-09-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.45,
-            -237.51666666666668
-        ],
         "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8514,23 +6886,15 @@
         "date": "1770-09-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.45,
-            -237.51666666666668
-        ],
         "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-21": {
-        "diary": "[Sail from Savu.]",
+        "diary": "Friday, 21st. We got under sail, and stood away to the Westward along the North side of the Island, and another smaller Island, which lies farther to the Westward, which last bore from us at Noon South-South-East, distant 2 Leagues.",
         "date": "1770-09-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.583333333333334,
-            -237.5
-        ],
-        "chapter": "Sail from Savu.",
+        "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-22": {
@@ -8570,25 +6934,25 @@
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-25": {
-        "diary": "Tuesday, 25th. Moderate breezes at South-East, and clear, pleasant weather. At Noon our Latitude was 11 degrees 13 minutes South, and Longitude 244 degrees 41\" West.",
+        "diary": "Tuesday, 25th. Moderate breezes at South-East, and clear, pleasant weather. At Noon our Latitude was 11 degrees 13 minutes South, and Longitude 244 degrees 41 West.",
         "date": "1770-09-25",
         "weather": "",
         "wind": "",
         "location": [
-            -11.133333333333333,
-            -242.21666666666667
+            -11.216666666666667,
+            -244.68333333333334
         ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-09-26": {
-        "diary": "Friday 28th. Winds at South-South-East and South-East; a fresh breeze and Cloudy, with some Showers of rain. At Noon Latitude observed 10 degrees 51 minutes South, which is agreeable to the Logg, Longitude in 250 degrees 9 minutes, West.",
+        "diary": "Wednesday, 26th. Winds and weather as yesterday. At Noon Latitude in 11 degrees 10 minutes, Longitude 245 degrees 41\" West.",
         "date": "1770-09-26",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
         "location": [
-            -10.85,
-            -250.15
+            -11.166666666666666,
+            -245.00000016666667
         ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
@@ -8598,10 +6962,6 @@
         "date": "1770-09-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -9.516666666666667,
-            -251.66666666666666
-        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8622,10 +6982,6 @@
         "date": "1770-10-01",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8634,23 +6990,15 @@
         "date": "1770-10-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-03": {
-        "diary": "[In Sunda Strait.]",
+        "diary": "Wednesday, 3rd. Soon after 12 o'Clock it fell quite Calm, which obliged us to Anchor in 18 fathoms, Muddy bottom, about 2 Miles from shore, where we found a strong Current setting to the South-West. Not long before we Anchor'd we saw a Dutch Ship laying off Anger Point, on board which I sent Mr. Hicks to enquire after News.<em> It will be recollected that the Endeavour was now two years and two months from England, without the slightest chance of any news from home. We can imagine the anxiety and excitement on board on thus approaching civilisation, though they had no prospect of personal letters. With the frequent communication of modern times, we can scarcely realise such circumstances, and should certainly consider them as an exceeding hardship.</em> Upon his return he inform'd me that there were 2 Dutch Ships from Batavia, one bound for Ceylon, and the other to the Coast of Mallabar, besides a small Fly-boat or Packet, which is stationed here to carry all Packets, Letters, etc., from all Dutch Ships to Batavia; but it seems more Probable that she is stationed here to examine all Ships that pass and repass these Straits. We now first heard the agreeable news of His Majesty's Sloop The Swallow being at Batavia about 2 Years ago.<em> The Swallow, Captain Cartaret, had sailed with the Dolphin in 1766, but separated from her on emerging from the Strait of Magellan. The Dolphin had reached England some months before Cook sailed, but nothing had been heard of the Swallow, and fears were entertained of her loss.</em> At 7 o'Clock a breeze sprung up at South-South-West, with which we weighed and stood to the North-East between Thwart-the-way Island and the Cap:<em> Thwart-the-Way is an island that lies right across the fairway of Sunda Strait. The Cap is another smaller island that lies North-East of it.</em> soundings from 18 to 26 fathoms. We had but little Wind all night, and having a Strong Current against us, we got no further by 8 o'Clock in the morning than under Bantam Point. At this time the wind came to North-East, and obliged us to Anchor in 22 fathoms about 2 Miles from the Shore. The above point bore North-East by East, distant 1 League. Here we found a strong Current setting to the North-West. In the morning we saw the Dutch packet standing after us, but after the wind Shifted to the North-East she bore away. One of the Dutch Captains told Mr. Hicks yesterday that the Current sets constantly to the South-Westward, and that it would continue to set so for a Month or Six Weeks longer.",
         "date": "1770-10-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
-        "chapter": "In Sunda Strait.",
+        "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-04": {
@@ -8658,34 +7006,22 @@
         "date": "1770-10-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-05": {
-        "diary": "The first and fourth of these Questions I only answer'd, which when the Officer saw, he made use of the very same words the other had done before, viz.: that we might write what we pleased, for it was of no consequence, etc., and yet he immediately said that he must send that very paper away to Batavia by water, and that it would be there by to-morrow noon, which shows that the Governor and Counselors of India look upon such papers to be of some consequence. Be this as it may, my reason for taking notice of it in this Journal, is because I am well inform'd that it is but of very late years that the Dutch have taken upon them to examine all Ships that pass these Streights. At 10 o'Clock we weigh'd with a light breeze at South-West, but did little more than stem the Current. At Noon, Bantam Point<em> Bantam Point, now called St. Nicholas Point, is the north-west point of Java, and forms the north-eastern extreme of Sunda Strait.</em> and Pula Baba, in one bearing East by North, distant from the Point 1 1/2 Mile. Latitude observed, 5 degrees 53 minutes South.",
+        "diary": "Friday, 5th. At 5 in the P.M. we weighed with a light breeze at South-West by South, which continued not long before it fell Calm, and obliged us to Anchor again. At 1 o'Clock we weigh'd with the Land wind at South-South-East, which died away in the Morning, and the Current running strong against us we Anchor'd in 17 fathoms. A little before this, a Proe came alongside, wherein was a Dutch Officer who came upon the same business as the other. He sent me down a printed paper in English containing 9 Articles or Questions, of which this is a Copy.",
         "date": "1770-10-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-06": {
-        "diary": "Sunday 7th. Light Air from the Southward with frequent Calms. At 6 o'Clock P.M., weighed with a light breeze at South-South-West, which was not sufficient to stem the current, and was therefore obliged to come too again, in 15 fathoms. At 10 o'Clock weighed again and stood to the Eastward with the Wind at South-South-East. At 11 A.M., Anchor'd in 21 fathoms, the West end of Wapping Island bore South, distant 3 Miles, and the Thousand Islands North by East 1/2 East, distant 3 or 4 Miles. Found the Current still set to the Westward.",
+        "diary": "Saturday, 6th. At 2 o'Clock P.M., finding we could not stem the Current, we anchor'd, with the Kedge Anchor, under Bantam Point, where we lay until 9, at which time Current made Slowly to the Eastward, and at the same time a light breeze springing up, we weigh'd and stood to the East until 10 o'Clock in the A.M., when the Current oblig'd us again to Anchor in 22 fathoms, Pula Baba bearing East by South 1/2 South, distant 3 or 4 Miles. Our sounding from Bantam Point to this place was from 36 to 22 fathoms.",
         "date": "1770-10-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8694,46 +7030,30 @@
         "date": "1770-10-08",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-09": {
-        "diary": "[Arrival at Batavia.]",
+        "diary": "Tuesday, 9th. A little past Noon weigh'd with a light breeze at North-East, and stood to the Eastward until 5 o'Clock, when, not being able to weather Pulo Pare, we Anchor'd in 30 fathoms, the said Island extending from South-East to South-South-West, distant 1 Mile. At 10 got the land wind at South, with which we weighed and stood to the East-South-East all night; depth of water, from 30 to 22 fathoms, and from 22 to 16 fathoms. When we Anchor'd at 10 o'Clock in the A.M. to wait for the Sea breeze, the Island of Edam bore South-West by West, distant 6 or 7 Miles. At Noon we weighed and stood in for Batavia Road, having the advantage of the Sea breeze at North-North-East.",
         "date": "1770-10-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
-        "chapter": "Arrival at Batavia.",
+        "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-10": {
-        "diary": "In the morning I went on shore myself and had the foregoing request Translated into Dutch by a Scotch Gentleman, a Merchant here.",
+        "diary": "Wednesday, 10th, according to our reckoning, but by the people here Thursday, 11th. At 4 o'Clock in the P.M. Anchor'd in Batavia road, where we found the Harcourt Indiaman from England, 2 English Country Ships,<em> A country ship is a vessel under the English flag, but belonging to a port in English possessions abroad.</em> 13 Sail of large Dutch Ships, and a number of small Vessels. As soon as we Anchor'd<em> The Endeavour took nine days, and had to anchor fifteen times, in getting from Java Head, at the entrance of Sunda Strait, to Batavia, a distance of 120 miles.</em> I sent Lieutenant Hicks a shore to acquaint the Governor of our Arrival, and to make an excuse for not Saluting; as we could only do it with 3 Guns I thought it was better let alone.",
         "date": "1770-10-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
-        "chapter": "At Batavia.",
+        "chapter": "Arrival at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-12": {
-        "diary": "In the morning I went on shore to the Council Chamber and laid my request before the Governour and Council, who gave me for answer that I should have every thing I wanted.",
+        "diary": "Friday, 12th. At 5 o'clock P.M. I was introduced to the Governor-General, who received me very politely and told me that I should have every thing I wanted, and that in the Morning my request should be laid before the Council where I was desir'd to attend.",
         "date": "1770-10-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8742,10 +7062,6 @@
         "date": "1770-10-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8754,10 +7070,6 @@
         "date": "1770-10-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8766,22 +7078,14 @@
         "date": "1770-10-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-16": {
-        "diary": "\"JAMES COOK.\"",
+        "diary": "Tuesday, 16th. Finding, by a strict inquiry, that there were no private person or persons in the place that could at this time advance me a sufficient sum of money to defray the charge I might be at in repairing and refitting the Ship--at least, if there were any, they would be afraid to do it without leave from the Governor--wherefore I had nothing left but to apply to the Governor himself, and accordingly drew up the following request, which I laid before the Governor and Council this morning, in consequence of which the Shebander had orders to supply me with what money I wanted out of the Company's Treasure:--",
         "date": "1770-10-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8790,22 +7094,14 @@
         "date": "1770-10-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-18": {
-        "diary": "At 9 Anchor'd in 7 fathoms off Coopers Island, which lies close to Onrust. There are wharfs at both of these Islands, and ships land there stores, sometimes on the one and sometimes on the other, but it is only at Onrust where the proper conveniences are for heaving down. Soon after we Anchor'd I went on shore to the Officer of the Yard, to see if they could not allow us some place to land our stores, but this could not be granted without orders.",
+        "diary": "Thursday, 18th. In the P.M. received on board 2 live Oxen, 150 Gallons of Arrack, 3 Barrels of Tar, and one of Pitch; at daylight in the A.M. took up our Anchor and run down to Onrust.",
         "date": "1770-10-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8814,10 +7110,6 @@
         "date": "1770-10-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8826,10 +7118,6 @@
         "date": "1770-10-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8838,10 +7126,6 @@
         "date": "1770-10-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8850,23 +7134,15 @@
         "date": "1770-10-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-23": {
-        "diary": "[Reports Sent Home from Batavia.]",
+        "diary": "Tuesday, 23rd. In the P.M. hauled along side one of the Wharfes, in order to take out our stores, etc., after which the Ship is to be deliver'd into the Charge of the proper Officers at Onrust, who will (as I am inform'd) heave her down, and repair her, with their own people, while ours must stand and look on, who, if we were permitted, could do every thing wanting to the Ship ourselves.<em> Here Mr. Corner's copy of the Journal ends abruptly. The record for the next day explains the reason, and there is no doubt that this was the copy of the Journal sent home. The Queen's copy ends on 10th October. The remainder of the Journal is taken from the Admiralty copy.</em>",
         "date": "1770-10-23",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
-        "chapter": "Reports Sent Home from Batavia.",
+        "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-24": {
@@ -8874,35 +7150,23 @@
         "date": "1770-10-24",
         "weather": "",
         "wind": "",
-        "location": [
-            -7.566666666666666,
-            -252.38333333333333
-        ],
         "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-25": {
-        "diary": "\"Although the discoveries made in this voyage are not great.\" In these modest words does Cook describe his work. I read them to mean that with his love of accuracy he did not wish to claim his explorations of New Zealand and the East Coast of Australia as discoveries, as it was already known that lands existed there; but seeing how little was known, and how completely he did his work, there are but few men who would have refrained from classing them, as indeed he truly might have, as discoveries.)",
+        "diary": "Thursday, 25th. In the evening I sent the Admiralty Packet on board the Kronenburg, Captain Fredrick Kelger, Commodore, who, together with another Ship, sails immediately for the Cape, where she waits for the remainder of the Fleet.*",
         "date": "1770-10-25",
-        "weather": "heavy-rain",
+        "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-26": {
-        "diary": "[Heaving down at Batavia.]",
+        "diary": "Friday, 26th. Set up the Ship's Tent for the reception of the Ship's Company, several of them begin to be taken ill, owing, as I suppose, to the extream hot weather.",
         "date": "1770-10-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
-        "chapter": "Heaving down at Batavia.",
+        "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-27": {
@@ -8910,10 +7174,6 @@
         "date": "1770-10-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8922,22 +7182,14 @@
         "date": "1770-10-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-10-29": {
-        "diary": "Thursday, November 1st. Got every thing out of the Ship, and all clear for going alongside of the Carreening, but about Noon I received a message from the Officer at Onrust acquainting me that they could not receive us there until they had first despatched the Ships bound to Europe, which were down here taking in pepper.",
+        "diary": "Monday, 29th, Tuesday, 30th, Wednesday, 31st. Employ'd clearing the Ship.",
         "date": "1770-10-29",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8946,10 +7198,6 @@
         "date": "1770-11-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8958,10 +7206,6 @@
         "date": "1770-11-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8970,10 +7214,6 @@
         "date": "1770-11-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8982,10 +7222,6 @@
         "date": "1770-11-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -8994,10 +7230,6 @@
         "date": "1770-11-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9006,10 +7238,6 @@
         "date": "1770-11-09",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9018,10 +7246,6 @@
         "date": "1770-11-10",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9030,10 +7254,6 @@
         "date": "1770-11-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9042,10 +7262,6 @@
         "date": "1770-11-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9054,10 +7270,6 @@
         "date": "1770-11-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9066,10 +7278,6 @@
         "date": "1770-11-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9078,10 +7286,6 @@
         "date": "1770-11-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9090,10 +7294,6 @@
         "date": "1770-11-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9102,35 +7302,23 @@
         "date": "1770-11-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-11-26": {
-        "diary": "THURSDAY, 27th. Moderate breezes at West and North-West, with fair weather. At 6 a.m. weighed, and stood out to Sea; at Noon the Island of Edam bore North by East, distant 3 miles.",
+        "diary": "Wednesday, 26th. In the P.M. myself, Mr. Banks, and all the Gentlemen came on board, and at 6 a.m. weigh'd and came to sail with a light breeze at South-West. The Elgin Indiaman saluted us with 3 cheers and 13 Guns, and soon after the Garrison with 14, both of which we return'd. Soon after this the Sea breeze set in at North by West, which obliged us to Anchor just without the Ships in the Road. The number of Sick on board at this time amounts to 40 or upwards, and the rest of the Ship's Company are in a weakly condition, having been every one sick except the Sailmaker, an old Man about 70 or 80 years of age; and what is still more extraordinary in this man is his being generally more or less drunk every day. But notwithstanding this general sickness, we lost but 7 men in the whole: the Surgeon, 3 Seamen, Mr. Green's Servant, and Tupia and his Servant, both of which fell a sacrifice to this unwholesome climate before they had reached the object of their wishes. Tupia's death, indeed, cannot be said to be owing wholy to the unwholesome air of Batavia; the long want of a Vegetable Diet, which he had all his life before been used to, had brought upon him all the Disorders attending a Sea life. He was a shrewd, sensible, ingenious man, but proud and obstinate, which often made his situation on board both disagreeable to himself and those about him, and tended much to promote the diseases which put a Period to his Life.<em> It is rather curious that Cook does not here record his sense of the value of Tupia's services as interpreter, which he has before alluded to in the Journal. There is no doubt that his presence on board when the ship was in New Zealand was the greatest advantage, affording a means of communication with the natives, which prevented the usual gross misunderstandings which arise as to the object of the visit of an exploring ship. Without him, even with Cook's humane intention and good management, friendly relations would have been much more difficult to establish.</em>",
         "date": "1770-11-26",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
-        "chapter": "Description of Batavia.",
-        "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
+        "chapter": "At Batavia.",
+        "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-11-27": {
-        "diary": "[At Batavia.]",
+        "diary": "Tuesday, 27th, Wednesday, 28th, Thursday, 29th, Friday, 30th, [December 1770.] Saturday, December 1st, Sunday, 2nd, Monday, 3rd, Tuesday, 4th, Wednesday, 5th, Thursday, 6th, Friday, 7th. Employ'd getting on board Stores, Provisions, Water, rigging the Ship, repairing and bending the Sails. On the last of these days, having got all the Sick on board, and every other thing from the Island, we hauled off from the Wharfe with a design to run up to Batavia road, but the Wind proving scant obliged us to lay at anchor.",
         "date": "1770-11-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
-        "chapter": "At Batavia.",
+        "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
     "1770-11-18": {
@@ -9138,10 +7326,6 @@
         "date": "1770-11-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9150,10 +7334,6 @@
         "date": "1770-11-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9162,10 +7342,6 @@
         "date": "1770-11-25",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -9206,13 +7382,13 @@
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1770-12-31": {
-        "diary": "Friday, February 1st. Fresh Gales, with flying showers of rain. Clean'd between Decks, and washed with Vinegar. Wind South-East by South; course South 58 1/2 degrees West; distance 119 miles; latitude 14 degrees 44 minutes South; longitude 261 degrees 40 minutes West.",
+        "diary": "Thursday, 31st. First part Moderate and fair, the remainder frequent Squalls, attended with Showers of Rain. In the course of this 24 Hours we have had 4 men died of the Flux, viz., John Thompson, Ship's Cook; Benjamin Jordan, Carpenter's Mate; James Nickolson and Archibald Wolf, Seamen; a melancholy proof of the calamitieous situation we are at present in, having hardly well men enough to tend the Sails and look after the Sick, many of whom are so ill that we have not the least hopes of their recovery. Wind East-South-East; course South-West; distance 80 miles; latitude 13 degrees 42 minutes South; longitude 259 degrees 55 minutes West.",
         "date": "1770-12-31",
-        "weather": "heavy-rain",
-        "wind": "s",
+        "weather": "",
+        "wind": "e",
         "location": [
-            -14.733333333333333,
-            -261.6666666666667
+            -13.7,
+            -259.9166666666667
         ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
@@ -9222,10 +7398,6 @@
         "date": "1770-12-01",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9234,10 +7406,6 @@
         "date": "1770-12-02",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9246,10 +7414,6 @@
         "date": "1770-12-03",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9258,23 +7422,15 @@
         "date": "1770-12-04",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1770-12-05": {
-        "diary": "[At Anchor. Princes Island, Sunda Strait.]",
+        "diary": "Saturday, 5th. Had fresh breezes at South-West, with squally, rainy weather until the evening, when it clear up, and the wind veer'd to South and South-East, with which we stood to the South-West all night. In the morning the wind veer'd to North-East, which was still in our favour; at noon Princes Island bore West 1/2 South, distant 3 Leagues.",
         "date": "1770-12-05",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
-        "chapter": "At Anchor. Princes Island, Sunda Strait.",
+        "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1770-12-06": {
@@ -9282,23 +7438,15 @@
         "date": "1770-12-06",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "At Anchor. Princes Island, Sunda Strait.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1770-12-07": {
-        "diary": "[Batavia to Capetown.]",
+        "diary": "Monday, 7th. From this day till Monday 14th we were employ'd wooding and watering, being frequently interrupted by heavy rains. Having now compleated both we hoisted in the Long boat, and made ready to put to Sea, having on board a pretty good stock of refreshments, which we purchased of the natives, such as Turtle, Fowls, Fish, two species of Deer, one about as big as a small sheep, the other no bigger than a Rabbit; both sorts eat very well, but are only for present use, as they seldom lived above 24 hours in our possession. We likewise got fruit of several sorts, such as Cocoa Nutts, plantains, Limes, etc. The Trade on our part was carried on chiefly with money (Spanish Dollars); the natives set but little value upon any thing else. Such of our people as had not this Article traded with Old Shirts, etc., at a great disadvantage.",
         "date": "1770-12-07",
-        "weather": "",
+        "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
-        "chapter": "Batavia to Capetown.",
+        "chapter": "At Anchor. Princes Island, Sunda Strait.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1770-12-15": {
@@ -9306,10 +7454,6 @@
         "date": "1770-12-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -10.5,
-            -150.78333333333333
-        ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9546,10 +7690,6 @@
         "date": "1771-02-09",
         "weather": "",
         "wind": "s",
-        "location": [
-            -19.4,
-            -276.6666666666667
-        ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9643,8 +7783,8 @@
         "weather": "heavy-rain",
         "wind": "s",
         "location": [
-            -22.866666666666667,
-            -292.3333333333333
+            -23.333333333333332,
+            -295.1333333333333
         ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
@@ -9770,13 +7910,13 @@
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-02-28": {
-        "diary": "Friday, March 1st. Fresh Gales and Cloudy. Found the Bitts which secures the foot of the Bowsprit, loose; this obliged us to put before the wind until they were secured in the best manner our situation would admit; this done, we hauld our wind again to the Westward under the Courses and close Reef'd Topsails. Wind South-West to South by West; course South 86 degrees 45 minutes West; distance 71 miles; latitude 29 degrees 41 minutes South; longitude 320 degrees 26 minutes West.",
+        "diary": "Thursday, 28th. Moderate breezes and fair weather until near 5 o'Clock in the A.M., when a heavy Squall from the South-West, attended with rain, took us all aback, and obliged us to put before the wind, the better to take in our Sails; but before this could be done the Foretopsail was split in several places. By 6 o'clock the Topsails and Mainsail were handed, and we brought too under the Foresail and Mizen; at 8 it fell more moderate, and we set the Mainsail, and brought another Foretopsail to the Yard; at Noon had strong Gales and Cloudy weather. Wind North-East by East, North, and South-West; course South 85 1/2 degrees West; distance 88 miles; latitude 29 degrees 37 minutes South; longitude 319 degrees 5 minutes West.",
         "date": "1771-02-28",
-        "weather": "",
-        "wind": "sw",
+        "weather": "heavy-rain",
+        "wind": "ne",
         "location": [
-            -29.683333333333334,
-            -320.43333333333334
+            -29.616666666666667,
+            -319.0833333333333
         ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
@@ -9806,15 +7946,15 @@
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-04": {
-        "diary": "[Off Coast of Natal.]",
+        "diary": "Monday, 4th. In the P.M. had a moderate breeze, which continued until 5 o'clock in the A.M., when it fell calm, and soon after a breeze sprung up at South-West. In the Evening, and most part of the Night, the weather was dark and cloudy, with much Lightning to the Westward. Variation 25 degrees 35 minutes West. Winds North-East to South-West; course South 67 degrees 45 minutes West; distance 87 miles; latitude 31 degrees 54 minutes South; longitude 324 degrees 36 minutes West.",
         "date": "1771-03-04",
-        "weather": "",
+        "weather": "cloudy",
         "wind": "",
         "location": [
             -31.9,
             -324.6
         ],
-        "chapter": "Off Coast of Natal.",
+        "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-05": {
@@ -9834,10 +7974,6 @@
         "date": "1771-03-06",
         "weather": "heavy-rain",
         "wind": "s",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9846,10 +7982,6 @@
         "date": "1771-03-07",
         "weather": "cloudy",
         "wind": "s",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9858,10 +7990,6 @@
         "date": "1771-03-08",
         "weather": "",
         "wind": "e",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9870,10 +7998,6 @@
         "date": "1771-03-09",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9882,23 +8006,15 @@
         "date": "1771-03-10",
         "weather": "",
         "wind": "ne",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-11": {
-        "diary": "[Off Cape Agulhas.]",
+        "diary": "Monday, 11th. First part light Airs at West; the remainder had a fresh gale at South-East, with which we steer'd West and West-North-West, in order to make the Land, which was seen from the Deck at 10 A.M. At Noon it extended from North-East to North-West, distant 5 Leagues; the middle appear'd high and mountainous, and the two Extremes low. Took several Observations of the Sun and Moon, which gave the Longitude, reduced to Noon, as per Column. Wind Ditto South-East; course North 85 degrees West; distance 79 miles; latitude 34 degrees 45 minutes South; longitude 338 degrees 48 minutes West per Observation, 328 degrees 35 minutes per Reckoning.",
         "date": "1771-03-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -32,
-            -331.48333333333335
-        ],
-        "chapter": "Off Cape Agulhas.",
+        "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-12": {
@@ -9918,10 +8034,6 @@
         "date": "1771-03-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9930,23 +8042,15 @@
         "date": "1771-03-14",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-15": {
-        "diary": "[At Anchor. Table Bay.]",
+        "diary": "Friday, 15th. Strong Gales at South-East all the Afternoon and most part of the Night, though in the Evening it fell a little moderate, which gave the Indiaman's Boat an opportunity to come on board us, with a Complement of a Basket of Fruit, etc,; she was the Admiral Pocock, Captain Riddell, homeward bound from Bombay. In the morning we got under sail, and stood into the Road, having variable light airs mostly from the Sea. A Dutch boat from the Shore came on board, in which were the Master Attendant and some other Gentlemen; the former directed us to a proper birth, where about 10 o'clock we anchored in 7 fathoms water, a Ouzey bottom; the Lyon Tail, or West point of the Bay, bore West-North-West, and the Castle South-West, distance 1 1/2 miles. I now sent a Petty Officer on shore to know if they would return our Salute, but before he return'd we Saluted, which was immediately return'd with the same number of Guns; after this I waited myself upon the Governour, who was pleased to tell me that I should have everything I wanted that the place afforded. My first care was to provide a proper place ashore for the reception of the Sick, for which purpose I order'd the Surgeon to look out for a House where they could be lodged and dieted. This he soon found, and agreed with the people of the house for 2 shillings a day per man; which I found was the customary Price and method of proceeding. I afterwards gave the Surgeon an order to superintend the whole.",
         "date": "1771-03-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
-        "chapter": "At Anchor. Table Bay.",
+        "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-16": {
@@ -9954,10 +8058,6 @@
         "date": "1771-03-16",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9966,10 +8066,6 @@
         "date": "1771-03-17",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9978,10 +8074,6 @@
         "date": "1771-03-18",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -9990,10 +8082,6 @@
         "date": "1771-03-19",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10002,10 +8090,6 @@
         "date": "1771-03-20",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10014,10 +8098,6 @@
         "date": "1771-03-21",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10026,10 +8106,6 @@
         "date": "1771-03-22",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10038,10 +8114,6 @@
         "date": "1771-03-27",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10050,10 +8122,6 @@
         "date": "1771-03-28",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10062,22 +8130,14 @@
         "date": "1771-03-30",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-03-31": {
-        "diary": "Monday, April 1st. In the P.M. I observed a dark, dence haze like a Fog bank in the South-East Horizon, and which clouds began to gather over the Table Mountain; certain signs of an approaching gale from the same Quarter, which about 4 o'clock began to blow with great voialance, and continued more or less so the Remainder of these 24 Hours, the Table Mountain cap'd with White Clouds all the time. The weather dry and clear.",
+        "diary": "Sunday, 31st. Clear pleasant weather all this day. In the Morning we got on board a whole Ox, which we cut up and salted. I had eat ashore some of as good and Fat Beef as ever I eat in my life, and was told that I might have as good to salt; but in this I was very much disappointed. The one I got was thin and Lean, yet well taisted; it weighed 408 pounds.",
         "date": "1771-03-31",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10086,10 +8146,6 @@
         "date": "1771-04-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10098,10 +8154,6 @@
         "date": "1771-04-03",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10110,10 +8162,6 @@
         "date": "1771-04-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10122,10 +8170,6 @@
         "date": "1771-04-05",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10134,10 +8178,6 @@
         "date": "1771-04-06",
         "weather": "heavy-rain",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10146,10 +8186,6 @@
         "date": "1771-04-07",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10158,10 +8194,6 @@
         "date": "1771-04-08",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10170,10 +8202,6 @@
         "date": "1771-04-09",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10182,10 +8210,6 @@
         "date": "1771-04-10",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10194,10 +8218,6 @@
         "date": "1771-04-11",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10206,10 +8226,6 @@
         "date": "1771-04-12",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10218,10 +8234,6 @@
         "date": "1771-04-13",
         "weather": "",
         "wind": "",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -10230,24 +8242,16 @@
         "date": "1771-04-14",
         "weather": "",
         "wind": "w",
-        "location": [
-            -34.96666666666667,
-            -339.3833333333333
-        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-04-15": {
-        "diary": "TUESDAY, 16th. At 2 o'clock in the P.M. saw a large Ship behind the Island, under French Colours, standing into Table Bay; at 3 weigh'd with a Light breeze at South-East, and put to Sea; at 4 departed this Life Mr. Robert Molineux Master, a young man of good parts, but had unfortunately given himself up to Extravagancy and intemperance, which brought on disorders that put a Period to his Life. At 6 we had the Table Mountain and the Penguin Island in one bearing South-South-East, distant from the latter about 4 or 5 Leagues; had it calm most part of the night. In the morning a light breeze sprung up Southerly, with which we steer'd North-West; at noon we were by Observation in Latitude 33 degrees 30 minutes South. The Table Mountain bore South 54 degrees East, distant 14 Leagues. N.B. The Table Mountain lies directly over the Cape Town, from which last I take my departure; it lies in the Latitude of 33 degrees 56 minutes South, and Longitude 341 degrees 37 minutes West from Greenwich.",
+        "diary": "Monday, 15th. None of the Ships in the Offing are yet arrived. Desirous as we must be of hearing news from England, I detemmin'd not to wait the arrival of these Ships, but took the advantage of a breeze of wind from the West-South-West; weigh'd and stood out of the Bay, saluted with 13 Guns, which Complement was return'd both by the Castle and Dutch Commodore. The Europa Saluted us as we passed her, which we return'd. This Ship was to have sail'd with or before us, but not liking the opportunity she lay fast. At 5 in the Evening anchor'd under Penguin or Robin Island in 10 fathoms water, the Island extending from West-North-West to South-South-West, distant 1 1/2 or 2 miles.",
         "date": "1771-04-15",
         "weather": "",
         "wind": "",
-        "location": [
-            -33.93333333333333,
-            -341.6166666666667
-        ],
-        "chapter": "Remarks on Cape of Good Hope.",
-        "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
+        "chapter": "At Anchor. Table Bay.",
+        "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
     "1771-04-17": {
         "diary": "Wednesday, 17th. Fresh breezes and fair weather, with a swell from the South-West. Wind Southerly; course North 50 degrees West; distance 118 miles; latitude 32 degrees 14 minutes South, longitude 344 degrees 8 minutes West.",
@@ -10406,7 +8410,7 @@
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-04-30": {
-        "diary": "Wednesday, May 1st. Fresh Trade and Pleasant weather. At 6 A.M. saw the Island of St. Helena bearing West, distant 8 or 9 Leagues. At Noon Anchor'd in the Road, before James's Fort, in 24 fathoms water. Found riding here His Majesty's Ship Portland and Swallow<em> This was not the same Swallow that preceded Cook in circumnavigation. She had been broken up.</em> Sloop, and 12 Sail of Indiaman. At our first seeing the Fleet in this Road we took it for granted that it was a War; but in this we were soon agreeably deceived. The Europa Indiaman Anchor'd here a little before us; she sail'd from the Cape 2 days after us, and brings an account the French Ship we saw standing into Table Bay was a French Man of War, of 64 Guns, bound to India, and that there were 2 more on their Passage. Wind South-East. At noon at Anchor in St. Helena Road.",
+        "diary": "Tuesday, 30th. Fresh Gales and Pleasant weather. Exercised the people at Great Guns and Small Arms. Wind South-East; course North 58 degrees West South, distance 126 miles; latitude 16 degrees 11 minutes South, longitude 2 degrees 42 minutes West.",
         "date": "1771-04-30",
         "weather": "",
         "wind": "s",
@@ -10422,10 +8426,6 @@
         "date": "1771-05-02",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.183333333333334,
-            -2.7
-        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -10434,10 +8434,6 @@
         "date": "1771-05-03",
         "weather": "",
         "wind": "s",
-        "location": [
-            -16.183333333333334,
-            -2.7
-        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -10446,10 +8442,6 @@
         "date": "1771-05-04",
         "weather": "",
         "wind": "",
-        "location": [
-            -16.183333333333334,
-            -2.7
-        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -10610,15 +8602,15 @@
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-05-19": {
-        "diary": "[With India Fleet. Homeward Bound.]",
+        "diary": "Sunday, 19th. Cloudy, unsettled weather, with some rain. In the A.M. found the Variation by the Amplitude and Azimuth 7 degrees 40 minutes West. Hoisted a Boat out, and sent on board the Houghton for the Surgeon, Mr. Carret, in order to look at Mr. Hicks, who is so far gone in a Consumption that his Life is dispair'd of. Observation at Noon 16 Miles to the Northward of the Log. Wind South-East to South by East; course North 20 degrees West; distance 98 miles; latitude 4 degrees 32 minutes North, longitude 21 degrees 58 minutes West.",
         "date": "1771-05-19",
-        "weather": "",
-        "wind": "",
+        "weather": "heavy-rain",
+        "wind": "s",
         "location": [
             4.533333333333333,
             -21.966666666666665
         ],
-        "chapter": "With India Fleet. Homeward Bound.",
+        "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-05-20": {
@@ -10674,10 +8666,6 @@
         "date": "1771-05-24",
         "weather": "heavy-rain",
         "wind": "ne",
-        "location": [
-            7.816666666666666,
-            -26.033333333333335
-        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -10754,13 +8742,13 @@
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-05-31": {
-        "diary": "Saturday, June 1st. Fresh Trade, and Cloudy weather. In the A.M. got up Top Gallant Yards. Wind North-East; course North 35 degrees West; distance 100 miles; latitude 20 degrees 12 minutes North, longitude 36 degrees 41 minutes West.",
+        "diary": "Friday, 31st. Strong Gales and Cloudy in the Evening. Got down Top Gallant Yards, and in the Morning found the Variation 5 degrees 9 minutes West. Wind North-East and North-East by East; course North 39 1/2 degrees West; distance 136 miles; latitude 18 degrees 50 minutes North, longitude 35 degrees 40 minutes West.",
         "date": "1771-05-31",
         "weather": "",
         "wind": "ne",
         "location": [
-            20.2,
-            -36.68333333333333
+            18.833333333333332,
+            -35.666666666666664
         ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
@@ -10818,10 +8806,6 @@
         "date": "1771-06-06",
         "weather": "",
         "wind": "e",
-        "location": [
-            26.016666666666666,
-            -43.3
-        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -11102,13 +9086,13 @@
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-06-30": {
-        "diary": "Monday, July 1st. Ditto weather. In the Night passed 2 Sail Standing to the South-West. Wind Ditto; course North 77 degrees 15 minutes East; distance 90 miles; latitude 44 degrees 54 minutes North, longitude 13 degrees 59 minutes West.",
+        "diary": "Sunday, 30th. Gentle breezes and fair weather. Variation in the Evening 18 degrees 30 minutes West, and in the Morning 19 degrees 30 minutes. Wind Northerly; course North 50 degrees 45 minutes East; distance 87 miles; latitude 44 degrees 34 minutes North, longitude 16 degrees 2 minutes West.",
         "date": "1771-06-30",
         "weather": "",
-        "wind": "",
+        "wind": "n",
         "location": [
-            44.9,
-            -13.983333333333333
+            44.56666666666667,
+            -16.033333333333335
         ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
@@ -11226,10 +9210,6 @@
         "date": "1771-07-11",
         "weather": "hazy",
         "wind": "",
-        "location": [
-            49.483333333333334,
-            -6.3
-        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -11238,22 +9218,14 @@
         "date": "1771-07-12",
         "weather": "",
         "wind": "",
-        "location": [
-            49.483333333333334,
-            -6.3
-        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
     "1771-07-13": {
-        "diary": "Now I am upon the Subject of discoveries, I hope it will not be taken amiss if I give it as my opinion that the most feasable method of making further discoveries in the South Sea is to enter it by the way of New Zeland, first touching and refreshing at the Cape of Good Hope; from thence proceed to the Southward of New Holland for Queen Charlotte's Sound, where again refresh Wood and water, taking care to be ready to leave that place by the latter end of September, or beginning of October at farthest, when you would have the whole Summer before you, and after getting through the Strait, might, with the prevailing Westerly Winds, run to the Eastward in as high a Latitude as you please, and if you meet with no lands would have time enough to get round Cape Horne before the Summer was too far spent; but if after meeting with no Continent, and you had other objects in view, then haul to the Northward, and after visiting some of the Islands already discovered, after which proceed with the trade wind back to the Westward in search of those before mentioned--thus the discoveries in the South Sea would be compleat.<em> This programme Cook carried out in his second voyage in the most complete manner possible.</em>",
+        "diary": "Saturday, 13th. At 3 o'clock in the P.M. anchor'd in the Downs, and soon after I landed in order to repair to London.",
         "date": "1771-07-13",
         "weather": "",
         "wind": "",
-        "location": [
-            49.483333333333334,
-            -6.3
-        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     }

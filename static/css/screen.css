@@ -21,8 +21,11 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    font-family: 'Old Standard TT', serif;
 }
-
+em {
+    color:#ccc;
+}
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
@@ -78,10 +81,6 @@ textarea {
     resize: vertical;
 }
 
-/* ==========================================================================
-   Chrome Frame prompt
-   ========================================================================== */
-
 .chromeframe {
     margin: 0.2em 0;
     background: #ccc;
@@ -89,41 +88,43 @@ textarea {
     padding: 0.2em 0;
 }
 
-/* ==========================================================================
-   App styles
-   ========================================================================== */
-
-#map-container {
+/* Map styles */
+#map {
     width: 100%;
     height: 100%;
     position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    bottom: 0px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
-.entry {
+.marker {
+    width:4px;
+    height:4px;
+    border-radius:4px;
+    margin-left:-2px;
+    margin-top:-2px;
+    background-color: rgba(0,0,0,0.4);
+    pointer-events:all;
+    position:absolute;
+}
+
+/* Entry styles */
+#entry {
     position: absolute;
     top:0;
     right:0;
     bottom:0;
     width:25%;
     background-color: rgba(255,255,255,0.8);
+    padding:10px 25px;
+    overflow-y:auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.chapter {
+    text-transform: lowercase;
+    font-variant: small-caps;
+    font-size: 1.4em;
+}
 
 /* ==========================================================================
    Helper classes

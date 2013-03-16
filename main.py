@@ -20,6 +20,7 @@ import logging
 import os
 import webapp2
 import datetime
+from google.appengine.api import memcache
 
 
 def get_jinja2_template(path):
@@ -40,10 +41,16 @@ def get_journal_date_for(date):
 
 def get_journal_entry(date):
     # Gets a journal entry for the given date
-    json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
-    json_data = json.loads(file(json_path, 'rb').read())
-
-    return json_data[date]
+    cache_key = 'entry-'+date
+    journal_entry = memcache.get(cache_key)
+    if journal_entry is not None:
+        return journal_entry
+    else:
+        json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
+        json_data = json.loads(file(json_path, 'rb').read())
+        journal_entry = json_data[date]
+        memcache.add(cache_key, journal_entry, 60)
+        return journal_entry
 
 
 # http://remote.bergcloud.com/developers/reference/metajson

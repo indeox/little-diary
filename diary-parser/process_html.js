@@ -26,6 +26,7 @@ for (var i = 0; i < chaptersDom.length; i++) {
   var chapterBanner = extractChapterBanner(chapterDom);
 
   var p = xpath.select("//p", chapterDom);
+  var cachedLocation;
   for (var j = 0; j < p.length; j++) {
     var paragraphDom = new dom().parseFromString(p[j].toString()); 
     var paragraph = xpath.select("//p/text()", paragraphDom).toString();
@@ -38,7 +39,6 @@ for (var i = 0; i < chaptersDom.length; i++) {
       bookmark = bm;
     }
 
-    extractLocation(paragraph);
     var entryDate = extractDiaryEntryDate(paragraph);
     if (entryDate) {
       historicalDate = moment(currentMonth + " " + entryDate + " " + currentYear);
@@ -48,18 +48,21 @@ for (var i = 0; i < chaptersDom.length; i++) {
     }
 
     var cleanParagraph = cleanParagraphText(paragraph);
-
+    var location = extractLocation(paragraph);
+    if (!location) {
+      location = cachedLocation;
+    } 
 
     diaryEntries[historicalDate.format("YYYY-MM-DD").valueOf()]  = {
       diary: cleanParagraph,
       date: historicalDate.format("YYYY-MM-DD").valueOf(),
       weather: decideWeather(paragraph),
       wind: decideWind(paragraph),
-      location: extractLocation(paragraph),
+      location: location,
       chapter: bookmark,
       chapterBanner: chapterBanner
     };
-
+    cachedLocation = location;
   }
 
 }
@@ -131,7 +134,7 @@ latitude 30 degrees 46 minutes North, longitude 16 degrees 8 minutes South;
 latitude 9 degrees 1 minute South, longitude 33 degrees 16 minutes West.
   longitude 45 degrees 14 minutes West
 */
-var cachedNorthSouth, cachedWestEast, cachedLatLon;
+var cachedNorthSouth, cachedWestEast;
 function extractLocation(diaryEntry) {
   // sea location
   var sentences = diaryEntry.split(/[,;\.]/);
@@ -163,20 +166,9 @@ function extractLocation(diaryEntry) {
     } 
   }
 
-  if (lat && !lon) {
-    err += 1;
-    //console.warn(diaryEntry, 'NO LONG', lat, lon, 'ERRORS: ', err)
-  }
-
- if (!lat && lon) {
-    err += 1;
-    //console.warn(diaryEntry, 'NO LAT', lat, lon, 'ERRORS: ', err)
-  }
-
   if (lat && lon) {
-    cachedLatLon = [lat,lon];
-    return cachedLatLon;
-  } 
+    return [lat,lon];
+  }
 
 }
 

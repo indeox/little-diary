@@ -226,6 +226,10 @@
         "date": "1768-09-04",
         "weather": "",
         "wind": "w",
+        "location": [
+            44.15,
+            -10.333333333333334
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -330,6 +334,10 @@
         "date": "1768-09-13",
         "weather": "hazy",
         "wind": "nw",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -338,6 +346,10 @@
         "date": "1768-09-15",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -346,6 +358,10 @@
         "date": "1768-09-16",
         "weather": "",
         "wind": "e",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -354,6 +370,10 @@
         "date": "1768-09-17",
         "weather": "",
         "wind": "w",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -362,6 +382,10 @@
         "date": "1768-09-18",
         "weather": "",
         "wind": "",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Plymouth.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -370,6 +394,10 @@
         "date": "1768-09-19",
         "weather": "",
         "wind": "e",
+        "location": [
+            32.71666666666667,
+            -15.883333333333333
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -438,6 +466,10 @@
         "date": "1768-09-25",
         "weather": "",
         "wind": "",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -446,6 +478,10 @@
         "date": "1768-09-26",
         "weather": "",
         "wind": "ne",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -454,6 +490,10 @@
         "date": "1768-09-27",
         "weather": "",
         "wind": "ne",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -462,6 +502,10 @@
         "date": "1768-09-28",
         "weather": "",
         "wind": "ne",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -470,6 +514,10 @@
         "date": "1768-09-29",
         "weather": "",
         "wind": "ne",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Sailed from Madeira.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -478,6 +526,10 @@
         "date": "1768-09-30",
         "weather": "",
         "wind": "ne",
+        "location": [
+            27.166666666666668,
+            -16.533333333333335
+        ],
         "chapter": "Off Cape de Verd Islands.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -846,6 +898,10 @@
         "date": "1768-11-02",
         "weather": "",
         "wind": "e",
+        "location": [
+            -9.016666666666667,
+            -33.266666666666666
+        ],
         "chapter": "Crossing Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -926,6 +982,10 @@
         "date": "1768-11-09",
         "weather": "heavy-rain",
         "wind": "s",
+        "location": [
+            -21.266666666666666,
+            -37.583333333333336
+        ],
         "chapter": "Crossing Equator.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -970,6 +1030,10 @@
         "date": "1768-11-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "Nearing Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -978,6 +1042,10 @@
         "date": "1768-11-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -986,6 +1054,10 @@
         "date": "1768-11-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -994,6 +1066,10 @@
         "date": "1768-11-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1002,6 +1078,10 @@
         "date": "1768-11-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1010,6 +1090,10 @@
         "date": "1768-11-19",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1018,6 +1102,10 @@
         "date": "1768-11-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1026,6 +1114,10 @@
         "date": "1768-11-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1034,6 +1126,10 @@
         "date": "1768-11-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1042,6 +1138,10 @@
         "date": "1768-11-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1050,6 +1150,10 @@
         "date": "1768-11-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1058,6 +1162,10 @@
         "date": "1768-11-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1066,6 +1174,10 @@
         "date": "1768-11-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1074,6 +1186,10 @@
         "date": "1768-11-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1082,6 +1198,10 @@
         "date": "1768-11-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1090,6 +1210,10 @@
         "date": "1768-11-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1098,6 +1222,10 @@
         "date": "1768-12-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1106,6 +1234,10 @@
         "date": "1768-12-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1114,6 +1246,10 @@
         "date": "1768-12-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1122,6 +1258,10 @@
         "date": "1768-12-04",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1130,6 +1270,10 @@
         "date": "1768-12-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1138,6 +1282,10 @@
         "date": "1768-12-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1146,6 +1294,10 @@
         "date": "1768-12-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -23.1,
+            -41.166666666666664
+        ],
         "chapter": "At Rio Janeiro.",
         "chapterBanner": "CHAPTER 1. ENGLAND TO RIO JANEIRO. "
     },
@@ -1502,6 +1654,10 @@
         "date": "1769-01-09",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -51.266666666666666,
+            -62.833333333333336
+        ],
         "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1534,6 +1690,10 @@
         "date": "1769-01-12",
         "weather": "heavy-rain",
         "wind": "n",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1542,6 +1702,10 @@
         "date": "1769-01-13",
         "weather": "heavy-rain",
         "wind": "ne",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Nearing Terra del Fuego.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1550,6 +1714,10 @@
         "date": "1769-01-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Strait of Le Maire.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1558,6 +1726,10 @@
         "date": "1769-01-15",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Strait of Le Maire.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1566,6 +1738,10 @@
         "date": "1769-01-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1574,6 +1750,10 @@
         "date": "1769-01-17",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1582,6 +1762,10 @@
         "date": "1769-01-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1590,6 +1774,10 @@
         "date": "1769-01-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1598,6 +1786,10 @@
         "date": "1769-01-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "In Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1606,6 +1798,10 @@
         "date": "1769-01-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1614,6 +1810,10 @@
         "date": "1769-01-22",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1622,6 +1822,10 @@
         "date": "1769-01-23",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -1630,6 +1834,10 @@
         "date": "1769-01-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -54.333333333333336,
+            -64.58333333333333
+        ],
         "chapter": "Sailed from Success Bay.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -2022,6 +2230,10 @@
         "date": "1769-02-27",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -41.06666666666667,
+            -109.86666666666666
+        ],
         "chapter": "Cape Horn to Tahiti.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -2330,6 +2542,10 @@
         "date": "1769-03-26",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -22.183333333333334,
+            -127.91666666666667
+        ],
         "chapter": "Passing Low Archipelago.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -2530,6 +2746,10 @@
         "date": "1769-04-13",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Arrive at Tahiti.",
         "chapterBanner": "CHAPTER 2. RIO JANEIRO TO TAHITI. REMARKABLE OCCURRENCES FROM RIO DE JANEIRO TOWARDS TERRA DEL FUEGO."
     },
@@ -2538,6 +2758,10 @@
         "date": "1769-04-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2546,6 +2770,10 @@
         "date": "1769-04-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2554,6 +2782,10 @@
         "date": "1769-04-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2562,6 +2794,10 @@
         "date": "1769-04-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2570,6 +2806,10 @@
         "date": "1769-04-18",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2578,6 +2818,10 @@
         "date": "1769-04-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2586,6 +2830,10 @@
         "date": "1769-04-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2594,6 +2842,10 @@
         "date": "1769-04-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2602,6 +2854,10 @@
         "date": "1769-04-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2610,6 +2866,10 @@
         "date": "1769-04-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2618,6 +2878,10 @@
         "date": "1769-04-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2626,6 +2890,10 @@
         "date": "1769-04-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2634,6 +2902,10 @@
         "date": "1769-05-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2642,6 +2914,10 @@
         "date": "1769-05-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2650,6 +2926,10 @@
         "date": "1769-05-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2658,6 +2938,10 @@
         "date": "1769-05-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2666,6 +2950,10 @@
         "date": "1769-05-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2674,6 +2962,10 @@
         "date": "1769-05-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2682,6 +2974,10 @@
         "date": "1769-05-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2690,6 +2986,10 @@
         "date": "1769-05-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2698,6 +2998,10 @@
         "date": "1769-05-12",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2706,6 +3010,10 @@
         "date": "1769-05-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2714,6 +3022,10 @@
         "date": "1769-05-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2722,6 +3034,10 @@
         "date": "1769-05-15",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2730,6 +3046,10 @@
         "date": "1769-05-16",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2738,6 +3058,10 @@
         "date": "1769-05-22",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2746,6 +3070,10 @@
         "date": "1769-05-23",
         "weather": "",
         "wind": "s",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2754,6 +3082,10 @@
         "date": "1769-05-24",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2762,6 +3094,10 @@
         "date": "1769-05-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2770,6 +3106,10 @@
         "date": "1769-05-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2778,6 +3118,10 @@
         "date": "1769-05-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2786,6 +3130,10 @@
         "date": "1769-05-28",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2794,6 +3142,10 @@
         "date": "1769-05-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2802,6 +3154,10 @@
         "date": "1769-05-31",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2810,6 +3166,10 @@
         "date": "1769-06-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2818,6 +3178,10 @@
         "date": "1769-06-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2826,6 +3190,10 @@
         "date": "1769-06-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2834,6 +3202,10 @@
         "date": "1769-06-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2842,6 +3214,10 @@
         "date": "1769-06-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2850,6 +3226,10 @@
         "date": "1769-06-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2858,6 +3238,10 @@
         "date": "1769-06-10",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2866,6 +3250,10 @@
         "date": "1769-06-11",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2874,6 +3262,10 @@
         "date": "1769-06-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2882,6 +3274,10 @@
         "date": "1769-06-13",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2890,6 +3286,10 @@
         "date": "1769-06-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2898,6 +3298,10 @@
         "date": "1769-06-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2906,6 +3310,10 @@
         "date": "1769-06-16",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2914,6 +3322,10 @@
         "date": "1769-06-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2922,6 +3334,10 @@
         "date": "1769-06-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2930,6 +3346,10 @@
         "date": "1769-06-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2938,6 +3358,10 @@
         "date": "1769-06-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2946,6 +3370,10 @@
         "date": "1769-06-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2954,6 +3382,10 @@
         "date": "1769-06-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2962,6 +3394,10 @@
         "date": "1769-06-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2970,6 +3406,10 @@
         "date": "1769-06-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2978,6 +3418,10 @@
         "date": "1769-06-27",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2986,6 +3430,10 @@
         "date": "1769-06-29",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -2994,6 +3442,10 @@
         "date": "1769-07-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3002,6 +3454,10 @@
         "date": "1769-07-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3010,6 +3466,10 @@
         "date": "1769-07-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Tahiti: Expedition round Island.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3018,6 +3478,10 @@
         "date": "1769-07-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Sail from Tahiti.",
         "chapterBanner": "CHAPTER 3. TAHITI. REMARKABLE OCCURRENCES, ETC., AT GEORGE'S ISLAND."
     },
@@ -3026,6 +3490,10 @@
         "date": "1769-07-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "Historical Notes, Tahiti.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3034,6 +3502,10 @@
         "date": "1769-07-16",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3042,6 +3514,10 @@
         "date": "1769-07-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3050,6 +3526,10 @@
         "date": "1769-07-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -17.633333333333333,
+            -148.96666666666667
+        ],
         "chapter": "At Huaheine.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3070,6 +3550,10 @@
         "date": "1769-07-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3078,6 +3562,10 @@
         "date": "1769-07-21",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3086,6 +3574,10 @@
         "date": "1769-07-22",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3094,6 +3586,10 @@
         "date": "1769-07-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3102,6 +3598,10 @@
         "date": "1769-07-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3110,6 +3610,10 @@
         "date": "1769-07-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "At Raiatea.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3118,6 +3622,10 @@
         "date": "1769-07-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3126,6 +3634,10 @@
         "date": "1769-07-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3134,6 +3646,10 @@
         "date": "1769-07-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3142,6 +3658,10 @@
         "date": "1769-07-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3150,6 +3670,10 @@
         "date": "1769-07-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3158,6 +3682,10 @@
         "date": "1769-07-31",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3166,6 +3694,10 @@
         "date": "1769-08-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3174,6 +3706,10 @@
         "date": "1769-08-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3182,6 +3718,10 @@
         "date": "1769-08-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3190,6 +3730,10 @@
         "date": "1769-08-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3198,6 +3742,10 @@
         "date": "1769-08-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3206,6 +3754,10 @@
         "date": "1769-08-07",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3214,6 +3766,10 @@
         "date": "1769-08-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3222,6 +3778,10 @@
         "date": "1769-08-09",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.716666666666665,
+            -150.86666666666667
+        ],
         "chapter": "Off Bolabola.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3278,6 +3838,10 @@
         "date": "1769-08-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -22.433333333333334,
+            -150.91666666666666
+        ],
         "chapter": "Sail from Society Islands.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3898,6 +4462,10 @@
         "date": "1769-10-08",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -38.95,
+            -177.9
+        ],
         "chapter": "Make New Zealand.",
         "chapterBanner": "CHAPTER 4. TAHITI TO NEW ZEALAND. REMARKABLE OCCURRENCES AT SEA."
     },
@@ -3906,6 +4474,10 @@
         "date": "1769-10-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -38.95,
+            -177.9
+        ],
         "chapter": "Make New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -3938,6 +4510,10 @@
         "date": "1769-10-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.11666666666667,
+            -181.6
+        ],
         "chapter": "Off Portland Island, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -3946,6 +4522,10 @@
         "date": "1769-10-14",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.11666666666667,
+            -181.6
+        ],
         "chapter": "Off Portland Island, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -3966,6 +4546,10 @@
         "date": "1769-10-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.71666666666667,
+            -182.4
+        ],
         "chapter": "In Hawkes Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -3986,6 +4570,10 @@
         "date": "1769-10-18",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -3994,6 +4582,10 @@
         "date": "1769-10-19",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4002,6 +4594,10 @@
         "date": "1769-10-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4010,6 +4606,10 @@
         "date": "1769-10-21",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "Returning North from Cape Turnagain.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4018,6 +4618,10 @@
         "date": "1769-10-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4026,6 +4630,10 @@
         "date": "1769-10-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4034,6 +4642,10 @@
         "date": "1769-10-24",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4042,6 +4654,10 @@
         "date": "1769-10-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4050,6 +4666,10 @@
         "date": "1769-10-26",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4058,6 +4678,10 @@
         "date": "1769-10-27",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4066,6 +4690,10 @@
         "date": "1769-10-28",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tegadoo Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4074,6 +4702,10 @@
         "date": "1769-10-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tolaga Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4082,6 +4714,10 @@
         "date": "1769-10-30",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -39.86666666666667,
+            -182.91666666666666
+        ],
         "chapter": "At Tolaga Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4102,6 +4738,10 @@
         "date": "1769-11-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.53333333333333,
+            -181.83333333333334
+        ],
         "chapter": "Off Cape Runaway, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4122,6 +4762,10 @@
         "date": "1769-11-03",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "In Bay of Plenty, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4130,6 +4774,10 @@
         "date": "1769-11-04",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "In Bay of Plenty, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4138,6 +4786,10 @@
         "date": "1769-11-05",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4146,6 +4798,10 @@
         "date": "1769-11-06",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4154,6 +4810,10 @@
         "date": "1769-11-07",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4162,6 +4822,10 @@
         "date": "1769-11-08",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4170,6 +4834,10 @@
         "date": "1769-11-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4178,6 +4846,10 @@
         "date": "1769-11-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Mercury Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4186,6 +4858,10 @@
         "date": "1769-11-11",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4194,6 +4870,10 @@
         "date": "1769-11-12",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4202,6 +4882,10 @@
         "date": "1769-11-13",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4210,6 +4894,10 @@
         "date": "1769-11-14",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4218,6 +4906,10 @@
         "date": "1769-11-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Pahs in Mercury Bay, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4226,6 +4918,10 @@
         "date": "1769-11-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4234,6 +4930,10 @@
         "date": "1769-11-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4242,6 +4942,10 @@
         "date": "1769-11-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4250,6 +4954,10 @@
         "date": "1769-11-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "Off Cape Colville, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4258,6 +4966,10 @@
         "date": "1769-11-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4266,6 +4978,10 @@
         "date": "1769-11-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4274,6 +4990,10 @@
         "date": "1769-11-22",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4282,6 +5002,10 @@
         "date": "1769-11-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.983333333333334,
+            -183.5
+        ],
         "chapter": "At Frith of Thames, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4302,6 +5026,10 @@
         "date": "1769-11-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -36.25,
+            -184.96666666666667
+        ],
         "chapter": "Description of Frith of Thames, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4310,6 +5038,10 @@
         "date": "1769-11-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -36.25,
+            -184.96666666666667
+        ],
         "chapter": "Off Cape Brett, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4330,6 +5062,10 @@
         "date": "1769-11-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "Off Cape Brett, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4338,6 +5074,10 @@
         "date": "1769-11-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4346,6 +5086,10 @@
         "date": "1769-11-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4354,6 +5098,10 @@
         "date": "1769-12-01",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4362,6 +5110,10 @@
         "date": "1769-12-02",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4370,6 +5122,10 @@
         "date": "1769-12-03",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4378,6 +5134,10 @@
         "date": "1769-12-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4386,6 +5146,10 @@
         "date": "1769-12-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "At Bay of Islands, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4394,6 +5158,10 @@
         "date": "1769-12-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4402,6 +5170,10 @@
         "date": "1769-12-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4410,6 +5182,10 @@
         "date": "1769-12-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4418,6 +5194,10 @@
         "date": "1769-12-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.166666666666664,
+            -185.41666666666666
+        ],
         "chapter": "Sail from Bay of Islands, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4438,6 +5218,10 @@
         "date": "1769-12-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.85,
+            -186.83333333333334
+        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4446,6 +5230,10 @@
         "date": "1769-12-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.85,
+            -186.83333333333334
+        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4454,6 +5242,10 @@
         "date": "1769-12-13",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -34.85,
+            -186.83333333333334
+        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4462,6 +5254,10 @@
         "date": "1769-12-14",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -34.85,
+            -186.83333333333334
+        ],
         "chapter": "Off Rangaunu Bay, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4482,6 +5278,10 @@
         "date": "1769-12-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -183.75
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4490,6 +5290,10 @@
         "date": "1769-12-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -183.75
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4498,6 +5302,10 @@
         "date": "1769-12-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -183.75
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4518,6 +5326,10 @@
         "date": "1769-12-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.03333333333333,
+            -186.91666666666666
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4526,6 +5338,10 @@
         "date": "1769-12-21",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -34.03333333333333,
+            -186.91666666666666
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4534,6 +5350,10 @@
         "date": "1769-12-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.03333333333333,
+            -186.91666666666666
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4542,6 +5362,10 @@
         "date": "1769-12-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.03333333333333,
+            -186.91666666666666
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4550,6 +5374,10 @@
         "date": "1769-12-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.03333333333333,
+            -186.91666666666666
+        ],
         "chapter": "Off North Cape, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4606,6 +5434,10 @@
         "date": "1769-12-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.833333333333336,
+            -188.45
+        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4614,6 +5446,10 @@
         "date": "1769-12-30",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -34.833333333333336,
+            -188.45
+        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4622,6 +5458,10 @@
         "date": "1769-12-31",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.833333333333336,
+            -188.45
+        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4642,6 +5482,10 @@
         "date": "1770-01-03",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -35.28333333333333,
+            -187.3
+        ],
         "chapter": "Off North End of New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4662,6 +5506,10 @@
         "date": "1770-01-05",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -35.75,
+            -185.83333333333334
+        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4670,6 +5518,10 @@
         "date": "1770-01-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.75,
+            -185.83333333333334
+        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4678,6 +5530,10 @@
         "date": "1770-01-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.75,
+            -185.83333333333334
+        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4686,6 +5542,10 @@
         "date": "1770-01-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.75,
+            -185.83333333333334
+        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4694,6 +5554,10 @@
         "date": "1770-01-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.75,
+            -185.83333333333334
+        ],
         "chapter": "Off Kaipara Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4714,6 +5578,10 @@
         "date": "1770-01-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -38.06666666666667,
+            -184.7
+        ],
         "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4722,6 +5590,10 @@
         "date": "1770-01-12",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -38.06666666666667,
+            -184.7
+        ],
         "chapter": "Off Kawhia Harbour, North Island, New Zealand.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4742,6 +5614,10 @@
         "date": "1770-01-14",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4750,6 +5626,10 @@
         "date": "1770-01-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 5. EXPLORATION OF NORTH ISLAND OF NEW ZEALAND. "
     },
@@ -4758,6 +5638,10 @@
         "date": "1770-01-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4766,6 +5650,10 @@
         "date": "1770-01-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4774,6 +5662,10 @@
         "date": "1770-01-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4782,6 +5674,10 @@
         "date": "1770-01-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4790,6 +5686,10 @@
         "date": "1770-01-21",
         "weather": "",
         "wind": "s",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4798,6 +5698,10 @@
         "date": "1770-01-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4806,6 +5710,10 @@
         "date": "1770-01-23",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4814,6 +5722,10 @@
         "date": "1770-01-24",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4822,6 +5734,10 @@
         "date": "1770-01-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4830,6 +5746,10 @@
         "date": "1770-01-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4838,6 +5758,10 @@
         "date": "1770-01-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4846,6 +5770,10 @@
         "date": "1770-01-28",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4854,6 +5782,10 @@
         "date": "1770-01-29",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4862,6 +5794,10 @@
         "date": "1770-01-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4870,6 +5806,10 @@
         "date": "1770-01-31",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4878,6 +5818,10 @@
         "date": "1770-02-02",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4886,6 +5830,10 @@
         "date": "1770-02-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4894,6 +5842,10 @@
         "date": "1770-02-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4902,6 +5854,10 @@
         "date": "1770-02-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4910,6 +5866,10 @@
         "date": "1770-02-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.53333333333333,
+            -185.25
+        ],
         "chapter": "In North Part of Cook's Strait.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4942,6 +5902,10 @@
         "date": "1770-02-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4950,6 +5914,10 @@
         "date": "1770-02-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4958,6 +5926,10 @@
         "date": "1770-02-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4966,6 +5938,10 @@
         "date": "1770-02-12",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4974,6 +5950,10 @@
         "date": "1770-02-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4982,6 +5962,10 @@
         "date": "1770-02-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4990,6 +5974,10 @@
         "date": "1770-02-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -4998,6 +5986,10 @@
         "date": "1770-02-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -41.5,
+            -184.78333333333333
+        ],
         "chapter": "Complete the Circuit of North Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5018,6 +6010,10 @@
         "date": "1770-02-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Banks Peninsula, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5026,6 +6022,10 @@
         "date": "1770-02-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Banks Peninsula, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5034,6 +6034,10 @@
         "date": "1770-02-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5042,6 +6046,10 @@
         "date": "1770-02-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5050,6 +6058,10 @@
         "date": "1770-02-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5058,6 +6070,10 @@
         "date": "1770-02-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5066,6 +6082,10 @@
         "date": "1770-02-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.11666666666667,
+            -186.5
+        ],
         "chapter": "Off Timaru, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5086,6 +6106,10 @@
         "date": "1770-02-26",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -45.916666666666664,
+            -189.06666666666666
+        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5094,6 +6118,10 @@
         "date": "1770-02-27",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -45.916666666666664,
+            -189.06666666666666
+        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5102,6 +6130,10 @@
         "date": "1770-02-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -45.916666666666664,
+            -189.06666666666666
+        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5122,6 +6154,10 @@
         "date": "1770-03-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5130,6 +6166,10 @@
         "date": "1770-03-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off Otago, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5138,6 +6178,10 @@
         "date": "1770-03-05",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5146,6 +6190,10 @@
         "date": "1770-03-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5154,6 +6202,10 @@
         "date": "1770-03-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5162,6 +6214,10 @@
         "date": "1770-03-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off South Part of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5170,6 +6226,10 @@
         "date": "1770-03-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -48,
+            -188
+        ],
         "chapter": "Off South Cape of New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5214,6 +6274,10 @@
         "date": "1770-03-13",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -47.666666666666664,
+            -193.83333333333334
+        ],
         "chapter": "Off South Cape of New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5234,6 +6298,10 @@
         "date": "1770-03-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -45.266666666666666,
+            -193.28333333333333
+        ],
         "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5242,6 +6310,10 @@
         "date": "1770-03-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -45.266666666666666,
+            -193.28333333333333
+        ],
         "chapter": "Off the New Zealand Sounds.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5262,6 +6334,10 @@
         "date": "1770-03-18",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44,
+            -3.2
+        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5270,6 +6346,10 @@
         "date": "1770-03-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -44,
+            -3.2
+        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5278,6 +6358,10 @@
         "date": "1770-03-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44,
+            -3.2
+        ],
         "chapter": "Off West Coast of Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5322,6 +6406,10 @@
         "date": "1770-03-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5330,6 +6418,10 @@
         "date": "1770-03-25",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5338,6 +6430,10 @@
         "date": "1770-03-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Off Cape Farewell, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5346,6 +6442,10 @@
         "date": "1770-03-27",
         "weather": "heavy-rain",
         "wind": "w",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5354,6 +6454,10 @@
         "date": "1770-03-28",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5362,6 +6466,10 @@
         "date": "1770-03-29",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5370,6 +6478,10 @@
         "date": "1770-03-30",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5378,6 +6490,10 @@
         "date": "1770-03-31",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "In Admiralty Bay, Middle Island, New Zealand.",
         "chapterBanner": "CHAPTER 6. EXPLORATION OF MIDDLE ISLAND OF NEW ZEALAND. "
     },
@@ -5386,6 +6502,10 @@
         "date": "1770-04-02",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5394,6 +6514,10 @@
         "date": "1770-04-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5402,6 +6526,10 @@
         "date": "1770-04-04",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5410,6 +6538,10 @@
         "date": "1770-04-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5418,6 +6550,10 @@
         "date": "1770-04-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -44.333333333333336,
+            -6.866666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5438,6 +6574,10 @@
         "date": "1770-04-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.38333333333333,
+            -196.73333333333332
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5446,6 +6586,10 @@
         "date": "1770-04-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -37.38333333333333,
+            -196.73333333333332
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5466,6 +6610,10 @@
         "date": "1770-04-11",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -38.85,
+            -202.71666666666667
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5498,6 +6646,10 @@
         "date": "1770-04-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.38333333333333,
+            -204.03333333333333
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5506,6 +6658,10 @@
         "date": "1770-04-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.38333333333333,
+            -204.03333333333333
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5514,6 +6670,10 @@
         "date": "1770-04-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.38333333333333,
+            -204.03333333333333
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5522,6 +6682,10 @@
         "date": "1770-04-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -39.38333333333333,
+            -204.03333333333333
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5530,6 +6694,10 @@
         "date": "1770-04-18",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -39.38333333333333,
+            -204.03333333333333
+        ],
         "chapter": "Historical Notes on New Zealand.",
         "chapterBanner": "CHAPTER 7. PASSAGE FROM NEW ZEALAND TO NEW HOLLAND. "
     },
@@ -5562,6 +6730,10 @@
         "date": "1770-04-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.81666666666667,
+            -209.91666666666666
+        ],
         "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5570,6 +6742,10 @@
         "date": "1770-04-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -35.81666666666667,
+            -209.91666666666666
+        ],
         "chapter": "Off Cape Dromedary, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5614,6 +6790,10 @@
         "date": "1770-04-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "Off Jervis Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5622,6 +6802,10 @@
         "date": "1770-04-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "Off Jervis Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5630,6 +6814,10 @@
         "date": "1770-04-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5638,6 +6826,10 @@
         "date": "1770-04-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5646,6 +6838,10 @@
         "date": "1770-05-02",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5654,6 +6850,10 @@
         "date": "1770-05-03",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5662,6 +6862,10 @@
         "date": "1770-05-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5670,6 +6874,10 @@
         "date": "1770-05-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.166666666666664,
+            -208.45
+        ],
         "chapter": "At Anchor, Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5690,6 +6898,10 @@
         "date": "1770-05-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -34,
+            -208.61666666666667
+        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5698,6 +6910,10 @@
         "date": "1770-05-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -34,
+            -208.61666666666667
+        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5706,6 +6922,10 @@
         "date": "1770-05-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -34,
+            -208.61666666666667
+        ],
         "chapter": "Description of Botany Bay, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5738,6 +6958,10 @@
         "date": "1770-05-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -32.233333333333334,
+            -207.33333333333334
+        ],
         "chapter": "Off Cape Hawke, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5758,6 +6982,10 @@
         "date": "1770-05-14",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -30.85,
+            -206.08333333333334
+        ],
         "chapter": "Off Cape Hawke, New South Wales.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5814,6 +7042,10 @@
         "date": "1770-05-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -25.566666666666666,
+            -206.75
+        ],
         "chapter": "Off Moreton Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5834,6 +7066,10 @@
         "date": "1770-05-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "Off Sandy Cape, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5842,6 +7078,10 @@
         "date": "1770-05-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "Off Sandy Cape, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5850,6 +7090,10 @@
         "date": "1770-05-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "At Anchor. Bustard Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5858,6 +7102,10 @@
         "date": "1770-05-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "At Anchor. Bustard Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5866,6 +7114,10 @@
         "date": "1770-05-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5874,6 +7126,10 @@
         "date": "1770-05-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5882,6 +7138,10 @@
         "date": "1770-05-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -24.766666666666666,
+            -206.85
+        ],
         "chapter": "Off Cape Capricorn, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5902,6 +7162,10 @@
         "date": "1770-05-29",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -22.216666666666665,
+            -209.8
+        ],
         "chapter": "Off Cape Townshend, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5922,6 +7186,10 @@
         "date": "1770-05-31",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -22.083333333333332,
+            -210.4
+        ],
         "chapter": "At Anchor, Thirsty Sound.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5930,6 +7198,10 @@
         "date": "1770-06-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -22.083333333333332,
+            -210.4
+        ],
         "chapter": "Off Cape Hillsborough, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5974,6 +7246,10 @@
         "date": "1770-06-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -19.65,
+            -212.53333333333333
+        ],
         "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5982,6 +7258,10 @@
         "date": "1770-06-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -19.65,
+            -212.53333333333333
+        ],
         "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -5990,6 +7270,10 @@
         "date": "1770-06-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -19.65,
+            -212.53333333333333
+        ],
         "chapter": "Off Cleveland Bay, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6022,6 +7306,10 @@
         "date": "1770-06-11",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "The Ship Aground on Endeavour Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6030,6 +7318,10 @@
         "date": "1770-06-12",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "The Ship Aground on Endeavour Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6038,6 +7330,10 @@
         "date": "1770-06-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Fothering the Ship.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6046,6 +7342,10 @@
         "date": "1770-06-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6054,6 +7354,10 @@
         "date": "1770-06-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6062,6 +7366,10 @@
         "date": "1770-06-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6070,6 +7378,10 @@
         "date": "1770-06-17",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6078,6 +7390,10 @@
         "date": "1770-06-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6086,6 +7402,10 @@
         "date": "1770-06-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6094,6 +7414,10 @@
         "date": "1770-06-20",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6102,6 +7426,10 @@
         "date": "1770-06-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "In Endeavour River, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6110,6 +7438,10 @@
         "date": "1770-06-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6118,6 +7450,10 @@
         "date": "1770-06-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6126,6 +7462,10 @@
         "date": "1770-06-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6134,6 +7474,10 @@
         "date": "1770-06-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6142,6 +7486,10 @@
         "date": "1770-06-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6150,6 +7498,10 @@
         "date": "1770-06-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6158,6 +7510,10 @@
         "date": "1770-06-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.1,
+            -214.65
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6178,6 +7534,10 @@
         "date": "1770-06-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6186,6 +7546,10 @@
         "date": "1770-07-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6194,6 +7558,10 @@
         "date": "1770-07-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6202,6 +7570,10 @@
         "date": "1770-07-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6210,6 +7582,10 @@
         "date": "1770-07-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6218,6 +7594,10 @@
         "date": "1770-07-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "Ship Beached in Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6226,6 +7606,10 @@
         "date": "1770-07-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6234,6 +7618,10 @@
         "date": "1770-07-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6242,6 +7630,10 @@
         "date": "1770-07-08",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6250,6 +7642,10 @@
         "date": "1770-07-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6258,6 +7654,10 @@
         "date": "1770-07-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6266,6 +7666,10 @@
         "date": "1770-07-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6274,6 +7678,10 @@
         "date": "1770-07-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6282,6 +7690,10 @@
         "date": "1770-07-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6290,6 +7702,10 @@
         "date": "1770-07-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6298,6 +7714,10 @@
         "date": "1770-07-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6306,6 +7726,10 @@
         "date": "1770-07-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6314,6 +7738,10 @@
         "date": "1770-07-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6322,6 +7750,10 @@
         "date": "1770-07-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6330,6 +7762,10 @@
         "date": "1770-07-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6338,6 +7774,10 @@
         "date": "1770-07-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6346,6 +7786,10 @@
         "date": "1770-07-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6354,6 +7798,10 @@
         "date": "1770-07-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6362,6 +7810,10 @@
         "date": "1770-07-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6370,6 +7822,10 @@
         "date": "1770-07-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6378,6 +7834,10 @@
         "date": "1770-07-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6386,6 +7846,10 @@
         "date": "1770-07-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6394,6 +7858,10 @@
         "date": "1770-07-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6402,6 +7870,10 @@
         "date": "1770-07-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6410,6 +7882,10 @@
         "date": "1770-07-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6418,6 +7894,10 @@
         "date": "1770-07-30",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6426,6 +7906,10 @@
         "date": "1770-07-31",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6434,6 +7918,10 @@
         "date": "1770-08-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6442,6 +7930,10 @@
         "date": "1770-08-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6450,6 +7942,10 @@
         "date": "1770-08-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.433333333333334,
+            -214.75
+        ],
         "chapter": "At Anchor, Endeavour River.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6470,6 +7966,10 @@
         "date": "1770-08-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.283333333333333,
+            -214.75
+        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6478,6 +7978,10 @@
         "date": "1770-08-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.283333333333333,
+            -214.75
+        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6486,6 +7990,10 @@
         "date": "1770-08-07",
         "weather": "cloudy",
         "wind": "",
+        "location": [
+            -15.283333333333333,
+            -214.75
+        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6494,6 +8002,10 @@
         "date": "1770-08-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.283333333333333,
+            -214.75
+        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6502,6 +8014,10 @@
         "date": "1770-08-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -15.283333333333333,
+            -214.75
+        ],
         "chapter": "At Anchor, Off Turtle Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6522,6 +8038,10 @@
         "date": "1770-08-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6530,6 +8050,10 @@
         "date": "1770-08-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6538,6 +8062,10 @@
         "date": "1770-08-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Off Cape Flattery, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6546,6 +8074,10 @@
         "date": "1770-08-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Pass Outside Barrier Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6554,6 +8086,10 @@
         "date": "1770-08-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Pass Outside Barrier Reef, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6562,6 +8098,10 @@
         "date": "1770-08-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Ship in Danger, Outside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6570,6 +8110,10 @@
         "date": "1770-08-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Pass Again Inside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6578,6 +8122,10 @@
         "date": "1770-08-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -14.916666666666666,
+            -214.71666666666667
+        ],
         "chapter": "Pass Again Inside Barrier Reef.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6598,6 +8146,10 @@
         "date": "1770-08-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -11.966666666666667,
+            -217.63333333333333
+        ],
         "chapter": "Nearing Cape York, Queensland.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6618,6 +8170,10 @@
         "date": "1770-08-22",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "Land upon Possession Island.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6626,6 +8182,10 @@
         "date": "1770-08-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "In Endeavour Strait, Torres Strait.",
         "chapterBanner": "CHAPTER 8. EXPLORATION OF EAST COAST OF AUSTRALIA. "
     },
@@ -6634,6 +8194,10 @@
         "date": "1770-08-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "Historical Notes, East Coast of Australia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6642,6 +8206,10 @@
         "date": "1770-08-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "Historical Notes, East Coast of Australia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6650,6 +8218,10 @@
         "date": "1770-08-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6658,6 +8230,10 @@
         "date": "1770-08-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.616666666666667,
+            -218.4
+        ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6678,6 +8254,10 @@
         "date": "1770-08-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -8.216666666666667,
+            -221.73333333333332
+        ],
         "chapter": "Off South Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6722,6 +8302,10 @@
         "date": "1770-09-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.233333333333333,
+            -222.5
+        ],
         "chapter": "Off Cape Walsche, New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6730,6 +8314,10 @@
         "date": "1770-09-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.233333333333333,
+            -222.5
+        ],
         "chapter": "Off South-west Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6750,6 +8338,10 @@
         "date": "1770-09-06",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -7.1,
+            -225
+        ],
         "chapter": "Off South-west Coast of New Guinea.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6782,6 +8374,10 @@
         "date": "1770-09-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -9.6,
+            -231.28333333333333
+        ],
         "chapter": "Remarks on Charts.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6790,6 +8386,10 @@
         "date": "1770-09-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -9.6,
+            -231.28333333333333
+        ],
         "chapter": "Remarks on Charts.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6810,6 +8410,10 @@
         "date": "1770-09-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -9.616666666666667,
+            -228.16666666666666
+        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6830,6 +8434,10 @@
         "date": "1770-09-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -9.566666666666666,
+            -234.2
+        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6838,6 +8446,10 @@
         "date": "1770-09-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -9.566666666666666,
+            -234.2
+        ],
         "chapter": "Off South Coast of Timor.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6870,6 +8482,10 @@
         "date": "1770-09-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.45,
+            -237.51666666666668
+        ],
         "chapter": "Anchor at Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6878,6 +8494,10 @@
         "date": "1770-09-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.45,
+            -237.51666666666668
+        ],
         "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6886,6 +8506,10 @@
         "date": "1770-09-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.45,
+            -237.51666666666668
+        ],
         "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6894,6 +8518,10 @@
         "date": "1770-09-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -10.45,
+            -237.51666666666668
+        ],
         "chapter": "At Anchor. Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6962,6 +8590,10 @@
         "date": "1770-09-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -11.166666666666666,
+            -245.00000016666667
+        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6982,6 +8614,10 @@
         "date": "1770-10-01",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6990,6 +8626,10 @@
         "date": "1770-10-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -6998,6 +8638,10 @@
         "date": "1770-10-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Sail from Savu.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7006,6 +8650,10 @@
         "date": "1770-10-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7014,6 +8662,10 @@
         "date": "1770-10-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7022,6 +8674,10 @@
         "date": "1770-10-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7030,6 +8686,10 @@
         "date": "1770-10-08",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7038,6 +8698,10 @@
         "date": "1770-10-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "In Sunda Strait.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7046,6 +8710,10 @@
         "date": "1770-10-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Arrival at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7054,6 +8722,10 @@
         "date": "1770-10-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7062,6 +8734,10 @@
         "date": "1770-10-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7070,6 +8746,10 @@
         "date": "1770-10-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7078,6 +8758,10 @@
         "date": "1770-10-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7086,6 +8770,10 @@
         "date": "1770-10-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7094,6 +8782,10 @@
         "date": "1770-10-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7102,6 +8794,10 @@
         "date": "1770-10-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7110,6 +8806,10 @@
         "date": "1770-10-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7118,6 +8818,10 @@
         "date": "1770-10-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7126,6 +8830,10 @@
         "date": "1770-10-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7134,6 +8842,10 @@
         "date": "1770-10-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7142,6 +8854,10 @@
         "date": "1770-10-23",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7150,6 +8866,10 @@
         "date": "1770-10-24",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7158,6 +8878,10 @@
         "date": "1770-10-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7166,6 +8890,10 @@
         "date": "1770-10-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Reports Sent Home from Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7174,6 +8902,10 @@
         "date": "1770-10-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7182,6 +8914,10 @@
         "date": "1770-10-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7190,6 +8926,10 @@
         "date": "1770-10-29",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7198,6 +8938,10 @@
         "date": "1770-11-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7206,6 +8950,10 @@
         "date": "1770-11-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7214,6 +8962,10 @@
         "date": "1770-11-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7222,6 +8974,10 @@
         "date": "1770-11-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7230,6 +8986,10 @@
         "date": "1770-11-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7238,6 +8998,10 @@
         "date": "1770-11-09",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7246,6 +9010,10 @@
         "date": "1770-11-10",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7254,6 +9022,10 @@
         "date": "1770-11-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7262,6 +9034,10 @@
         "date": "1770-11-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7270,6 +9046,10 @@
         "date": "1770-11-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7278,6 +9058,10 @@
         "date": "1770-11-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7286,6 +9070,10 @@
         "date": "1770-11-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7294,6 +9082,10 @@
         "date": "1770-11-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7302,6 +9094,10 @@
         "date": "1770-11-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7310,6 +9106,10 @@
         "date": "1770-11-26",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7318,6 +9118,10 @@
         "date": "1770-11-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Heaving down at Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7326,6 +9130,10 @@
         "date": "1770-11-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7334,6 +9142,10 @@
         "date": "1770-11-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7342,6 +9154,10 @@
         "date": "1770-11-25",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Batavia.",
         "chapterBanner": "CHAPTER 9. FROM TORRES STRAIT TO BATAVIA. "
     },
@@ -7398,6 +9214,10 @@
         "date": "1770-12-01",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7406,6 +9226,10 @@
         "date": "1770-12-02",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7414,6 +9238,10 @@
         "date": "1770-12-03",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7422,6 +9250,10 @@
         "date": "1770-12-04",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7430,6 +9262,10 @@
         "date": "1770-12-05",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Description of Batavia.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7438,6 +9274,10 @@
         "date": "1770-12-06",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Anchor. Princes Island, Sunda Strait.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7446,6 +9286,10 @@
         "date": "1770-12-07",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "At Anchor. Princes Island, Sunda Strait.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7454,6 +9298,10 @@
         "date": "1770-12-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -7.566666666666666,
+            -252.38333333333333
+        ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7690,6 +9538,10 @@
         "date": "1771-02-09",
         "weather": "",
         "wind": "s",
+        "location": [
+            -19.4,
+            -276.6666666666667
+        ],
         "chapter": "Batavia to Capetown.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7974,6 +9826,10 @@
         "date": "1771-03-06",
         "weather": "heavy-rain",
         "wind": "s",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7982,6 +9838,10 @@
         "date": "1771-03-07",
         "weather": "cloudy",
         "wind": "s",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7990,6 +9850,10 @@
         "date": "1771-03-08",
         "weather": "",
         "wind": "e",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -7998,6 +9862,10 @@
         "date": "1771-03-09",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8006,6 +9874,10 @@
         "date": "1771-03-10",
         "weather": "",
         "wind": "ne",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8014,6 +9886,10 @@
         "date": "1771-03-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -32,
+            -331.48333333333335
+        ],
         "chapter": "Off Coast of Natal.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8034,6 +9910,10 @@
         "date": "1771-03-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8042,6 +9922,10 @@
         "date": "1771-03-14",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8050,6 +9934,10 @@
         "date": "1771-03-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "Off Cape Agulhas.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8058,6 +9946,10 @@
         "date": "1771-03-16",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8066,6 +9958,10 @@
         "date": "1771-03-17",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8074,6 +9970,10 @@
         "date": "1771-03-18",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8082,6 +9982,10 @@
         "date": "1771-03-19",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8090,6 +9994,10 @@
         "date": "1771-03-20",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8098,6 +10006,10 @@
         "date": "1771-03-21",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8106,6 +10018,10 @@
         "date": "1771-03-22",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8114,6 +10030,10 @@
         "date": "1771-03-27",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8122,6 +10042,10 @@
         "date": "1771-03-28",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8130,6 +10054,10 @@
         "date": "1771-03-30",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8138,6 +10066,10 @@
         "date": "1771-03-31",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8146,6 +10078,10 @@
         "date": "1771-04-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8154,6 +10090,10 @@
         "date": "1771-04-03",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8162,6 +10102,10 @@
         "date": "1771-04-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8170,6 +10114,10 @@
         "date": "1771-04-05",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8178,6 +10126,10 @@
         "date": "1771-04-06",
         "weather": "heavy-rain",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8186,6 +10138,10 @@
         "date": "1771-04-07",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8194,6 +10150,10 @@
         "date": "1771-04-08",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8202,6 +10162,10 @@
         "date": "1771-04-09",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8210,6 +10174,10 @@
         "date": "1771-04-10",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8218,6 +10186,10 @@
         "date": "1771-04-11",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8226,6 +10198,10 @@
         "date": "1771-04-12",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8234,6 +10210,10 @@
         "date": "1771-04-13",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8242,6 +10222,10 @@
         "date": "1771-04-14",
         "weather": "",
         "wind": "w",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8250,6 +10234,10 @@
         "date": "1771-04-15",
         "weather": "",
         "wind": "",
+        "location": [
+            -34.96666666666667,
+            -339.3833333333333
+        ],
         "chapter": "At Anchor. Table Bay.",
         "chapterBanner": "CHAPTER 10. BATAVIA TO CAPE OF GOOD HOPE. "
     },
@@ -8426,6 +10414,10 @@
         "date": "1771-05-02",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.183333333333334,
+            -2.7
+        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -8434,6 +10426,10 @@
         "date": "1771-05-03",
         "weather": "",
         "wind": "s",
+        "location": [
+            -16.183333333333334,
+            -2.7
+        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -8442,6 +10438,10 @@
         "date": "1771-05-04",
         "weather": "",
         "wind": "",
+        "location": [
+            -16.183333333333334,
+            -2.7
+        ],
         "chapter": "Remarks on Cape of Good Hope.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -8666,6 +10666,10 @@
         "date": "1771-05-24",
         "weather": "heavy-rain",
         "wind": "ne",
+        "location": [
+            7.816666666666666,
+            -26.033333333333335
+        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -8806,6 +10810,10 @@
         "date": "1771-06-06",
         "weather": "",
         "wind": "e",
+        "location": [
+            24.516666666666666,
+            -41.18333333333333
+        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -9210,6 +11218,10 @@
         "date": "1771-07-11",
         "weather": "hazy",
         "wind": "",
+        "location": [
+            49.483333333333334,
+            -6.3
+        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -9218,6 +11230,10 @@
         "date": "1771-07-12",
         "weather": "",
         "wind": "",
+        "location": [
+            49.483333333333334,
+            -6.3
+        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     },
@@ -9226,6 +11242,10 @@
         "date": "1771-07-13",
         "weather": "",
         "wind": "",
+        "location": [
+            49.483333333333334,
+            -6.3
+        ],
         "chapter": "With India Fleet. Homeward Bound.",
         "chapterBanner": "CHAPTER 11. CAPE OF GOOD HOPE TO ENGLAND. "
     }

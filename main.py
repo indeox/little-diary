@@ -73,6 +73,7 @@ class EditionHandler(webapp2.RequestHandler):
         self.response.out.write(template.render(values))
 
 
+# http://remote.bergcloud.com/developers/reference/sample
 class SampleHandler(webapp2.RequestHandler):
     def get(self):
         # Extract values
@@ -84,6 +85,7 @@ class SampleHandler(webapp2.RequestHandler):
         self.response.out.write(template.render(values))
 
 
+#http://remote.bergcloud.com/developers/reference/validate_config
 class ValidateConfigHandler(webapp2.RequestHandler):
     def post(self):
         pass  # TODO
@@ -95,12 +97,28 @@ class ConfigureHandler(webapp2.RequestHandler):
         pass  # TODO
 
 
+class MainHandler(webapp2.RequestHandler):
+    def get(self, date):
+        # Extract values
+        values = {
+            'chapter': '',
+            'entry': '',
+            'date': '',
+            'location': '',
+            'weather': '',
+            'wind': '',
+        }
+        template = get_jinja2_template('templates/index.html')
+
+        self.response.out.write(template.render(values))
+
 urls = [
     ('^/meta.json$', MetaJsonHandler),
     ('^/edition/?$', EditionHandler),
     ('^/sample/?$', SampleHandler),
     ('^/validate_config/?$', ValidateConfigHandler),
     ('^/configure/?$', ConfigureHandler),
+    ('^/(\d{4}-\d{2}-\d{2})?$', MainHandler),
 ]
 
 app = webapp2.WSGIApplication(urls, debug=True)

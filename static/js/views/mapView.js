@@ -15,7 +15,7 @@ littlediary.Views.Map = Backbone.View.extend({
             self.map.addLayer(o.layer);
 
 
-            $.getJSON('/route.json', function(data, success, xhr){
+            $.getJSON('/api/route', function(data, success, xhr){
                 self.createRouteLayer(data);
             });
         });
@@ -31,7 +31,7 @@ littlediary.Views.Map = Backbone.View.extend({
         _.each(data, function(point) {
             var lat = parseFloat(point.location[0]),
                 lng = parseFloat(point.location[1]);
-
+                
             markers.push({
                 geometry: {
                     type: "Point",
@@ -48,6 +48,27 @@ littlediary.Views.Map = Backbone.View.extend({
             span.className = 'marker';
             return span;
         });
+
+        var nodes = this.$el.find('span.marker');
+        for (var i = 0, length = nodes.length; i < length; i++) {
+            var thisNode = nodes[i],
+                nextNode = nodes[i + 1];
+
+            if (nextNode) {
+                var pos1 = $(thisNode).position(),
+                    pos2 = $(nextNode).position();
+
+                var deltaY = pos2.top - pos1.top,
+                    deltaX = pos2.left - pos1.left;
+
+                var angle = Math.atan2(deltaY, deltaX) * 180 / Math.PI + 180;
+                
+                console.log(angle, deltaY, deltaX);
+
+                var transform = $(thisNode).css('-webkit-transform');
+                $(thisNode).css({'-webkit-transform': transform + 'rotate(' + angle + 'deg)'});
+            }
+        }
     }
 
 });

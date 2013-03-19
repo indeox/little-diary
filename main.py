@@ -42,7 +42,7 @@ def get_journal_date_for(date):
 
 def get_journal_entry(date):
     # Gets a journal entry for the given date
-    cache_key = 'entry-'+date
+    cache_key = 'entry-' + date
     journal_entry = memcache.get(cache_key)
     if journal_entry is not None:
         return journal_entry
@@ -106,7 +106,7 @@ class SampleHandler(webapp2.RequestHandler):
         self.response.out.write(template.render(values))
 
 
-#http://remote.bergcloud.com/developers/reference/validate_config
+# http://remote.bergcloud.com/developers/reference/validate_config
 class ValidateConfigHandler(webapp2.RequestHandler):
     def post(self):
         pass  # TODO
@@ -128,7 +128,6 @@ class RouteJsonHandler(webapp2.RequestHandler):
             json_data = json.loads(file(json_path, 'rb').read())
 
             route = []
-
             for key, entry in json_data.items():
                 if 'location' in entry:
                     route.append({
@@ -143,27 +142,30 @@ class RouteJsonHandler(webapp2.RequestHandler):
         self.response.out.write(json.dumps(route))
 
 
+# Get JSON for a diary entry
+class EntryJsonHandler(webapp2.RequestHandler):
+    def get(self, date):
+        values = get_journal_entry(date)
+        self.response.headers.add_header('Content-Type', 'application/json')
+        self.response.out.write(json.dumps(values))
+
+
 class MainHandler(webapp2.RequestHandler):
     def get(self, date):
-        format = self.request.get('format', None)
         values = {}
         if date:
             values = get_journal_entry(date)
-
-        if format == 'json':
-            self.response.headers.add_header('Content-Type', 'application/json')
-            self.response.out.write(json.dumps(values))
-        else:
-            template = get_jinja2_template('templates/index.html')
-            self.response.out.write(template.render(values))
+        template = get_jinja2_template('templates/index.html')
+        self.response.out.write(template.render(values))
 
 urls = [
     ('^/meta.json$', MetaJsonHandler),
-    ('^/route.json$', RouteJsonHandler),
     ('^/edition/?$', EditionHandler),
     ('^/sample/?$', SampleHandler),
     ('^/validate_config/?$', ValidateConfigHandler),
     ('^/configure/?$', ConfigureHandler),
+    ('^/api/route$', RouteJsonHandler),
+    ('^/api/entry/(\d{4}-\d{2}-\d{2})?$', EntryJsonHandler),
     ('^/(\d{4}-\d{2}-\d{2})?$', MainHandler),
 ]
 

@@ -112,8 +112,22 @@ textarea {
     height: 0; 
     border-left: 3px solid transparent;
     border-right: 3px solid transparent;
-    border-bottom: 6px solid black;
+    border-bottom: 6px solid rgba(0,0,0,0.5);
     -webkit-transform-origin: "50% 100%";
+}
+.marker span.no-movement {
+    border:none;
+    display: none;
+}
+.marker.ship {
+    width:42px;
+    height:28px;
+    margin-top:-14px;
+    margin-left:-21px;
+    background: transparent url(../img/ship.png) no-repeat 0 0;
+}
+.marker.ship span {
+    border:none;
 }
 
 /* Entry styles */

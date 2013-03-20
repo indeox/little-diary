@@ -78,8 +78,6 @@ class EditionHandler(webapp2.RequestHandler):
         delivery_time = self.request.get('local_delivery_time')
         delivery_count = int(self.request.get('delivery_count', 0))
 
-        # If delivery count is 0, show a welcome message
-
         # Find the entry of the day
         # 2013-03-16T19:20:30.45+01:00
         edition_date = delivery_time.split('T')[0]
@@ -87,6 +85,8 @@ class EditionHandler(webapp2.RequestHandler):
 
         # Extract values
         values = get_journal_entry(journal_date)
+
+        values['delivery_count'] = delivery_count
 
         template = get_jinja2_template('templates/edition.html')
 

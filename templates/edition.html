@@ -11,6 +11,14 @@
         <img src="/static/img/divider.png" class="divider">
         <img src="/static/img/header.png" class="cook">
 
+        {% if delivery_count == 0 %}
+            <div class="welcome">
+                <h3>Thanks for subscribing!</h2>
+                <p>Each day you will get a delivery of the day's entry in Captain Cook's journal.</p>
+                <p>The text is taken from Project Gutenberg and unmodified.</p>
+            </div>
+        {% endif %}
+
         <div class="entry">
             <div class="map-container">
                 {% if location %}

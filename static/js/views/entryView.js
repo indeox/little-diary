@@ -3,8 +3,8 @@ littlediary.Views.Entry = Backbone.View.extend({
     templateStr :   '<header>' +
                         '<h2 class="date"><%= date %></h2>' +
                         '<p class="chapter"><%= chapter %></p>' +
-                        '<span class="weather"><%= weather %></span>' +
-                        '<span class="wind"><%= wind %></span>' +
+                        //'<span class="weather"><%= weather %></span>' +
+                        //'<span class="wind"><%= wind %></span>' +
                     '</header>' +
                     '<p class="diary"><%= diary %></p>',
 

@@ -13,7 +13,8 @@ littlediary.Views.Map = Backbone.View.extend({
             self.map.center({ lat: 5, lon: -40 });
             self.map.zoom(2.5);
             self.map.addLayer(o.layer);
-
+            self.map.ui.zoomer.add();
+            self.map.ui.attribution.add();
 
             $.getJSON('/api/route', function(data, success, xhr){
                 self.createRouteLayer(data);

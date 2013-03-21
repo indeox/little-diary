@@ -34,6 +34,9 @@ var param_wsId = "od7";
 var param_ssKey = "0AoSK_apKEvePdE9Jck5aeG5qUzJwVXVXMzBETVVLVGc";
 var param_latColumn = "latitude";
 var param_lngColumn = "longitude";
+var param_dateColumn = "date";
+var param_titleColumn = "title";
+
 
 /**
  * Loads map and calls function to load in worksheet data.
@@ -80,9 +83,11 @@ function cm_loadMapJSON(json) {
     if(entry["gsx$" + param_latColumn]) {
       var lat = parseFloat(entry["gsx$" + param_latColumn].$t);
       var lng = parseFloat(entry["gsx$" + param_lngColumn].$t);
+      var date = entry["gsx$" + param_dateColumn].$t;
+      var title = entry["gsx$" + param_titleColumn].$t;
       var point = new GLatLng(lat,lng);
-      var html = "<div style='font-size:12px'>";
-      html += i + " " + lat + ", " + lng;
+      var html = "<div>";
+      html += title + "<div><em>" + date + ", " + i + "</em> lat:" + lat + ", long:" + lng + "</div>";
       html += "</div>";
       latlng.push(new google.maps.LatLng(lat, lng));
 

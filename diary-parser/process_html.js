@@ -2,13 +2,13 @@ var fs = require("fs"),
  	util = require("util"),
   xpath = require("xpath"),
   dom = require("xmldom").DOMParser,
-  moment = require("moment");
+  moment = require("moment"),
+  spreadsheet = require('edit-google-spreadsheet');
 
 
 var err = 0;
 
 var bookData = [];
-
 
 var contents = fs.readFileSync("diary.html", "utf8");
 var doc = new dom().parseFromString(contents);   
@@ -69,6 +69,32 @@ for (var i = 0; i < chaptersDom.length; i++) {
 
 fs.writeFileSync("output.js", JSON.stringify(diaryEntries, null, 4));
 fs.writeFileSync("latlong.js", csvLatLong(diaryEntries));
+
+var googSpreadsheet = spreadsheet.create({
+  spreadsheetId: '0AoSK_apKEvePdE9Jck5aeG5qUzJwVXVXMzBETVVLVGc',
+  worksheetId: 'od7',
+  username: process.env.GOOGLE_USERNAME,
+  password: process.env.GOOGLE_PASSWORD,
+  callback: function(err, sheet) {
+    if(err) throw err;
+
+    var rows = [];
+
+    rows.push(['date', 'title', 'address', 'latitude', 'longitude', 'description']);
+    for (var entry in diaryEntries) {
+      if (!diaryEntries[entry].location)
+        continue;
+      rows.push([entry, diaryEntries[entry].chapterBanner, '', diaryEntries[entry].location[0], diaryEntries[entry].location[1], 'desc']);
+    }
+    
+    sheet.add(rows);
+    sheet.send(function(err) {
+      if(err) throw err;
+      console.log("Updated " + rows.length + " cells");
+    });
+
+  }
+});
 //console.log(JSON.stringify(diaryEntries, null, 4));
 //csvLatLong(diaryEntries)
 

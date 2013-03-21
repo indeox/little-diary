@@ -22,19 +22,20 @@
         <div class="entry">
             <div class="map-container">
                 {% if location %}
-                <img src="http://api.tiles.mapbox.com/v3/henpe.map-puboj6e5/pin-m-ferry({{ location[1] }},{{ location[0] }})/-20,0,1/384x200.png" width="384" height="200" class="map" />
+                <img src="http://a.tiles.mapbox.com/v3/mapbox.world-blank-light/url-cooks-voyage.appspot.com%2Fstatic%2Fimg%2Fship_small.png({{ location[1] }},{{ location[0] }})/-20,0,1/384x200.png" width="384" height="200" class="map" />
                 {% else %}
-                <img src="http://api.tiles.mapbox.com/v3/henpe.map-puboj6e5/pin-m-ferry/-20,0,1/384x200.png" width="384" height="200" class="map" />
+                <img src="http://a.tiles.mapbox.com/v3/mapbox.world-blank-light/url-cooks-voyage.appspot.com%2Fstatic%2Fimg%2Fship_small.png/-20,0,1/384x200.png" width="384" height="200" class="map" />
                 <!-- no location data available -->
                 {% endif %}
             </div>
             <header>
             	<h2 class="date">{{ date }}</h2>
                 <p class="chapter">{{ chapter }}</p>
-            	<span class="weather">{{ weather }}</span>
-                <span class="wind">{{ wind }}</span>
+            	<span class="weather {{ weather }}"></span>
+                <span class="wind {{ wind }}"></span>
             </header>
             <p class="diary">{{ diary }}</p>
+            <p class="url">&raquo; http://cooks-voyage.appspot.com/{{ date }}</p>
         </div>
 
         <img src="/static/img/divider.png" class="divider">

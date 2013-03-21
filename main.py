@@ -84,7 +84,12 @@ class EditionHandler(webapp2.RequestHandler):
         journal_date = get_journal_date_for(edition_date)
 
         # Extract values
-        values = get_journal_entry(journal_date)
+        try:
+            values = get_journal_entry(journal_date)
+        except Exception, e:
+            self.error(404)
+            self.response.out.write('No diary entry for today')
+            return
 
         values['delivery_count'] = delivery_count
 

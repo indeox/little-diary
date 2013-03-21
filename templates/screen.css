@@ -94,7 +94,7 @@ h1 {
     background-position: -695px 0;
 }
 .entry {
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 
 }
 .map-container {
@@ -126,6 +126,10 @@ p {
 }
 .diary {
     margin-top: 28px;
+}
+.url {
+    margin-top:15px;
+    font-size: 18px;
 }
 .divider {
     margin: 8px 0;

@@ -26,6 +26,11 @@ body {
 em {
     color:#ccc;
 }
+a {
+    color:rgba(150,0,0,1);
+    text-decoration: none;
+    font-weight: bold;
+}
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
  * These selection rule sets have to be separate.
@@ -138,13 +143,18 @@ textarea {
     bottom:0;
     width:25%;
     background-color: rgba(255,255,255,0.8);
-    padding:10px 25px;
+    padding:10px 30px;
     overflow-y:auto;
 }
 .chapter {
     text-transform: lowercase;
     font-variant: small-caps;
     font-size: 1.4em;
+}
+#entry footer {
+    position: absolute;
+    bottom:10px;
+    left:30px;
 }
 
 /* ==========================================================================

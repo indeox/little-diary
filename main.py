@@ -104,7 +104,7 @@ class SampleHandler(webapp2.RequestHandler):
     def get(self):
         # Extract values
         # TODO: Let's find a special date for this one
-        values = get_journal_entry('1768-10-28')
+        values = get_journal_entry('1768-10-27')
 
         template = get_jinja2_template('templates/edition.html')
 

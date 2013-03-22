@@ -1,5 +1,5 @@
 application: cooks-voyage
-version: 1
+version: 2
 runtime: python27
 api_version: 1
 threadsafe: yes
@@ -21,7 +21,7 @@ handlers:
 
 libraries:
 - name: webapp2
-  version: "2.5.2"
+  version: latest
 
 - name: jinja2
   version: latest

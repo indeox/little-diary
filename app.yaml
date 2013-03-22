@@ -9,6 +9,10 @@ handlers:
   static_files: favicon.ico
   upload: favicon\.ico
 
+- url: /icon\.png
+  static_files: static/img/icon.png
+  upload: static/img/icon\.png
+
 - url: /static
   static_dir: static
 

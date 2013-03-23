@@ -23,13 +23,17 @@ body {
     line-height: 1.4;
     font-family: 'Old Standard TT', serif;
 }
-em {
-    color:#ccc;
-}
 a {
     color:rgba(150,0,0,1);
     text-decoration: none;
     font-weight: bold;
+}
+h2 {
+    margin: 0.5em 0 0.3em 0;
+}
+p {
+    margin: 0.5em 0;
+    line-height: 1.6;
 }
 /*
  * Remove text-shadow in selection highlight: h5bp.com/i
@@ -140,7 +144,7 @@ textarea {
     position: absolute;
     top:0;
     right:0;
-    bottom:0;
+    bottom:50px;
     width:25%;
     background-color: rgba(255,255,255,0.8);
     padding:10px 30px;
@@ -151,10 +155,15 @@ textarea {
     font-variant: small-caps;
     font-size: 1.4em;
 }
-#entry footer {
+footer {
     position: absolute;
-    bottom:10px;
-    left:30px;
+    bottom:0;
+    right:0;
+    width:25%;
+    height: 30px;
+    background-color: rgba(255,255,255,0.8);
+    padding:10px 30px;
+    border-top: 1px solid rgba(0,0,0,0.1);
 }
 
 /* ==========================================================================

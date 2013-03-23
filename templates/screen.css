@@ -34,7 +34,7 @@ h1 {
     margin-bottom: 6px;
 }
 .weather {
-    background: transparent url(/static/img/weather.png) -800px -200px no-repeat;
+    background: transparent url(http://cooksvoyage.com/static/img/weather.png) -800px -200px no-repeat;
     position: absolute;
     display: block;
     top:0;
@@ -58,7 +58,7 @@ h1 {
     background-position: -1500px -200px;
 }
 .wind {
-    background: transparent url(/static/img/wind.png) 0 0 no-repeat;
+    background: transparent url(http://cooksvoyage.com/static/img/wind.png) 0 0 no-repeat;
     position: absolute;
     display: block;
     top:0;

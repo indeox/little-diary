@@ -7,10 +7,7 @@ body {
     width: 384px;
 }
 .cook {
-    /*float: left;
-    width: 40px;
-    height: 40px;
-    margin-right: 8px;*/
+    margin-top: -8px;
 }
 
 header {
@@ -94,13 +91,13 @@ h1 {
     background-position: -695px 0;
 }
 .entry {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 
 }
 .map-container {
     /*background: transparent url('http://nysx.t.proxylocal.com/little-diary/img/frame-sides.png') repeat-y 0 0;*/
     position: relative;
-    margin-top: 10px;
+    margin-top: 5px;
     border-bottom: 1px solid #000;
     padding-bottom: 8px;
     margin-bottom: 8px;
@@ -115,7 +112,7 @@ h1 {
 }
 p {
     font-family: 'Times';
-    font-size: 20px;
+    font-size: 21px;
 }
 .chapter {
     font-style: italic;
@@ -125,11 +122,11 @@ p {
     margin: 0 25px;
 }
 .diary {
-    margin-top: 28px;
+    margin-top: 15px;
 }
 .url {
-    margin-top:15px;
-    font-size: 18px;
+    margin-top:10px;
+    font-size: 20px;
 }
 .divider {
     margin: 8px 0;

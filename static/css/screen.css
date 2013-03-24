@@ -173,7 +173,10 @@ textarea {
 .map-ui .ambient.active {
     background-image:url(../img/sound_on.png);
 }
-
+#map .map-attribution {
+    font-size: 1em;
+    background-color: rgba(255,255,255,0.4);
+}
 
 /* Entry styles */
 #entry {
@@ -330,7 +333,7 @@ footer {
         width:25%;
         height: 20px;
         padding:15px 30px;
-        border-top: 1px solid rgba(0,0,0,0.1);
+        border-top: 1px solid rgba(0,0,0,0.2);
     }    
 }
 

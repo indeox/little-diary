@@ -108,7 +108,7 @@ littlediary.Views.Map = Backbone.View.extend({
             audioSrc = audioNode.attr('src');
 
         // Loop audio
-        // Chrome/Firefbox don't seem to loop with the
+        // Chrome/Firefox don't seem to loop with the
         // loop attribute only, so we do it in JS
         audioNode.bind('timeupdate', function() {
             if (this.currentTime > 60) {

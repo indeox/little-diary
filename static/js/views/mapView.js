@@ -2,7 +2,13 @@ littlediary.Views.Map = Backbone.View.extend({
 
     initialize: function() {
         var self = this;
-        _.bindAll(this, 'render');
+        _.bindAll(this, 'handleAmbientSound', 'toggleAmbientSound', 'render');
+
+        this.handleAmbientSound();
+    },
+
+    events: {
+        'click .ambient' : 'toggleAmbientSound'
     },
 
     render: function() {
@@ -87,6 +93,45 @@ littlediary.Views.Map = Backbone.View.extend({
             }
             return div;
         });
+    },
+
+
+    toggleAmbientSound: function() {
+        this.ambientSound = (this.ambientSound == "true") ? "false" : "true"; // Strings, because that's how localStorage handles them
+        localStorage.setItem('ambient', this.ambientSound);
+
+        this.handleAmbientSound();
+    },
+
+    handleAmbientSound: function() {
+        var audioNode = $('.ambient-player'),
+            audioSrc = audioNode.attr('src');
+
+        // Loop audio
+        // Chrome/Firefbox don't seem to loop with the
+        // loop attribute only, so we do it in JS
+        audioNode.bind('timeupdate', function() {
+            if (this.currentTime > 60) {
+                this.src = audioSrc;
+                this.play();
+            }
+        });
+
+        this.ambientSound = localStorage.getItem('ambient');
+
+        if (this.ambientSound === "true") {
+            this.$('.ambient').addClass('active');
+            audioNode[0].volume = 0;
+            audioNode[0].loop = true;
+            audioNode[0].play();
+            audioNode.animate({volume: 1}, 2000);
+        } else {
+            this.$('.ambient').removeClass('active');
+            audioNode.animate({volume: 0}, 2000, 'swing', function() {
+                audioNode[0].pause();
+            });
+        }
+
     }
 
 });

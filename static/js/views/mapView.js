@@ -124,7 +124,7 @@ littlediary.Views.Map = Backbone.View.extend({
             audioNode[0].volume = 0;
             audioNode[0].loop = true;
             audioNode[0].play();
-            audioNode.animate({volume: 1}, 2000);
+            audioNode.animate({volume: 1}, 5000);
         } else {
             this.$('.ambient').removeClass('active');
             audioNode.animate({volume: 0}, 2000, 'swing', function() {

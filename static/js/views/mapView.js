@@ -16,11 +16,11 @@ littlediary.Views.Map = Backbone.View.extend({
 
         mapbox.load('aj.Sketchy2', function(o) {
             self.map = mapbox.map('map');
-            self.map.center({ lat: 5, lon: -40 });
+            self.map.center({ lat: 0, lon: 0 });
             self.map.zoom(2.5);
             self.map.addLayer(o.layer);
             self.map.ui.zoomer.add();
-            self.map.ui.attribution.add();
+            self.map.ui.attribution.add().content('Tiles by <a href="http://mapbox.com/about/maps">MapBox</a>');
 
             $.getJSON('/api/route', function(data, success, xhr){
                 self.createRouteLayer(data);
@@ -93,6 +93,9 @@ littlediary.Views.Map = Backbone.View.extend({
             }
             return div;
         });
+
+        var shipMarker = _.last(markers);
+        this.map.ease.location({lat: shipMarker.geometry.coordinates[1], lon: shipMarker.geometry.coordinates[0]}).zoom(2.5).optimal();
     },
 
 

@@ -6,7 +6,8 @@ littlediary.Views.Entry = Backbone.View.extend({
                         //'<span class="weather"><%= weather %></span>' +
                         //'<span class="wind"><%= wind %></span>' +
                     '</header>' +
-                    '<p class="diary"><%= diary %></p>',
+                    '<p class="diary"><%= diary %></p>' +
+                    '<p class="attribution">From the journals of <a href="http://www.gutenberg.org/ebooks/8106">Captain Cook\'s first voyage</a></p>',
 
     initialize: function(options) {
         var self = this;

@@ -21,6 +21,7 @@ import logging
 import os
 import webapp2
 import datetime
+import time
 from google.appengine.api import memcache
 
 
@@ -50,8 +51,17 @@ def get_journal_entry(date):
         json_path = os.path.join(os.path.split(__file__)[0], 'data.json')
         json_data = json.loads(file(json_path, 'rb').read())
         journal_entry = json_data[date]
+        journal_entry['prettyDate'] = pretty_date(date)
         memcache.add(cache_key, journal_entry, 60)
         return journal_entry
+
+def pretty_date(date):
+    # This is such a hack, as Python doesn't like dates before 1900
+    # returns in format: March 21st 1769
+    date = date.split('-')
+    conv = time.strptime(date[1]+"-"+date[2], "%m-%d")
+    suffix = 'th' if 11<=conv.tm_mday<=13 else {1:'st',2:'nd',3:'rd'}.get(conv.tm_mday%10, 'th')
+    return time.strftime('%B {S} '+date[0], conv).replace('{S}', str(conv.tm_mday) + suffix)
 
 
 # http://remote.bergcloud.com/developers/reference/metajson

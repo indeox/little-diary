@@ -325,6 +325,7 @@ footer {
         width:24%;
         overflow-y:auto;
         padding:10px 2%;
+        background: url(../img/paper.jpg);
     }
     footer {
         position: absolute;
@@ -334,6 +335,7 @@ footer {
         height: 20px;
         padding:15px 2%;
         border-top: 1px solid rgba(0,0,0,0.2);
+        background: url(../img/paper.jpg);
     }    
 }
 

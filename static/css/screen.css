@@ -100,12 +100,7 @@ textarea {
 /* Map styles */
 #map {
     width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    height: 170px;
 }
 .marker {
     width:4px;
@@ -182,13 +177,9 @@ textarea {
 
 /* Entry styles */
 #entry {
-    position: absolute;
-    top:0;
-    right:0;
-    bottom:50px;
-    width:25%;
+    position: relative;
     background-color: rgba(255,255,255,0.8);
-    padding:10px 30px;
+    padding:10px 15px;
     overflow-y:auto;
 }
 .chapter {
@@ -197,13 +188,9 @@ textarea {
     font-size: 1.4em;
 }
 footer {
-    position: absolute;
-    bottom:0;
-    right:0;
-    width:25%;
-    height: 30px;
+    position: relative;
     background-color: rgba(255,255,255,0.8);
-    padding:10px 30px;
+    padding:10px 15px;
     border-top: 1px solid rgba(0,0,0,0.1);
 }
 
@@ -315,7 +302,36 @@ footer {
    ========================================================================== */
 
 @media only screen and (min-width: 35em) {
-    /* Style adjustments for viewports that meet the condition */
+    /* Map styles */
+    #map {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+
+    /* Entry styles */
+    #entry {
+        position: absolute;
+        top:0;
+        right:0;
+        bottom:50px;
+        width:25%;
+        overflow-y:auto;
+        padding:10px 30px;
+    }
+    footer {
+        position: absolute;
+        bottom:0;
+        right:0;
+        width:25%;
+        height: 20px;
+        padding:15px 30px;
+        border-top: 1px solid rgba(0,0,0,0.1);
+    }    
 }
 
 @media print,

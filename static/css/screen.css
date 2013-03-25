@@ -127,15 +127,28 @@ textarea {
     border:none;
     display: none;
 }
+@-webkit-keyframes ship {
+  from { -webkit-transform: rotate(8deg); }
+  50% { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(-8deg); }
+}
+
 .marker.ship {
     width:42px;
     height:28px;
     margin-top:-14px;
     margin-left:-21px;
-    background: transparent url(../img/ship.png) no-repeat 0 0;
 }
 .marker.ship span {
     border:none;
+    width:42px;
+    height:28px;
+    margin-top:-14px;
+    margin-left:-21px;
+    display: block;    
+    background: transparent url(../img/ship.png) no-repeat 0 0;
+    -webkit-transform-origin:50% 50%;
+    -webkit-animation:ship 4s linear infinite alternate;
 }
 
 /* Custom map controls */

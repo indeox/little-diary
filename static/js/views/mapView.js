@@ -16,7 +16,7 @@ littlediary.Views.Map = Backbone.View.extend({
 
         mapbox.load('aj.Sketchy2', function(o) {
             self.map = mapbox.map('map');
-            self.map.center({ lat: 0, lon: 0 });
+            self.map.center({ lat: -50, lon: 0 });
             self.map.zoom(2.5);
             self.map.addLayer(o.layer);
             self.map.ui.zoomer.add();
@@ -92,6 +92,10 @@ littlediary.Views.Map = Backbone.View.extend({
                 $(span).addClass('no-movement');
             }
             return div;
+        });
+
+        this.markers.key(function(f) {
+            return f.id;
         });
 
         var shipMarker = _.last(markers);

@@ -6,6 +6,10 @@ body {
     font-family: 'Crimson';
     width: 384px;
 }
+a {
+    text-decoration: none;
+    color:#000;
+}
 .cook {
     margin-top: -8px;
 }
@@ -123,6 +127,10 @@ p {
 }
 .diary {
     margin-top: 15px;
+}
+.truncate_more_link {
+    font-size: 20px;
+    font-style: italic;    
 }
 .url {
     margin-top:10px;

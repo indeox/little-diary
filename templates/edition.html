@@ -5,6 +5,18 @@
         <style>
             {% include 'templates/screen.css' %}
         </style>
+        <script>
+            {% include 'templates/scripts.js' %}
+
+            $().ready(function() {
+                console.log($('.diary'));
+                $('.diary').jTruncate({
+                    length: 600,
+                    minTrail: 100,
+                    moreText: "<br>This entry is a bit too long for Little Printer. Read the the rest on: "                    
+                });  
+            });            
+        </script>
     </head>
 
     <body>

@@ -128,9 +128,14 @@ textarea {
     display: none;
 }
 @-webkit-keyframes ship {
-  from { -webkit-transform: rotate(8deg); }
-  50% { -webkit-transform: rotate(0deg); }
-  to { -webkit-transform: rotate(-8deg); }
+  from { -webkit-transform: rotate(8deg) translateZ(0); }
+  50% { -webkit-transform: rotate(0deg) translateZ(0); }
+  to { -webkit-transform: rotate(-8deg) translateZ(0); }
+}
+@keyframes ship {
+  from { transform: rotate(8deg) translateZ(0); }
+  50% { transform: rotate(0deg) translateZ(0); }
+  to { transform: rotate(-8deg) translateZ(0); }
 }
 
 .marker.ship {
@@ -149,6 +154,8 @@ textarea {
     background: transparent url(../img/ship.png) no-repeat 0 0;
     -webkit-transform-origin:50% 50%;
     -webkit-animation:ship 4s linear infinite alternate;
+    transform-origin:50% 50%;
+    animation:ship 4s linear infinite alternate;
 }
 
 /* Custom map controls */

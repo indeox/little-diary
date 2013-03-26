@@ -13,7 +13,7 @@ littlediary.Views.Application = Backbone.View.extend({
         // iOS doesn't allow media to play without user
         // action, so we default it to off
         var iOS = (navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
-        if (iOS == true) { this.ambientSound = "false"; }
+        if (iOS == true) { localStorage.setItem('ambient', 'false');}
         this.handleAmbientSound();
 
         this.render();

@@ -45,7 +45,8 @@ littlediary.Views.Application = Backbone.View.extend({
     },
 
 
-    toggleAmbientSound: function() {
+    toggleAmbientSound: function(e) {
+        e.preventDefault();
         this.ambientSound = (this.ambientSound == "true") ? "false" : "true"; // Strings, because that's how localStorage handles them
         localStorage.setItem('ambient', this.ambientSound);
 

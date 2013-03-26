@@ -28,7 +28,8 @@ h1 {
 .welcome {
     padding:10px;
     border: 1px dotted #000;
-    margin:10px 0;
+    margin:5px 0;
+    font-size: 18px;
 }
 .date {
     font-family: georgia;

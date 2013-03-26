@@ -97,7 +97,7 @@ class EditionHandler(webapp2.RequestHandler):
         try:
             values = get_journal_entry(journal_date)
         except Exception, e:
-            self.error(404)
+            self.error(204)
             self.response.out.write('No diary entry for today')
             return
 

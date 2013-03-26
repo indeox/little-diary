@@ -2,13 +2,9 @@ littlediary.Views.Map = Backbone.View.extend({
 
     initialize: function() {
         var self = this;
-        _.bindAll(this, 'handleAmbientSound', 'toggleAmbientSound', 'render');
+        _.bindAll(this, 'render');
 
-        this.handleAmbientSound();
-    },
 
-    events: {
-        'click .ambient' : 'toggleAmbientSound'
     },
 
     render: function() {
@@ -100,45 +96,6 @@ littlediary.Views.Map = Backbone.View.extend({
 
         var shipMarker = _.last(markers);
         this.map.ease.location({lat: shipMarker.geometry.coordinates[1], lon: shipMarker.geometry.coordinates[0]}).zoom(2.5).optimal();
-    },
-
-
-    toggleAmbientSound: function() {
-        this.ambientSound = (this.ambientSound == "true") ? "false" : "true"; // Strings, because that's how localStorage handles them
-        localStorage.setItem('ambient', this.ambientSound);
-
-        this.handleAmbientSound();
-    },
-
-    handleAmbientSound: function() {
-        var audioNode = $('.ambient-player'),
-            audioSrc = audioNode.attr('src');
-
-        // Loop audio
-        // Chrome/Firefox don't seem to loop with the
-        // loop attribute only, so we do it in JS
-        audioNode.bind('timeupdate', function() {
-            if (this.currentTime > 60) {
-                this.src = audioSrc;
-                this.play();
-            }
-        });
-
-        this.ambientSound = localStorage.getItem('ambient');
-
-        if (this.ambientSound === "true") {
-            this.$('.ambient').addClass('active');
-            audioNode[0].volume = 0;
-            audioNode[0].loop = true;
-            audioNode[0].play();
-            audioNode.animate({volume: 1}, 5000);
-        } else {
-            this.$('.ambient').removeClass('active');
-            audioNode.animate({volume: 0}, 2000, 'swing', function() {
-                audioNode[0].pause();
-            });
-        }
-
     }
 
 });

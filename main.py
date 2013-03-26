@@ -90,7 +90,11 @@ class EditionHandler(webapp2.RequestHandler):
 
         # Find the entry of the day
         # 2013-03-16T19:20:30.45+01:00
-        edition_date = delivery_time.split('T')[0]
+        if delivery_time != "":
+            edition_date = delivery_time.split('T')[0]
+        else:
+            edition_date = time.strftime("%Y-%m-%d")
+
         journal_date = get_journal_date_for(edition_date)
 
         # Extract values

@@ -109,7 +109,7 @@ class EditionHandler(webapp2.RequestHandler):
 
         template = get_jinja2_template('templates/edition.html')
 
-        self.response.headers.add_header('ETag', 'lazy-etag-%d')
+        self.response.headers.add_header('ETag', 'etag-'+str(edition_date))
         self.response.out.write(template.render(values))
 
 

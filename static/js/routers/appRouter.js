@@ -27,7 +27,6 @@ littlediary.Router.Application = Backbone.Router.extend({
     _trackPageview: function() {
         var url;
         url = Backbone.history.getFragment();
-        console.log('_trackPageview', url);
         return _gaq.push(['_trackPageview', "/" + url]);
     }
 });

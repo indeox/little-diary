@@ -16,7 +16,18 @@
         <meta property="og:site_name" content="Captain Cook's Voyage"/>
         <meta property="og:description" content="A daily entry from Captain Cook's Journal"/>
         <meta property="og:image" content="http://www.cooksvoyage.com/static/img/og_image.jpg"/>
-        <meta name="viewport" content="width=device-width">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0"/>
+
+        <!-- iOS App mode -->
+        <meta name="apple-mobile-web-app-title" content="Captain Cook">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <link rel="apple-touch-icon" href="/static/img/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/img/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/img/touch-icon-iphone4.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/img/touch-icon-ipad2.png">
+        <link rel="stylesheet" href="/static/css/add2home.css">
+
 
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
         <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
@@ -63,13 +74,14 @@
         <script src="/static/js/vendor/jquery.transit.min.js"></script>
 
         <script src="/static/js/app.js"></script>
+        <script type="text/javascript" src="/static/js/vendor/add2home.js" charset="utf-8"></script>
 
         <!-- Backbone -->
         <script src="/static/js/models/appModel.js"></script>
         <script src="/static/js/routers/appRouter.js"></script>
         <script src="/static/js/views/appView.js"></script>
         <script src="/static/js/models/entryModel.js"></script>
-        <script src="/static/js/collections/entryCollection.js"></script>        
+        <script src="/static/js/collections/entryCollection.js"></script>
         <script src="/static/js/views/entryView.js"></script>
         <script src="/static/js/views/mapView.js"></script>
 

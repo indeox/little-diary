@@ -22,3 +22,11 @@ window.littlediary = {
 $(document).ready(function(){
     littlediary.init();
 });
+
+
+// Add to homescreen config
+var addToHomeConfig = {
+    animationIn: 'bubble',
+    animationOut: 'drop',
+    touchIcon: true
+};

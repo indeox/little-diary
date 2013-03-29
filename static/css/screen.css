@@ -127,35 +127,17 @@ textarea {
     border:none;
     display: none;
 }
-@-webkit-keyframes ship {
-  from { -webkit-transform: rotate(8deg) translateZ(0); }
-  50% { -webkit-transform: rotate(0deg) translateZ(0); }
-  to { -webkit-transform: rotate(-8deg) translateZ(0); }
-}
-@keyframes ship {
-  from { transform: rotate(8deg) translateZ(0); }
-  50% { transform: rotate(0deg) translateZ(0); }
-  to { transform: rotate(-8deg) translateZ(0); }
-}
 
 .marker.ship {
     width:42px;
     height:28px;
     margin-top:-14px;
     margin-left:-21px;
+    display: block;
+    background: transparent url(../img/ship.png) no-repeat 0 0;
 }
 .marker.ship span {
     border:none;
-    width:42px;
-    height:28px;
-    margin-top:-14px;
-    margin-left:-21px;
-    display: block;
-    background: transparent url(../img/ship.png) no-repeat 0 0;
-    -webkit-transform-origin:50% 50%;
-    -webkit-animation:ship 4s linear infinite alternate;
-    transform-origin:50% 50%;
-    animation:ship 4s linear infinite alternate;
 }
 
 /* Custom map controls */
@@ -238,9 +220,15 @@ textarea {
     letter-spacing: 0.1em;
 }
 .diary {
-    padding-bottom: 1em;
     margin-bottom: 1em;
-    border-bottom: 1px dotted rgba(0,0,0,0.2);
+}
+.navigation {
+    padding-top: 1em;
+    margin-top: 1em;
+    border-top: 1px dotted rgba(0,0,0,0.2);
+}
+.next {
+    float:right;
 }
 .attribution {
     font-style: italic;

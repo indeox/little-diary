@@ -1,4 +1,4 @@
-littlediary.Routers.Application = Backbone.Router.extend({
+littlediary.Router.Application = Backbone.Router.extend({
 
     routes: {
         '':         'home',
@@ -9,7 +9,7 @@ littlediary.Routers.Application = Backbone.Router.extend({
     initialize: function(options) {
         if (options.model) { this.model = options.model; }
         if (options.view) { this.view = options.view; }
-        this.bind('all', this._trackPageview);
+        this.bind('route', this._trackPageview);
     },
 
     home: function() {

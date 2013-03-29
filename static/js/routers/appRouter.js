@@ -1,4 +1,4 @@
-littlediary.Routers.Application = Backbone.Router.extend({
+littlediary.Router.Application = Backbone.Router.extend({
 
     routes: {
         '':         'home',

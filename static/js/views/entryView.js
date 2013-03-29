@@ -1,4 +1,9 @@
-littlediary.Views.Entry = Backbone.View.extend({
+littlediary.View.Entry = Backbone.View.extend({
+
+    events : {
+        'click a.previous'  : 'onNavigate',
+        'click a.next'      : 'onNavigate'
+    },
 
     templateStr :   '<header>' +
                         '<h2 class="date"><%= date %></h2>' +
@@ -12,7 +17,11 @@ littlediary.Views.Entry = Backbone.View.extend({
                     '</p>' +
                     '<p class="attribution">From <a href="http://www.gutenberg.org/ebooks/8106">' +
                         'Captain Cook\'s Journal During His First Voyage Round the World' +
-                    '</a></p>',
+                    '</a></p>' +
+                    '<div class="navigation">' +
+                        '<a href="/<%= previous %>" class="previous">&larr;Previous</a>' +
+                        '<% if (next) { %> <a href="/<%= next %>" class="next">Next&rarr;</a> <% } %>' +
+                    '</div>',
 
     initialize: function(options) {
         var self = this;
@@ -26,15 +35,26 @@ littlediary.Views.Entry = Backbone.View.extend({
     render: function() {
         var node = this.$el.find('.content').empty();
 
-        var entry = this.model.get('currentEntry'),
+        var entries = this.model.get('entries'),
+            entry = this.model.get('currentEntry'),
+            previous = entries.at(entries.indexOf(entry) - 1),
+            next = entries.at(entries.indexOf(entry) + 1),
             values = entry.toJSON();
 
-        values.date = moment(values.date).format('MMMM Do YYYY');
+        values.date = moment(values.id).format('MMMM Do YYYY');
+        values.previous = (previous) ? previous.id : null;
+        values.next = (next && next.get('date') <= this.model.get('maxDate')) ? next.id : null;
 
         // Re-render;
         node.html(this.template(values));
-        
+
         return this;
+    },
+
+    onNavigate: function(e) {
+        var target = $(e.currentTarget);
+        app.router.navigate(target.attr('href'), {trigger: true});
+        e.preventDefault();
     }
 
 });

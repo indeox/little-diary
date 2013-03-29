@@ -1,22 +1,19 @@
-littlediary.Views.Application = Backbone.View.extend({
+littlediary.View.Application = Backbone.View.extend({
 
     initialize: function() {
         var self = this;
         _.bindAll(this, 'render', 'show');
 
         this.views = {
-            entry: new littlediary.Views.Entry({el: '#entry', model: this.model}),
-            map: new littlediary.Views.Map({el: '#map', model: this.model})
+            entry: new littlediary.View.Entry({el: '#entry', model: this.model}),
+            map: new littlediary.View.Map({el: '#map', model: this.model})
         };
-
 
         // iOS doesn't allow media to play without user
         // action, so we default it to off
         var iOS = (navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
         if (iOS == true) { localStorage.setItem('ambient', 'false');}
         this.handleAmbientSound();
-
-        this.render();
     },
 
     events: {

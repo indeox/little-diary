@@ -1,4 +1,4 @@
-littlediary.Views.Map = Backbone.View.extend({
+littlediary.View.Map = Backbone.View.extend({
 
     initialize: function() {
         var self = this;
@@ -18,19 +18,18 @@ littlediary.Views.Map = Backbone.View.extend({
             self.map.ui.zoomer.add();
             self.map.ui.attribution.add().content('Tiles by <a href="http://mapbox.com/about/maps">MapBox</a>');
 
-            $.getJSON('/api/route', function(data, success, xhr){
-                self.createRouteLayer(data);
-            });
+            self.createRouteLayer();
         });
 
         return this;
     },
 
-    createRouteLayer: function(data) {
+    createRouteLayer: function() {
         this.markers = mapbox.markers.layer();
         this.map.addLayer(this.markers);
 
         var markers = [],
+            data = this.model.get('entries').toJSON(),
             entry = this.model.get('currentEntry'),
             currentDate = entry.get('date');
 

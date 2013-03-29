@@ -28,5 +28,6 @@ $(document).ready(function(){
 var addToHomeConfig = {
     animationIn: 'bubble',
     animationOut: 'drop',
+    returningVisitor: true,
     touchIcon: true
 };

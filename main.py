@@ -97,6 +97,9 @@ class EditionHandler(webapp2.RequestHandler):
 
         journal_date = get_journal_date_for(edition_date)
 
+        # Add ETag header
+        self.response.headers.add_header('ETag', 'etag-'+str(edition_date))
+
         # Extract values
         try:
             values = get_journal_entry(journal_date)
@@ -109,7 +112,6 @@ class EditionHandler(webapp2.RequestHandler):
 
         template = get_jinja2_template('templates/edition.html')
 
-        self.response.headers.add_header('ETag', 'etag-'+str(edition_date))
         self.response.out.write(template.render(values))
 
 

@@ -212,6 +212,7 @@ textarea {
     text-transform: lowercase;
     font-variant: small-caps;
     font-size: 1.5em;
+    line-height: 1;
 }
 .date {
     font-family: "MutluOrnamental";

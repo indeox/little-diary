@@ -9,10 +9,10 @@ littlediary.Model.Application = Backbone.Model.extend({
     initialize: function() {
         var currentDate = new Date(),
             year = {
-                '2013' : '1769',
-                '2014' : '1770',
-                '2015' : '1771',
-                '2016' : '1772'
+                '2015' : '1769',
+                '2016' : '1770',
+                '2017' : '1771',
+                '2018' : '1772'
             };
 
         this.set('maxDate', new Date(year[currentDate.getFullYear()], currentDate.getMonth(), currentDate.getDate()));

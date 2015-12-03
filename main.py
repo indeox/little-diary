@@ -33,7 +33,7 @@ def get_jinja2_template(path):
 
 def get_journal_date_for(date):
     # Returns a journal date for a given present date
-    start_year = 2012
+    start_year = 2015
     journal_start_year = 1768
     date = date.split('-')
     journal_date = (journal_start_year + (int(date[0]) - start_year))

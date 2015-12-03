@@ -33,10 +33,10 @@ littlediary.View.Application = Backbone.View.extend({
                 var currentYear = new Date().getFullYear(),
                     currentDate = new moment().format("YYYY-MM-DD"),
                     yearMap = {
-                        '2013' : '1769',
-                        '2014' : '1770',
-                        '2015' : '1771',
-                        '2016' : '1772'
+                        '2015' : '1769',
+                        '2016' : '1770',
+                        '2017' : '1771',
+                        '2018' : '1772'
                     };
                 date = currentDate.replace(currentYear, yearMap[currentYear]);
             }

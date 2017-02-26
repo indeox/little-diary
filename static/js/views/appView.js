@@ -42,6 +42,7 @@ littlediary.View.Application = Backbone.View.extend({
             }
             this.$el.addClass('loading');
             this.model.fetchEntry(date).done(function() {
+                self.views.map.updateRouteLayer();
                 self.views.entry.render();
                 self.$el.removeClass('loading');
             });

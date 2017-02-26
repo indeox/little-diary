@@ -4,27 +4,63 @@ littlediary.View.Map = Backbone.View.extend({
         var self = this;
         _.bindAll(this, 'render');
 
-
+        this.tileJson = {
+            "attribution": "",
+            "bounds": [
+                -180,
+                -85.0511,
+                180,
+                85.0511
+            ],
+            "center": [
+                0,
+                0,
+                2
+            ],
+            "created": 1362415763000,
+            "description": "",
+            "download": "https://a.tiles.mapbox.com/v3/aj.Sketchy2.mbtiles",
+            "embed": "https://a.tiles.mapbox.com/v3/aj.Sketchy2.html",
+            "filesize": 232957952,
+            "id": "aj.Sketchy2",
+            "mapbox_logo": true,
+            "maxzoom": 6,
+            "minzoom": 0,
+            "name": "Pirate Map",
+            "private": false,
+            "scheme": "xyz",
+            "template": "",
+            "tilejson": "2.2.0",
+            "tiles": [
+                "https://a.tiles.mapbox.com/v3/aj.Sketchy2/{z}/{x}/{y}.png",
+                "https://b.tiles.mapbox.com/v3/aj.Sketchy2/{z}/{x}/{y}.png"
+            ],
+            "version": "1.0.0",
+            "webpage": "https://a.tiles.mapbox.com/v3/aj.Sketchy2/page.html"
+        };
     },
 
     render: function() {
         var self = this;
 
-        mapbox.load('aj.Sketchy2', function(o) {
-            self.map = mapbox.map('map');
-            self.map.center({ lat: -50, lon: 0 });
-            self.map.zoom(2.5);
-            self.map.addLayer(o.layer);
-            self.map.ui.zoomer.add();
-            self.map.ui.attribution.add().content('Tiles by <a href="http://mapbox.com/about/maps">MapBox</a>');
+        mapbox.MAPBOX_URL = mapbox.MAPBOX_URL.replace('http:', 'https:');
 
-            self.createRouteLayer();
-        });
+        this.map = mapbox.map('map');
+        this.map.lay
+        this.map.center({ lat: -50, lon: 0 });
+        this.map.zoom(2.5);
+        this.map.addLayer(mapbox.layer().tilejson(this.tileJson));
+        this.map.ui.zoomer.add();
+        this.map.ui.attribution.add().content('Tiles by <a href="http://mapbox.com/about/maps">MapBox</a>');
 
         return this;
     },
 
-    createRouteLayer: function() {
+    updateRouteLayer: function() {
+        if (this.markers) {
+            this.map.removeLayer(this.markers);
+        }
+
         this.markers = mapbox.markers.layer();
         this.map.addLayer(this.markers);
 

@@ -25,7 +25,16 @@ littlediary.Model.Application = Backbone.Model.extend({
     },
 
     fetchEntry: function(date) {
-        var entry = this.get('entries').get(date);
+        var entries = _.sortBy(this.get('entries').models, 'id');
+
+        // Remove all entries up till the required date
+        entries = entries.filter(function(entry) {
+            return moment(entry.get('date')).isSameOrBefore(date);
+        })
+
+        // Pick last entry
+        var entry = _.last(entries);
+
         this.set({currentEntry: entry}, {silent: true});
         return entry.fetch();
     }

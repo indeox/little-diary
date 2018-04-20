@@ -30,15 +30,11 @@ littlediary.View.Application = Backbone.View.extend({
 
         if (route === 'entry') {
             if (!date) {
-                var currentYear = new Date().getFullYear(),
-                    currentDate = new moment().format("YYYY-MM-DD"),
-                    yearMap = {
-                        '2015' : '1769',
-                        '2016' : '1770',
-                        '2017' : '1771',
-                        '2018' : '1772'
-                    };
-                date = currentDate.replace(currentYear, yearMap[currentYear]);
+                var currentYear = new Date().getFullYear();
+                var availableYears = ['1768', '1769', '1770', '1771'];
+                var currentYear = availableYears[currentYear % 4];
+
+                date = new moment().year(currentYear).format("YYYY-MM-DD");
             }
             this.$el.addClass('loading');
             this.model.fetchEntry(date).done(function() {

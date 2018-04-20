@@ -7,15 +7,11 @@ littlediary.Model.Application = Backbone.Model.extend({
     },
 
     initialize: function() {
-        var currentDate = new Date(),
-            year = {
-                '2015' : '1769',
-                '2016' : '1770',
-                '2017' : '1771',
-                '2018' : '1772'
-            };
+        var currentDate = new Date();
+        var availableYears = ['1768', '1769', '1770', '1771'];
+        var currentYear = availableYears[currentDate.getFullYear() % 4];
 
-        this.set('maxDate', new Date(year[currentDate.getFullYear()], currentDate.getMonth(), currentDate.getDate()));
+        this.set('maxDate', new Date(currentYear, currentDate.getMonth(), currentDate.getDate()));
     },
 
     fetchEntries: function() {

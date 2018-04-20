@@ -32,7 +32,7 @@ littlediary.View.Application = Backbone.View.extend({
             if (!date) {
                 var currentYear = new Date().getFullYear();
                 var availableYears = ['1768', '1769', '1770', '1771'];
-                var currentYear = availableYears[currentYear % 4];
+                currentYear = availableYears[currentYear % 4];
 
                 date = new moment().year(currentYear).format("YYYY-MM-DD");
             }
